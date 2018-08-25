@@ -1,0 +1,304 @@
+[{
+		"ID": "Faction",
+		"Rule": [{
+				"Part": [
+					"Compound_Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"Land",
+					"of",
+					"Noun_Plural"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"Kingdom"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Noun_Singular",
+					"Kingdom"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Verb_PastParticiple",
+					"Land"
+				]
+			}
+		]
+	},
+	{
+		"ID": "Squad",
+		"Rule": [{
+				"Part": [
+					"The",
+					"Verb_PresentParticiple",
+					"Noun_Plural"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Verb_PresentParticiple",
+					"Noun_Plural",
+					"Of",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"Noun_Plural"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Verb_PastParticiple",
+					"Noun_Plural"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"Noun_Plural",
+					"Of",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"Adjective",
+					"Noun_Plural"
+				]
+			},
+			{
+				"Part": [
+					"Verb_PastParticiple",
+					"Noun_Plural"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"ActionNoun_Plural"
+				]
+			},
+			{
+				"Part": [
+					"Adjective",
+					"ActionNoun_Plural"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"ActionNoun_Plural",
+					"Of",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Compound_ActionNoun_Plural",
+					"Of",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Compound_ActionNoun_Plural"
+				]
+			}
+		]
+	},
+	{
+		"ID": "Item",
+		"Rule": [{
+				"Part": [
+					"The",
+					"Noun_Singular",
+					"Of",
+					"The_Noun"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"Noun_Singular",
+					"Of",
+					"The_Noun"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"ActionNoun_Singular",
+					"Of",
+					"The_Noun"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"ActionNoun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Verb_PresentParticiple",
+					"Of",
+					"The_Noun"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Verb_PresentParticiple",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Verb_PastParticiple",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Verb_PastParticiple",
+					"ActionNoun"
+				]
+			},
+			{
+				"Part": "Compound_Noun_Singular"
+			},
+			{
+				"Part": [
+					"The",
+					"Compound_Noun_Singular"
+				]
+			},
+			{
+				"Part": "Compound_ActionNoun_Singular"
+			},
+			{
+				"Part": [
+					"The",
+					"Compound_ActionNoun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Compound_Verb_PresentParticiple"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"GenericNoun",
+					"Of",
+					"Noun"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Verb_PresentParticiple",
+					"GenericNoun"
+				]
+			},
+			{
+				"Part": [
+					"The",
+					"Adjective",
+					"GenericNoun"
+				]
+			}
+		]
+	},
+	{
+		"ID": "EnemyName",
+		"Rule": [{
+				"Part": [
+					"ProperNoun",
+					"The",
+					"Compound_ActionNoun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"ProperNoun",
+					"The",
+					"ActionNoun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"ProperNoun",
+					"The",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"ProperNoun",
+					"The",
+					"Verb_PresentParticiple",
+					"Noun_Singular"
+				]
+			},
+			{
+				"Part": [
+					"ProperNoun",
+					"The",
+					"GenericNoun",
+					"Of",
+					"Noun"
+				]
+			},
+			{
+				"Part": [
+					"ProperNoun",
+					"The",
+					"Adjective",
+					"GenericNoun"
+				]
+			}
+		]
+	}
+]

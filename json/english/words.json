@@ -1,0 +1,11610 @@
+[{
+		"Word": "ace",
+		"Noun": {
+			"Singular": "ace",
+			"Plural": "aces"
+		},
+		"Verb": {
+			"Verb": "ace",
+			"SimplePresent": "aces",
+			"SimplePast": "aced",
+			"PastParticiple": "aced",
+			"PresentParticiple": "acing"
+		},
+		"Adjective": {
+			"Adjective": "ace"
+		},
+		"ActionNoun": {
+			"Singular": "acer",
+			"Plural": "acers"
+		}
+	},
+	{
+		"Word": "act",
+		"Noun": {
+			"Singular": "act",
+			"Plural": "acts"
+		},
+		"Verb": {
+			"Verb": "act",
+			"SimplePresent": "acts",
+			"SimplePast": "acted",
+			"PastParticiple": "acted",
+			"PresentParticiple": "acting"
+		},
+		"ActionNoun": {
+			"Singular": "actor",
+			"Plural": "actors"
+		}
+	},
+	{
+		"Word": "adventure",
+		"Noun": {
+			"Singular": "adventure",
+			"Plural": "adventures"
+		},
+		"Verb": {
+			"Verb": "adventure",
+			"SimplePresent": "adventures",
+			"SimplePast": "adventured",
+			"PastParticiple": "adventured",
+			"PresentParticiple": "adventuring"
+		},
+		"ActionNoun": {
+			"Singular": "adventurer",
+			"Plural": "adventurers"
+		}
+	},
+	{
+		"Word": "age",
+		"Noun": {
+			"Singular": "age",
+			"Plural": "ages"
+		},
+		"Verb": {
+			"Verb": "age",
+			"SimplePresent": "ages",
+			"SimplePast": "aged",
+			"PastParticiple": "aged",
+			"PresentParticiple": "aging"
+		},
+		"Adjective": {
+			"Adjective": "aging"
+		}
+	},
+	{
+		"Word": "ageless",
+		"Adjective": {
+			"Adjective": "ageless"
+		}
+	},
+	{
+		"Word": "ale",
+		"Noun": {
+			"Singular": "ale",
+			"Plural": "ales"
+		}
+	},
+	{
+		"Word": "alive",
+		"Adjective": {
+			"Adjective": "alive"
+		}
+	},
+	{
+		"Word": "apple",
+		"Noun": {
+			"Singular": "apple",
+			"Plural": "apples"
+		}
+	},
+	{
+		"Word": "ancient",
+		"Noun": {
+			"Singular": "ancient",
+			"Plural": "ancients"
+		},
+		"Adjective": {
+			"Adjective": "ancient"
+		}
+	},
+	{
+		"Word": "angel",
+		"Noun": {
+			"Singular": "angel",
+			"Plural": "angels"
+		},
+		"Adjective": {
+			"Adjective": "angelic"
+		}
+	},
+	{
+		"Word": "anger",
+		"Noun": {
+			"Singular": "anger",
+			"Plural": "angers"
+		},
+		"Verb": {
+			"Verb": "anger",
+			"SimplePresent": "angers",
+			"SimplePast": "angered",
+			"PastParticiple": "angered",
+			"PresentParticiple": "angering"
+		},
+		"Adjective": {
+			"Adjective": "angery"
+		}
+	},
+	{
+		"Word": "animal",
+		"Noun": {
+			"Singular": "animal",
+			"Plural": "animals"
+		},
+		"Adjective": {
+			"Adjective": "animalistic"
+		}
+	},
+	{
+		"Word": "arm",
+		"Noun": {
+			"Singular": "arm",
+			"Plural": "arms"
+		},
+		"Verb": {
+			"Verb": "arm",
+			"SimplePresent": "arms",
+			"SimplePast": "armed",
+			"PastParticiple": "armed",
+			"PresentParticiple": "arming"
+		}
+	},
+	{
+		"Word": "armor",
+		"Noun": {
+			"Singular": "armor",
+			"Plural": "armors"
+		},
+		"Verb": {
+			"Verb": "armor",
+			"SimplePresent": "armors",
+			"SimplePast": "armored",
+			"PastParticiple": "armored",
+			"PresentParticiple": "armoring"
+		},
+		"Adjective": {
+			"Adjective": "armored"
+		},
+		"ActionNoun": {
+			"Singular": "armorer",
+			"Plural": "armorers"
+		}
+	},
+	{
+		"Word": "arrow",
+		"Noun": {
+			"Singular": "arrow",
+			"Plural": "arrows"
+		}
+	},
+	{
+		"Word": "artifact",
+		"Noun": {
+			"Singular": "artifact",
+			"Plural": "artifacts"
+		}
+	},
+	{
+		"Word": "artificial",
+		"Adjective": {
+			"Adjective": "artificial"
+		}
+	},
+	{
+		"Word": "ash",
+		"Noun": {
+			"Singular": "ash",
+			"Plural": "ashes"
+		},
+		"Adjective": {
+			"Adjective": "ashen"
+		}
+	},
+	{
+		"Word": "aura",
+		"Noun": {
+			"Singular": "aura",
+			"Plural": "auras"
+		}
+	},
+	{
+		"Word": "axe",
+		"Noun": {
+			"Singular": "axe",
+			"Plural": "axes"
+		},
+		"Verb": {
+			"Verb": "axe",
+			"SimplePresent": "axes",
+			"SimplePast": "axed",
+			"PastParticiple": "axed",
+			"PresentParticiple": "axing"
+		},
+		"ActionNoun": {
+			"Singular": "axer",
+			"Plural": "axers"
+		}
+	},
+	{
+		"Word": "baby",
+		"Noun": {
+			"Singular": "baby",
+			"Plural": "babies"
+		},
+		"Verb": {
+			"Verb": "baby",
+			"SimplePresent": "babies",
+			"SimplePast": "babied",
+			"PastParticiple": "babied",
+			"PresentParticiple": "babying"
+		}
+	},
+	{
+		"Word": "back",
+		"Noun": {
+			"Singular": "back",
+			"Plural": "backs"
+		},
+		"Verb": {
+			"Verb": "back",
+			"SimplePresent": "backs",
+			"SimplePast": "backed",
+			"PastParticiple": "backed",
+			"PresentParticiple": "backing"
+		},
+		"ActionNoun": {
+			"Singular": "backer",
+			"Plural": "backers"
+		}
+	},
+	{
+		"Word": "bad",
+		"Adjective": {
+			"Adjective": "bad"
+		}
+	},
+	{
+		"Word": "bake",
+		"Noun": {
+			"Singular": "baker",
+			"Plural": "bakers"
+		},
+		"Verb": {
+			"Verb": "bake",
+			"SimplePresent": "bakes",
+			"SimplePast": "baked",
+			"PastParticiple": "baked",
+			"PresentParticiple": "baking"
+		}
+	},
+	{
+		"Word": "bald",
+		"Noun": {
+			"Singular": "baldness",
+			"Plural": "baldnesses"
+		},
+		"Verb": {
+			"Verb": "bald",
+			"SimplePresent": "balds",
+			"SimplePast": "balded",
+			"PastParticiple": "balded",
+			"PresentParticiple": "balding"
+		},
+		"Adjective": {
+			"Adjective": "bald"
+		}
+	},
+	{
+		"Word": "ball",
+		"Noun": {
+			"Singular": "ball",
+			"Plural": "balls"
+		}
+	},
+	{
+		"Word": "bane",
+		"Noun": {
+			"Singular": "bane",
+			"Plural": "banes"
+		}
+	},
+	{
+		"Word": "bar",
+		"Noun": {
+			"Singular": "bar",
+			"Plural": "bars"
+		}
+	},
+	{
+		"Word": "bare",
+		"Verb": {
+			"Verb": "bare",
+			"SimplePresent": "bares",
+			"SimplePast": "bared",
+			"PastParticiple": "bared",
+			"PresentParticiple": "baring"
+		}
+	},
+	{
+		"Word": "barb",
+		"Noun": {
+			"Singular": "barb",
+			"Plural": "barbs"
+		},
+		"Adjective": {
+			"Adjective": "barbed"
+		},
+		"ActionNoun": {
+			"Singular": "barber",
+			"Plural": "barbers"
+		}
+	},
+	{
+		"Word": "bastard",
+		"Noun": {
+			"Singular": "bastard",
+			"Plural": "bastards"
+		},
+		"Verb": {
+			"Verb": "bastardize",
+			"SimplePresent": "bastardizes",
+			"SimplePast": "bastardized",
+			"PastParticiple": "bastardized",
+			"PresentParticiple": "bastardizing"
+		}
+	},
+	{
+		"Word": "bath",
+		"Noun": {
+			"Singular": "bath",
+			"Plural": "baths"
+		},
+		"Verb": {
+			"Verb": "bathe",
+			"SimplePresent": "bathes",
+			"SimplePast": "bathed",
+			"PastParticiple": "bathed",
+			"PresentParticiple": "bathing"
+		},
+		"ActionNoun": {
+			"Singular": "bather",
+			"Plural": "bathers"
+		}
+	},
+	{
+		"Word": "battle",
+		"Noun": {
+			"Singular": "battle",
+			"Plural": "battles"
+		},
+		"Verb": {
+			"Verb": "battle",
+			"SimplePresent": "battles",
+			"SimplePast": "battled",
+			"PastParticiple": "battled",
+			"PresentParticiple": "battling"
+		},
+		"ActionNoun": {
+			"Singular": "battler",
+			"Plural": "battlers"
+		}
+	},
+	{
+		"Word": "beak",
+		"Noun": {
+			"Singular": "beak",
+			"Plural": "beaks"
+		}
+	},
+	{
+		"Word": "beast",
+		"Noun": {
+			"Singular": "beast",
+			"Plural": "beasts"
+		},
+		"Adjective": {
+			"Adjective": "beastly"
+		}
+	},
+	{
+		"Word": "bear_animal",
+		"Noun": {
+			"Singular": "bear",
+			"Plural": "bears"
+		}
+	},
+	{
+		"Word": "bear",
+		"Verb": {
+			"Verb": "bear",
+			"SimplePresent": "bears",
+			"SimplePast": "bore",
+			"PastParticiple": "born",
+			"PresentParticiple": "bearing"
+		},
+		"ActionNoun": {
+			"Singular": "bearer",
+			"Plural": "bearers"
+		}
+	},
+	{
+		"Word": "bed",
+		"Noun": {
+			"Singular": "bed",
+			"Plural": "beds"
+		}
+	},
+	{
+		"Word": "bee",
+		"Noun": {
+			"Singular": "bee",
+			"Plural": "bee"
+		}
+	},
+	{
+		"Word": "beer",
+		"Noun": {
+			"Singular": "beer",
+			"Plural": "beers"
+		}
+	},
+	{
+		"Word": "beetle",
+		"Noun": {
+			"Singular": "beetle",
+			"Plural": "beetles"
+		}
+	},
+	{
+		"Word": "beguil",
+		"Noun": {
+			"Singular": "beguiler",
+			"Plural": "beguilers"
+		},
+		"Verb": {
+			"Verb": "beguil",
+			"SimplePresent": "beguils",
+			"SimplePast": "beguiled",
+			"PastParticiple": "beguiled",
+			"PresentParticiple": "beguiling"
+		},
+		"Adjective": {
+			"Adjective": "beguiling"
+		}
+	},
+	{
+		"Word": "behead",
+		"Noun": {
+			"Singular": "beheading",
+			"Plural": "beheadings"
+		},
+		"Verb": {
+			"Verb": "behead",
+			"SimplePresent": "beheads",
+			"SimplePast": "beheaded",
+			"PastParticiple": "beheaded",
+			"PresentParticiple": "beheading"
+		},
+		"ActionNoun": {
+			"Singular": "beheader",
+			"Plural": "beheaders"
+		}
+	},
+	{
+		"Word": "belch",
+		"Noun": {
+			"Singular": "belch",
+			"Plural": "belches"
+		},
+		"Verb": {
+			"Verb": "belch",
+			"SimplePresent": "belches",
+			"SimplePast": "belched",
+			"PastParticiple": "belched",
+			"PresentParticiple": "belching"
+		},
+		"ActionNoun": {
+			"Singular": "belcher",
+			"Plural": "belchers"
+		}
+	},
+	{
+		"Word": "berry",
+		"Noun": {
+			"Singular": "berry",
+			"Plural": "berries"
+		}
+	},
+	{
+		"Word": "bewitch",
+		"Verb": {
+			"Verb": "bewitch",
+			"SimplePresent": "bewitches",
+			"SimplePast": "bewitched",
+			"PastParticiple": "bewitched",
+			"PresentParticiple": "bewitching"
+		},
+		"ActionNoun": {
+			"Singular": "bewitcher",
+			"Plural": "bewitchers"
+		}
+	},
+	{
+		"Word": "big",
+		"Adjective": {
+			"Adjective": "big"
+		}
+	},
+	{
+		"Word": "bile",
+		"Noun": {
+			"Singular": "bile",
+			"Plural": "biles"
+		}
+	},
+	{
+		"Word": "bin",
+		"Noun": {
+			"Singular": "bin",
+			"Plural": "bins"
+		}
+	},
+	{
+		"Word": "bird",
+		"Noun": {
+			"Singular": "bird",
+			"Plural": "birds"
+		}
+	},
+	{
+		"Word": "bitch",
+		"Noun": {
+			"Singular": "bitch",
+			"Plural": "bitches"
+		},
+		"Verb": {
+			"Verb": "bitch",
+			"SimplePresent": "bitches",
+			"SimplePast": "bitched",
+			"PastParticiple": "bitched",
+			"PresentParticiple": "bitching"
+		},
+		"Adjective": {
+			"Adjective": "bitchy"
+		},
+		"ActionNoun": {
+			"Singular": "bitcher",
+			"Plural": "bitchers"
+		}
+	},
+	{
+		"Word": "black",
+		"Noun": {
+			"Singular": "blackness",
+			"Plural": "blacknessess"
+		},
+		"Verb": {
+			"Verb": "blacken",
+			"SimplePresent": "blackens",
+			"SimplePast": "blackened",
+			"PastParticiple": "blackened",
+			"PresentParticiple": "blackening"
+		},
+		"Adjective": {
+			"Adjective": "black"
+		},
+		"ActionNoun": {
+			"Singular": "blackener",
+			"Plural": "blackeners"
+		}
+	},
+	{
+		"Word": "blade",
+		"Noun": {
+			"Singular": "blade",
+			"Plural": "blades"
+		}
+	},
+	{
+		"Word": "blaze",
+		"Noun": {
+			"Singular": "blaze",
+			"Plural": "blazes"
+		},
+		"Verb": {
+			"Verb": "blaze",
+			"SimplePresent": "blazes",
+			"SimplePast": "blazed",
+			"PastParticiple": "blazed",
+			"PresentParticiple": "blazing"
+		},
+		"Adjective": {
+			"Adjective": "blazing"
+		},
+		"ActionNoun": {
+			"Singular": "blazer",
+			"Plural": "blazers"
+		}
+	},
+	{
+		"Word": "blind",
+		"Noun": {
+			"Singular": "blindness",
+			"Plural": "blindnesses"
+		},
+		"Verb": {
+			"Verb": "blind",
+			"SimplePresent": "blinds",
+			"SimplePast": "blinded",
+			"PastParticiple": "blinded",
+			"PresentParticiple": "blinding"
+		},
+		"Adjective": {
+			"Adjective": "blind"
+		},
+		"ActionNoun": {
+			"Singular": "blinder",
+			"Plural": "blinders"
+		}
+	},
+	{
+		"Word": "blister",
+		"Noun": {
+			"Singular": "blister",
+			"Plural": "blisters"
+		},
+		"Verb": {
+			"Verb": "blister",
+			"SimplePresent": "blisters",
+			"SimplePast": "blistered",
+			"PastParticiple": "blistered",
+			"PresentParticiple": "blistering"
+		},
+		"Adjective": {
+			"Adjective": "blistering"
+		},
+		"ActionNoun": {
+			"Singular": "blisterer",
+			"Plural": "blisterers"
+		}
+	},
+	{
+		"Word": "bloat",
+		"Noun": {
+			"Singular": "bloat",
+			"Plural": "bloats"
+		},
+		"Verb": {
+			"Verb": "bloat",
+			"SimplePresent": "bloats",
+			"SimplePast": "bloated",
+			"PastParticiple": "bloated",
+			"PresentParticiple": "bloating"
+		},
+		"Adjective": {
+			"Adjective": "bloated"
+		},
+		"ActionNoun": {
+			"Singular": "bloater",
+			"Plural": "bloaters"
+		}
+	},
+	{
+		"Word": "blood",
+		"Noun": {
+			"Singular": "blood",
+			"Plural": "blood"
+		},
+		"Verb": {
+			"Verb": "bleed",
+			"SimplePresent": "bleeds",
+			"SimplePast": "bled",
+			"PastParticiple": "bled",
+			"PresentParticiple": "bleeding"
+		},
+		"Adjective": {
+			"Adjective": "bleeding"
+		},
+		"ActionNoun": {
+			"Singular": "bleeder",
+			"Plural": "bleeders"
+		}
+	},
+	{
+		"Word": "bloody",
+		"Noun": {
+			"Singular": "bloodiness",
+			"Plural": "bloodinesses"
+		},
+		"Adjective": {
+			"Adjective": "bloody"
+		}
+	},
+	{
+		"Word": "blossom",
+		"Noun": {
+			"Singular": "blossom",
+			"Plural": "blossoms"
+		},
+		"Verb": {
+			"Verb": "blossom",
+			"SimplePresent": "blossoms",
+			"SimplePast": "blossomed",
+			"PastParticiple": "blossomed",
+			"PresentParticiple": "blossoming"
+		},
+		"Adjective": {
+			"Adjective": "blossoming"
+		},
+		"ActionNoun": {
+			"Singular": "blossomer",
+			"Plural": "blossomers"
+		}
+	},
+	{
+		"Word": "blue",
+		"Adjective": {
+			"Adjective": "blue"
+		}
+	},
+	{
+		"Word": "boar",
+		"Noun": {
+			"Singular": "boar",
+			"Plural": "boars"
+		}
+	},
+	{
+		"Word": "boat",
+		"Noun": {
+			"Singular": "boat",
+			"Plural": "boats"
+		}
+	},
+	{
+		"Word": "bodice",
+		"Noun": {
+			"Singular": "bodice",
+			"Plural": "bodices"
+		}
+	},
+	{
+		"Word": "bog",
+		"Noun": {
+			"Singular": "bog",
+			"Plural": "bogs"
+		}
+	},
+	{
+		"Word": "boil",
+		"Noun": {
+			"Singular": "boil",
+			"Plural": "boils"
+		},
+		"Verb": {
+			"Verb": "boil",
+			"SimplePresent": "boils",
+			"SimplePast": "boiled",
+			"PastParticiple": "boiled",
+			"PresentParticiple": "boiling"
+		},
+		"Adjective": {
+			"Adjective": "boiling"
+		},
+		"ActionNoun": {
+			"Singular": "boiler",
+			"Plural": "boilers"
+		}
+	},
+	{
+		"Word": "bold",
+		"Noun": {
+			"Singular": "boldness",
+			"Plural": "boldnesses"
+		},
+		"Adjective": {
+			"Adjective": "bold"
+		},
+		"ActionNoun": {
+			"Singular": "emboldener",
+			"Plural": "emboldeners"
+		}
+	},
+	{
+		"Word": "bolt",
+		"Noun": {
+			"Singular": "bolt",
+			"Plural": "bolts"
+		},
+		"Verb": {
+			"Verb": "bolt",
+			"SimplePresent": "bolts",
+			"SimplePast": "bolted",
+			"PastParticiple": "bolted",
+			"PresentParticiple": "bolting"
+		},
+		"Adjective": {
+			"Adjective": "bolted"
+		},
+		"ActionNoun": {
+			"Singular": "boltener",
+			"Plural": "bolteners"
+		}
+	},
+	{
+		"Word": "bone",
+		"Noun": {
+			"Singular": "bone",
+			"Plural": "bones"
+		},
+		"Adjective": {
+			"Adjective": "boned"
+		}
+	},
+	{
+		"Word": "book",
+		"Noun": {
+			"Singular": "book",
+			"Plural": "books"
+		}
+	},
+	{
+		"Word": "boot",
+		"Noun": {
+			"Singular": "boot",
+			"Plural": "boots"
+		},
+		"Verb": {
+			"Verb": "boot",
+			"SimplePresent": "boot",
+			"SimplePast": "booted",
+			"PastParticiple": "booted",
+			"PresentParticiple": "booting"
+		},
+		"ActionNoun": {
+			"Singular": "booter",
+			"Plural": "booters"
+		}
+	},
+	{
+		"Word": "bother",
+		"Verb": {
+			"Verb": "bother",
+			"SimplePresent": "bothers",
+			"SimplePast": "bothered",
+			"PastParticiple": "bothered",
+			"PresentParticiple": "bothering"
+		},
+		"Adjective": {
+			"Adjective": "bothering"
+		},
+		"ActionNoun": {
+			"Singular": "botherer",
+			"Plural": "botherers"
+		}
+	},
+	{
+		"Word": "bow",
+		"Noun": {
+			"Singular": "bow",
+			"Plural": "bows"
+		},
+		"Verb": {
+			"Verb": "bow",
+			"SimplePresent": "bows",
+			"SimplePast": "bowed",
+			"PastParticiple": "bowed",
+			"PresentParticiple": "bowing"
+		},
+		"ActionNoun": {
+			"Singular": "bower",
+			"Plural": "bowers"
+		}
+	},
+	{
+		"Word": "brain",
+		"Noun": {
+			"Singular": "brain",
+			"Plural": "brains"
+		},
+		"Verb": {
+			"Verb": "brain",
+			"SimplePresent": "brains",
+			"SimplePast": "brained",
+			"PastParticiple": "brained",
+			"PresentParticiple": "braining"
+		}
+	},
+	{
+		"Word": "breach",
+		"Noun": {
+			"Singular": "breach",
+			"Plural": "breaches"
+		},
+		"Verb": {
+			"Verb": "breach",
+			"SimplePresent": "breaches",
+			"SimplePast": "breached",
+			"PastParticiple": "breached",
+			"PresentParticiple": "breaching"
+		},
+		"ActionNoun": {
+			"Singular": "breacher",
+			"Plural": "breachers"
+		}
+	},
+	{
+		"Word": "breeches",
+		"Noun": {
+			"Singular": "breeches",
+			"Plural": "breeches"
+		}
+	},
+	{
+		"Word": "bread",
+		"Noun": {
+			"Singular": "bread",
+			"Plural": "breads"
+		}
+	},
+	{
+		"Word": "break",
+		"Noun": {
+			"Singular": "break",
+			"Plural": "breaks"
+		},
+		"Verb": {
+			"Verb": "break",
+			"SimplePresent": "breaks",
+			"SimplePast": "broke",
+			"PastParticiple": "broken",
+			"PresentParticiple": "breaking"
+		},
+		"Adjective": {
+			"Adjective": "broken"
+		},
+		"ActionNoun": {
+			"Singular": "breaker",
+			"Plural": "breakers"
+		}
+	},
+	{
+		"Word": "breakfast",
+		"Noun": {
+			"Singular": "breakfast",
+			"Plural": "breakfasts"
+		}
+	},
+	{
+		"Word": "breath",
+		"Noun": {
+			"Singular": "breath",
+			"Plural": "breaths"
+		},
+		"Verb": {
+			"Verb": "breathe",
+			"SimplePresent": "breathes",
+			"SimplePast": "breathed",
+			"PastParticiple": "breathed",
+			"PresentParticiple": "breathing"
+		},
+		"ActionNoun": {
+			"Singular": "breather",
+			"Plural": "breathers"
+		}
+	},
+	{
+		"Word": "breed",
+		"Noun": {
+			"Singular": "breed",
+			"Plural": "breeds"
+		},
+		"Verb": {
+			"Verb": "breed",
+			"SimplePresent": "breeds",
+			"SimplePast": "bred",
+			"PastParticiple": "bred",
+			"PresentParticiple": "breeding"
+		},
+		"ActionNoun": {
+			"Singular": "breeder",
+			"Plural": "breeders"
+		}
+	},
+	{
+		"Word": "brew",
+		"Noun": {
+			"Singular": "brew",
+			"Plural": "brews"
+		},
+		"Verb": {
+			"Verb": "brew",
+			"SimplePresent": "brews",
+			"SimplePast": "brewed",
+			"PastParticiple": "brewed",
+			"PresentParticiple": "brewing"
+		},
+		"ActionNoun": {
+			"Singular": "brew",
+			"Plural": "brewer"
+		}
+	},
+	{
+		"Word": "bride",
+		"Noun": {
+			"Singular": "bride",
+			"Plural": "brides"
+		}
+	},
+	{
+		"Word": "bridle",
+		"Noun": {
+			"Singular": "bridle",
+			"Plural": "bridles"
+		},
+		"Verb": {
+			"Verb": "bridle",
+			"SimplePresent": "bridles",
+			"SimplePast": "bridled",
+			"PastParticiple": "bridled",
+			"PresentParticiple": "bridling"
+		},
+		"Adjective": {
+			"Adjective": "bridled"
+		},
+		"ActionNoun": {
+			"Singular": "bridler",
+			"Plural": "bridlers"
+		}
+	},
+	{
+		"Word": "bright",
+		"Noun": {
+			"Singular": "brightness",
+			"Plural": "brightnesses"
+		},
+		"Verb": {
+			"Verb": "brighten",
+			"SimplePresent": "brightens",
+			"SimplePast": "brighten",
+			"PastParticiple": "brightened",
+			"PresentParticiple": "brightening"
+		},
+		"Adjective": {
+			"Adjective": "bright"
+		},
+		"ActionNoun": {
+			"Singular": "brightener",
+			"Plural": "brighteners"
+		}
+	},
+	{
+		"Word": "bristle",
+		"Noun": {
+			"Singular": "bristle",
+			"Plural": "bristles"
+		},
+		"Verb": {
+			"Verb": "bristle",
+			"SimplePresent": "bristles",
+			"SimplePast": "bristled",
+			"PastParticiple": "bristled",
+			"PresentParticiple": "bristling"
+		},
+		"Adjective": {
+			"Adjective": "bristled"
+		},
+		"ActionNoun": {
+			"Singular": "bristler",
+			"Plural": "bristlers"
+		}
+	},
+	{
+		"Word": "brilliant",
+		"Noun": {
+			"Singular": "brilliance",
+			"Plural": "brilliances"
+		},
+		"Adjective": {
+			"Adjective": "brilliant"
+		}
+	},
+	{
+		"Word": "brim",
+		"Noun": {
+			"Singular": "brim",
+			"Plural": "brims"
+		},
+		"Verb": {
+			"Verb": "brim",
+			"SimplePresent": "brims",
+			"SimplePast": "brimmed",
+			"PastParticiple": "brimmed",
+			"PresentParticiple": "brimming"
+		}
+	},
+	{
+		"Word": "bring",
+		"Verb": {
+			"Verb": "bring",
+			"SimplePresent": "brings",
+			"SimplePast": "brought",
+			"PastParticiple": "brought",
+			"PresentParticiple": "bringing"
+		},
+		"ActionNoun": {
+			"Singular": "bringer",
+			"Plural": "bringers"
+		}
+	},
+	{
+		"Word": "broil",
+		"Verb": {
+			"Verb": "broil",
+			"SimplePresent": "broils",
+			"SimplePast": "broiled",
+			"PastParticiple": "broiled",
+			"PresentParticiple": "broiling"
+		},
+		"Adjective": {
+			"Adjective": "broiled"
+		},
+		"ActionNoun": {
+			"Singular": "broiler",
+			"Plural": "broilers"
+		}
+	},
+	{
+		"Word": "brother",
+		"Noun": {
+			"Singular": "brother",
+			"Plural": "brothers"
+		}
+	},
+	{
+		"Word": "brunch",
+		"Noun": {
+			"Singular": "brunch",
+			"Plural": "brunches"
+		}
+	},
+	{
+		"Word": "buck",
+		"Noun": {
+			"Singular": "buck",
+			"Plural": "bucks"
+		},
+		"Verb": {
+			"Verb": "buck",
+			"SimplePresent": "bucks",
+			"SimplePast": "bucked",
+			"PastParticiple": "bucked",
+			"PresentParticiple": "bucking"
+		},
+		"ActionNoun": {
+			"Singular": "bucker",
+			"Plural": "buckers"
+		}
+	},
+	{
+		"Word": "buckle",
+		"Noun": {
+			"Singular": "buckle",
+			"Plural": "buckles"
+		},
+		"Verb": {
+			"Verb": "buckle",
+			"SimplePresent": "buckles",
+			"SimplePast": "buckled",
+			"PastParticiple": "buckled",
+			"PresentParticiple": "buckling"
+		},
+		"Adjective": {
+			"Adjective": "buckled"
+		},
+		"ActionNoun": {
+			"Singular": "buckler",
+			"Plural": "bucklers"
+		}
+	},
+	{
+		"Word": "bud",
+		"Noun": {
+			"Singular": "bud",
+			"Plural": "buds"
+		}
+	},
+	{
+		"Word": "bunch",
+		"Noun": {
+			"Singular": "bunch",
+			"Plural": "bunches"
+		},
+		"Verb": {
+			"Verb": "bunch",
+			"SimplePresent": "bunches",
+			"SimplePast": "bunched",
+			"PastParticiple": "bunched",
+			"PresentParticiple": "bunching"
+		},
+		"Adjective": {
+			"Adjective": "bunched"
+		}
+	},
+	{
+		"Word": "burden",
+		"Noun": {
+			"Singular": "burden",
+			"Plural": "burdens"
+		},
+		"Verb": {
+			"Verb": "burden",
+			"SimplePresent": "burdens",
+			"SimplePast": "burdened",
+			"PastParticiple": "burdened",
+			"PresentParticiple": "burdening"
+		},
+		"Adjective": {
+			"Adjective": "burdened"
+		},
+		"ActionNoun": {
+			"Singular": "burdener",
+			"Plural": "burdeners"
+		}
+	},
+	{
+		"Word": "burn",
+		"Noun": {
+			"Singular": "burn",
+			"Plural": "burns"
+		},
+		"Verb": {
+			"Verb": "burn",
+			"SimplePresent": "burns",
+			"SimplePast": "burned",
+			"PastParticiple": "burned",
+			"PresentParticiple": "burning"
+		},
+		"Adjective": {
+			"Adjective": "burned"
+		},
+		"ActionNoun": {
+			"Singular": "burner",
+			"Plural": "burners"
+		}
+	},
+	{
+		"Word": "bury",
+		"Noun": {
+			"Singular": "burial",
+			"Plural": "burials"
+		},
+		"Verb": {
+			"Verb": "bury",
+			"SimplePresent": "buries",
+			"SimplePast": "buried",
+			"PastParticiple": "buried",
+			"PresentParticiple": "burying"
+		},
+		"Adjective": {
+			"Adjective": "buried"
+		},
+		"ActionNoun": {
+			"Singular": "burier",
+			"Plural": "buriers"
+		}
+	},
+	{
+		"Word": "bush",
+		"Noun": {
+			"Singular": "bush",
+			"Plural": "bushes"
+		}
+	},
+	{
+		"Word": "bushel",
+		"Noun": {
+			"Singular": "bushel",
+			"Plural": "bushels"
+		},
+		"Verb": {
+			"Verb": "bushel",
+			"SimplePresent": "bushels",
+			"SimplePast": "busheled",
+			"PastParticiple": "busheled",
+			"PresentParticiple": "busheling"
+		},
+		"Adjective": {
+			"Adjective": "busheled"
+		},
+		"ActionNoun": {
+			"Singular": "busheler",
+			"Plural": "bushelers"
+		}
+	},
+	{
+		"Word": "bust",
+		"Noun": {
+			"Singular": "bust",
+			"Plural": "busts"
+		},
+		"Verb": {
+			"Verb": "bust",
+			"SimplePresent": "busts",
+			"SimplePast": "busted",
+			"PastParticiple": "busted",
+			"PresentParticiple": "busting"
+		},
+		"Adjective": {
+			"Adjective": "busted"
+		},
+		"ActionNoun": {
+			"Singular": "buster",
+			"Plural": "busters"
+		}
+	},
+	{
+		"Word": "business",
+		"Noun": {
+			"Singular": "business",
+			"Plural": "businesses"
+		}
+	},
+	{
+		"Word": "busy",
+		"Noun": {
+			"Singular": "busyness",
+			"Plural": "busynesses"
+		},
+		"Verb": {
+			"Verb": "busy",
+			"SimplePresent": "busies",
+			"SimplePast": "busied",
+			"PastParticiple": "busied",
+			"PresentParticiple": "busying"
+		},
+		"Adjective": {
+			"Adjective": "busy"
+		}
+	},
+	{
+		"Word": "bustle",
+		"Verb": {
+			"Verb": "bustle",
+			"SimplePresent": "bustles",
+			"SimplePast": "bustled",
+			"PastParticiple": "bustled",
+			"PresentParticiple": "bustling"
+		},
+		"ActionNoun": {
+			"Singular": "bustler",
+			"Plural": "bustlers"
+		}
+	},
+	{
+		"Word": "butcher",
+		"Verb": {
+			"Verb": "butcher",
+			"SimplePresent": "butchers",
+			"SimplePast": "butchered",
+			"PastParticiple": "butchered",
+			"PresentParticiple": "butchering"
+		},
+		"Adjective": {
+			"Adjective": "butchered"
+		},
+		"ActionNoun": {
+			"Singular": "butcher",
+			"Plural": "butchers"
+		}
+	},
+	{
+		"Word": "butter",
+		"Noun": {
+			"Singular": "butter",
+			"Plural": "butters"
+		},
+		"Verb": {
+			"Verb": "butter",
+			"SimplePresent": "butters",
+			"SimplePast": "buttered",
+			"PastParticiple": "buttered",
+			"PresentParticiple": "buttering"
+		},
+		"Adjective": {
+			"Adjective": "buttered"
+		},
+		"ActionNoun": {
+			"Singular": "butterer",
+			"Plural": "butterers"
+		}
+	},
+	{
+		"Word": "butterfly",
+		"Noun": {
+			"Singular": "butterfly",
+			"Plural": "butterflies"
+		}
+	},
+	{
+		"Word": "button",
+		"Noun": {
+			"Singular": "button",
+			"Plural": "buttons"
+		},
+		"Verb": {
+			"Verb": "button",
+			"SimplePresent": "buttons",
+			"SimplePast": "buttoned",
+			"PastParticiple": "buttoned",
+			"PresentParticiple": "buttoning"
+		},
+		"Adjective": {
+			"Adjective": "buttoned"
+		},
+		"ActionNoun": {
+			"Singular": "buttoner",
+			"Plural": "buttoners"
+		}
+	},
+	{
+		"Word": "buzzard",
+		"Noun": {
+			"Singular": "buzzard",
+			"Plural": "buzzards"
+		}
+	},
+	{
+		"Word": "cackle",
+		"Noun": {
+			"Singular": "cackle",
+			"Plural": "cackles"
+		},
+		"Verb": {
+			"Verb": "cackle",
+			"SimplePresent": "cackles",
+			"SimplePast": "cackled",
+			"PastParticiple": "cackled",
+			"PresentParticiple": "cackling"
+		},
+		"ActionNoun": {
+			"Singular": "cackler",
+			"Plural": "cacklers"
+		}
+	},
+	{
+		"Word": "cage",
+		"Noun": {
+			"Singular": "cage",
+			"Plural": "cages"
+		},
+		"Verb": {
+			"Verb": "cage",
+			"SimplePresent": "cages",
+			"SimplePast": "caged",
+			"PastParticiple": "caged",
+			"PresentParticiple": "caging"
+		},
+		"Adjective": {
+			"Adjective": "caged"
+		}
+	},
+	{
+		"Word": "cake",
+		"Noun": {
+			"Singular": "cake",
+			"Plural": "cakes"
+		},
+		"Adjective": {
+			"Adjective": "caked"
+		}
+	},
+	{
+		"Word": "call",
+		"Noun": {
+			"Singular": "call",
+			"Plural": "calls"
+		},
+		"Verb": {
+			"Verb": "call",
+			"SimplePresent": "calls",
+			"SimplePast": "called",
+			"PastParticiple": "called",
+			"PresentParticiple": "calling"
+		},
+		"ActionNoun": {
+			"Singular": "caller",
+			"Plural": "callers"
+		}
+	},
+	{
+		"Word": "camp",
+		"Noun": {
+			"Singular": "camp",
+			"Plural": "camps"
+		},
+		"Verb": {
+			"Verb": "camp",
+			"SimplePresent": "camps",
+			"SimplePast": "camped",
+			"PastParticiple": "camped",
+			"PresentParticiple": "camping"
+		},
+		"ActionNoun": {
+			"Singular": "camper",
+			"Plural": "campers"
+		}
+	},
+	{
+		"Word": "cancer",
+		"Noun": {
+			"Singular": "cancer",
+			"Plural": "cancers"
+		},
+		"Adjective": {
+			"Adjective": "cancerous"
+		}
+	},
+	{
+		"Word": "candle",
+		"Noun": {
+			"Singular": "candle",
+			"Plural": "candles"
+		},
+		"Adjective": {
+			"Adjective": "candlelit"
+		}
+	},
+	{
+		"Word": "candy",
+		"Noun": {
+			"Singular": "candy",
+			"Plural": "candies"
+		},
+		"Verb": {
+			"Verb": "candy",
+			"SimplePresent": "candies",
+			"SimplePast": "candied",
+			"PastParticiple": "candied",
+			"PresentParticiple": "candying"
+		},
+		"Adjective": {
+			"Adjective": "candied"
+		},
+		"ActionNoun": {
+			"Singular": "candier",
+			"Plural": "candiers"
+		}
+	},
+	{
+		"Word": "canyon",
+		"Noun": {
+			"Singular": "canyon",
+			"Plural": "canyons"
+		}
+	},
+	{
+		"Word": "carnage",
+		"Noun": {
+			"Singular": "carnage",
+			"Plural": "carnages"
+		}
+	},
+	{
+		"Word": "casket",
+		"Noun": {
+			"Singular": "casket",
+			"Plural": "caskets"
+		}
+	},
+	{
+		"Word": "castle",
+		"Noun": {
+			"Singular": "castle",
+			"Plural": "castles"
+		},
+		"Verb": {
+			"Verb": "castle",
+			"SimplePresent": "castles",
+			"SimplePast": "castled",
+			"PastParticiple": "castle",
+			"PresentParticiple": "castling"
+		}
+	},
+	{
+		"Word": "cat",
+		"Noun": {
+			"Singular": "cat",
+			"Plural": "cats"
+		}
+	},
+	{
+		"Word": "cave",
+		"Noun": {
+			"Singular": "cave",
+			"Plural": "caves"
+		},
+		"Verb": {
+			"Verb": "cave",
+			"SimplePresent": "caves",
+			"SimplePast": "caved",
+			"PastParticiple": "caved",
+			"PresentParticiple": "caving"
+		},
+		"ActionNoun": {
+			"Singular": "caver",
+			"Plural": "cavers"
+		}
+	},
+	{
+		"Word": "cavort",
+		"Verb": {
+			"Verb": "cavort",
+			"SimplePresent": "cavorts",
+			"SimplePast": "cavorted",
+			"PastParticiple": "cavorted",
+			"PresentParticiple": "cavorting"
+		},
+		"ActionNoun": {
+			"Singular": "cavorter",
+			"Plural": "cavorter"
+		}
+	},
+	{
+		"Word": "cell",
+		"Noun": {
+			"Singular": "cell",
+			"Plural": "cells"
+		},
+		"Adjective": {
+			"Adjective": "celled"
+		}
+	},
+	{
+		"Word": "cellar",
+		"Noun": {
+			"Singular": "cellar",
+			"Plural": "cellars"
+		}
+	},
+	{
+		"Word": "chain",
+		"Noun": {
+			"Singular": "chain",
+			"Plural": "chains"
+		},
+		"Verb": {
+			"Verb": "chain",
+			"SimplePresent": "chains",
+			"SimplePast": "chained",
+			"PastParticiple": "chained",
+			"PresentParticiple": "chaining"
+		},
+		"Adjective": {
+			"Adjective": "chained"
+		}
+	},
+	{
+		"Word": "chant",
+		"Noun": {
+			"Singular": "chant",
+			"Plural": "chants"
+		},
+		"Verb": {
+			"Verb": "chant",
+			"SimplePresent": "chants",
+			"SimplePast": "chanted",
+			"PastParticiple": "chanted",
+			"PresentParticiple": "chanting"
+		},
+		"ActionNoun": {
+			"Singular": "chanter",
+			"Plural": "chanters"
+		}
+	},
+	{
+		"Word": "chaos",
+		"Noun": {
+			"Singular": "chaos",
+			"Plural": "chaoses"
+		},
+		"Adjective": {
+			"Adjective": "chaotic"
+		}
+	},
+	{
+		"Word": "chamber",
+		"Noun": {
+			"Singular": "chamber",
+			"Plural": "chambers"
+		},
+		"Adjective": {
+			"Adjective": "chambered"
+		}
+	},
+	{
+		"Word": "char",
+		"Verb": {
+			"Verb": "char",
+			"SimplePresent": "chars",
+			"SimplePast": "charred",
+			"PastParticiple": "charred",
+			"PresentParticiple": "charring"
+		},
+		"Adjective": {
+			"Adjective": "charred"
+		},
+		"ActionNoun": {
+			"Singular": "charrer",
+			"Plural": "charrers"
+		}
+	},
+	{
+		"Word": "charm",
+		"Verb": {
+			"Verb": "charm",
+			"SimplePresent": "charms",
+			"SimplePast": "charmed",
+			"PastParticiple": "charmed",
+			"PresentParticiple": "charming"
+		},
+		"Adjective": {
+			"Adjective": "charmed"
+		},
+		"ActionNoun": {
+			"Singular": "charmer",
+			"Plural": "charmers"
+		}
+	},
+	{
+		"Word": "chew",
+		"Verb": {
+			"Verb": "chew",
+			"SimplePresent": "chews",
+			"SimplePast": "chewed",
+			"PastParticiple": "chewed",
+			"PresentParticiple": "chewing"
+		},
+		"ActionNoun": {
+			"Singular": "chewer",
+			"Plural": "chewers"
+		}
+	},
+	{
+		"Word": "child",
+		"Noun": {
+			"Singular": "child",
+			"Plural": "children"
+		},
+		"Adjective": {
+			"Adjective": "childlike"
+		}
+	},
+	{
+		"Word": "chill",
+		"Noun": {
+			"Singular": "chill",
+			"Plural": "chills"
+		},
+		"Verb": {
+			"Verb": "chill",
+			"SimplePresent": "chills",
+			"SimplePast": "chilled",
+			"PastParticiple": "chilled",
+			"PresentParticiple": "chilling"
+		},
+		"Adjective": {
+			"Adjective": "chilled"
+		},
+		"ActionNoun": {
+			"Singular": "chiller",
+			"Plural": "chillers"
+		}
+	},
+	{
+		"Word": "chip",
+		"Noun": {
+			"Singular": "chip",
+			"Plural": "chips"
+		},
+		"Verb": {
+			"Verb": "chip",
+			"SimplePresent": "chips",
+			"SimplePast": "chipped",
+			"PastParticiple": "chipped",
+			"PresentParticiple": "chipping"
+		},
+		"Adjective": {
+			"Adjective": "chipped"
+		},
+		"ActionNoun": {
+			"Singular": "chipper",
+			"Plural": "chippers"
+		}
+	},
+	{
+		"Word": "choke",
+		"Verb": {
+			"Verb": "choke",
+			"SimplePresent": "chokes",
+			"SimplePast": "choked",
+			"PastParticiple": "choked",
+			"PresentParticiple": "choking"
+		},
+		"ActionNoun": {
+			"Singular": "choker",
+			"Plural": "chokers"
+		}
+	},
+	{
+		"Word": "choker",
+		"Noun": {
+			"Singular": "choker",
+			"Plural": "chokers"
+		}
+	},
+	{
+		"Word": "chop",
+		"Verb": {
+			"Verb": "chop",
+			"SimplePresent": "chops",
+			"SimplePast": "chopped",
+			"PastParticiple": "chopped",
+			"PresentParticiple": "chopping"
+		},
+		"ActionNoun": {
+			"Singular": "chopper",
+			"Plural": "choppers"
+		}
+	},
+	{
+		"Word": "chuck",
+		"Verb": {
+			"Verb": "chuck",
+			"SimplePresent": "chucks",
+			"SimplePast": "chucked",
+			"PastParticiple": "chucked",
+			"PresentParticiple": "chucking"
+		},
+		"ActionNoun": {
+			"Singular": "chucker",
+			"Plural": "chuckers"
+		}
+	},
+	{
+		"Word": "cinder",
+		"Noun": {
+			"Singular": "cinder",
+			"Plural": "cinders"
+		},
+		"Verb": {
+			"Verb": "cinder",
+			"SimplePresent": "cinder",
+			"SimplePast": "cindered",
+			"PastParticiple": "cindered",
+			"PresentParticiple": "cindering"
+		},
+		"Adjective": {
+			"Adjective": "cinderous"
+		}
+	},
+	{
+		"Word": "clam",
+		"Noun": {
+			"Singular": "clam",
+			"Plural": "clams"
+		},
+		"Adjective": {
+			"Adjective": "clammy"
+		}
+	},
+	{
+		"Word": "clap",
+		"Verb": {
+			"Verb": "clap",
+			"SimplePresent": "claps",
+			"SimplePast": "clapped",
+			"PastParticiple": "clapped",
+			"PresentParticiple": "clapping"
+		},
+		"ActionNoun": {
+			"Singular": "clapper",
+			"Plural": "clappers"
+		}
+	},
+	{
+		"Word": "clasp",
+		"Noun": {
+			"Singular": "clasp",
+			"Plural": "clasps"
+		},
+		"Verb": {
+			"Verb": "clasp",
+			"SimplePresent": "clasps",
+			"SimplePast": "clasped",
+			"PastParticiple": "clasped",
+			"PresentParticiple": "clasping"
+		},
+		"Adjective": {
+			"Adjective": "clasped"
+		},
+		"ActionNoun": {
+			"Singular": "clasper",
+			"Plural": "claspers"
+		}
+	},
+	{
+		"Word": "claw",
+		"Noun": {
+			"Singular": "claw",
+			"Plural": "claws"
+		},
+		"Verb": {
+			"Verb": "claw",
+			"SimplePresent": "claws",
+			"SimplePast": "clawed",
+			"PastParticiple": "clawed",
+			"PresentParticiple": "clawing"
+		},
+		"Adjective": {
+			"Adjective": "clawlike"
+		},
+		"ActionNoun": {
+			"Singular": "clawer",
+			"Plural": "clawers"
+		}
+	},
+	{
+		"Word": "clear",
+		"Noun": {
+			"Singular": "clear",
+			"Plural": "clears"
+		},
+		"Verb": {
+			"Verb": "clear",
+			"SimplePresent": "clears",
+			"SimplePast": "cleared",
+			"PastParticiple": "cleared",
+			"PresentParticiple": "clearing"
+		},
+		"Adjective": {
+			"Adjective": "cleared"
+		},
+		"ActionNoun": {
+			"Singular": "clearer",
+			"Plural": "clearers"
+		}
+	},
+	{
+		"Word": "clearing",
+		"Noun": {
+			"Singular": "clearing",
+			"Plural": "clearings"
+		}
+	},
+	{
+		"Word": "cleave",
+		"Noun": {
+			"Singular": "cleft",
+			"Plural": "clefts"
+		},
+		"Verb": {
+			"Verb": "cleave",
+			"SimplePresent": "cleaves",
+			"SimplePast": "cleaved",
+			"PastParticiple": "cleaved",
+			"PresentParticiple": "cleaving"
+		},
+		"ActionNoun": {
+			"Singular": "cleaver",
+			"Plural": "cleavers"
+		}
+	},
+	{
+		"Word": "cling",
+		"Verb": {
+			"Verb": "cling",
+			"SimplePresent": "clings",
+			"SimplePast": "clinged",
+			"PastParticiple": "clinged",
+			"PresentParticiple": "cleaving"
+		},
+		"Adjective": {
+			"Adjective": "clingy"
+		},
+		"ActionNoun": {
+			"Singular": "clinger",
+			"Plural": "clingers"
+		}
+	},
+	{
+		"Word": "cloak",
+		"Noun": {
+			"Singular": "cloak",
+			"Plural": "cloaks"
+		},
+		"Adjective": {
+			"Adjective": "cloaked"
+		}
+	},
+	{
+		"Word": "clod",
+		"Noun": {
+			"Singular": "clod",
+			"Plural": "clods"
+		}
+	},
+	{
+		"Word": "cloister",
+		"Noun": {
+			"Singular": "cloister",
+			"Plural": "cloisters"
+		},
+		"Verb": {
+			"Verb": "cloister",
+			"SimplePresent": "cloisters",
+			"SimplePast": "cloistered",
+			"PastParticiple": "cloistered",
+			"PresentParticiple": "cloistering"
+		}
+	},
+	{
+		"Word": "closet",
+		"Noun": {
+			"Singular": "closet",
+			"Plural": "closets"
+		}
+	},
+	{
+		"Word": "club",
+		"Noun": {
+			"Singular": "club",
+			"Plural": "clubs"
+		},
+		"Verb": {
+			"Verb": "club",
+			"SimplePresent": "clubs",
+			"SimplePast": "clubbed",
+			"PastParticiple": "clubbed",
+			"PresentParticiple": "clubbing"
+		},
+		"ActionNoun": {
+			"Singular": "clubber",
+			"Plural": "clubbers"
+		}
+	},
+	{
+		"Word": "cluster",
+		"Noun": {
+			"Singular": "cluster",
+			"Plural": "clusters"
+		},
+		"Verb": {
+			"Verb": "cluster",
+			"SimplePresent": "clusters",
+			"SimplePast": "clustered",
+			"PastParticiple": "clustered",
+			"PresentParticiple": "clustering"
+		}
+	},
+	{
+		"Word": "clutter",
+		"Noun": {
+			"Singular": "clutter",
+			"Plural": "clutter"
+		},
+		"Verb": {
+			"Verb": "clutter",
+			"SimplePresent": "clutters",
+			"SimplePast": "cluttered",
+			"PastParticiple": "cluttered",
+			"PresentParticiple": "cluttering"
+		},
+		"Adjective": {
+			"Adjective": "cluttered"
+		},
+		"ActionNoun": {
+			"Singular": "clutterer",
+			"Plural": "clutterers"
+		}
+	},
+	{
+		"Word": "cobra",
+		"Noun": {
+			"Singular": "cobra",
+			"Plural": "cobras"
+		},
+		"Adjective": {
+			"Adjective": "cobralike"
+		}
+	},
+	{
+		"Word": "coil",
+		"Noun": {
+			"Singular": "coil",
+			"Plural": "coils"
+		},
+		"Verb": {
+			"Verb": "coil",
+			"SimplePresent": "coils",
+			"SimplePast": "coiled",
+			"PastParticiple": "coiled",
+			"PresentParticiple": "coiling"
+		},
+		"Adjective": {
+			"Adjective": "coiled"
+		},
+		"ActionNoun": {
+			"Singular": "coiler",
+			"Plural": "coilers"
+		}
+	},
+	{
+		"Word": "cold",
+		"Noun": {
+			"Singular": "coldness",
+			"Plural": "coldnesses"
+		},
+		"Adjective": {
+			"Adjective": "cold"
+		}
+	},
+	{
+		"Word": "color",
+		"Noun": {
+			"Singular": "color",
+			"Plural": "colors"
+		},
+		"Verb": {
+			"Verb": "color",
+			"SimplePresent": "colors",
+			"SimplePast": "colored",
+			"PastParticiple": "colored",
+			"PresentParticiple": "coloring"
+		},
+		"ActionNoun": {
+			"Singular": "colorer",
+			"Plural": "colorers"
+		}
+	},
+	{
+		"Word": "comet",
+		"Noun": {
+			"Singular": "comet",
+			"Plural": "comets"
+		},
+		"Verb": {
+			"Verb": "comet",
+			"SimplePresent": "comets",
+			"SimplePast": "cometed",
+			"PastParticiple": "cometed",
+			"PresentParticiple": "cometing"
+		}
+	},
+	{
+		"Word": "common",
+		"Adjective": {
+			"Adjective": "common"
+		}
+	},
+	{
+		"Word": "conquer",
+		"Verb": {
+			"Verb": "conquer",
+			"SimplePresent": "conquers",
+			"SimplePast": "conquered",
+			"PastParticiple": "conquered",
+			"PresentParticiple": "conquering"
+		},
+		"Adjective": {
+			"Adjective": "conquered"
+		},
+		"ActionNoun": {
+			"Singular": "conqueror",
+			"Plural": "conquerors"
+		}
+	},
+	{
+		"Word": "cook",
+		"Noun": {
+			"Singular": "cook",
+			"Plural": "cooks"
+		},
+		"Verb": {
+			"Verb": "cook",
+			"SimplePresent": "cooks",
+			"SimplePast": "cooked",
+			"PastParticiple": "cooked",
+			"PresentParticiple": "cooking"
+		},
+		"Adjective": {
+			"Adjective": "cooked"
+		},
+		"ActionNoun": {
+			"Singular": "chef",
+			"Plural": "chefs"
+		}
+	},
+	{
+		"Word": "cover",
+		"Noun": {
+			"Singular": "cover",
+			"Plural": "covers"
+		},
+		"Verb": {
+			"Verb": "cover",
+			"SimplePresent": "covers",
+			"SimplePast": "covered",
+			"PastParticiple": "covered",
+			"PresentParticiple": "covering"
+		},
+		"Adjective": {
+			"Adjective": "covered"
+		},
+		"ActionNoun": {
+			"Singular": "coverer",
+			"Plural": "coverers"
+		}
+	},
+	{
+		"Word": "cotton",
+		"Noun": {
+			"Singular": "cotton",
+			"Plural": "cottons"
+		}
+	},
+	{
+		"Word": "couple",
+		"Noun": {
+			"Singular": "couple",
+			"Plural": "couples"
+		},
+		"Verb": {
+			"Verb": "couple",
+			"SimplePresent": "couples",
+			"SimplePast": "coupled",
+			"PastParticiple": "coupled",
+			"PresentParticiple": "coupling"
+		},
+		"Adjective": {
+			"Adjective": "coupled"
+		},
+		"ActionNoun": {
+			"Singular": "coupler",
+			"Plural": "couplers"
+		}
+	},
+	{
+		"Word": "crab",
+		"Noun": {
+			"Singular": "crab",
+			"Plural": "crabs"
+		}
+	},
+	{
+		"Word": "crawl",
+		"Noun": {
+			"Singular": "jump",
+			"Plural": "jumps"
+		},
+		"Verb": {
+			"Verb": "crawl",
+			"SimplePresent": "crawls",
+			"SimplePast": "crawled",
+			"PastParticiple": "crawled",
+			"PresentParticiple": "crawling"
+		},
+		"ActionNoun": {
+			"Singular": "crawler",
+			"Plural": "crawlers"
+		}
+	},
+	{
+		"Word": "craze",
+		"Noun": {
+			"Singular": "craze",
+			"Plural": "crazes"
+		},
+		"Adjective": {
+			"Adjective": "crazed"
+		}
+	},
+	{
+		"Word": "crazy",
+		"Noun": {
+			"Singular": "craziness",
+			"Plural": "crazinesses"
+		},
+		"Adjective": {
+			"Adjective": "crazy"
+		}
+	},
+	{
+		"Word": "cream",
+		"Noun": {
+			"Singular": "cream",
+			"Plural": "creams"
+		},
+		"Verb": {
+			"Verb": "cream",
+			"SimplePresent": "creams",
+			"SimplePast": "creamed",
+			"PastParticiple": "creamed",
+			"PresentParticiple": "creaming"
+		},
+		"Adjective": {
+			"Adjective": "creamy"
+		}
+	},
+	{
+		"Word": "creek",
+		"Noun": {
+			"Singular": "creek",
+			"Plural": "creeks"
+		},
+		"Verb": {
+			"Verb": "creek",
+			"SimplePresent": "creeks",
+			"SimplePast": "creeked",
+			"PastParticiple": "creeked",
+			"PresentParticiple": "creeking"
+		}
+	},
+	{
+		"Word": "creep",
+		"Noun": {
+			"Singular": "creep",
+			"Plural": "creeps"
+		},
+		"Verb": {
+			"Verb": "creep",
+			"SimplePresent": "creeps",
+			"SimplePast": "crept",
+			"PastParticiple": "creet",
+			"PresentParticiple": "creeping"
+		},
+		"ActionNoun": {
+			"Singular": "creeper",
+			"Plural": "creepers"
+		}
+	},
+	{
+		"Word": "creepy",
+		"Noun": {
+			"Singular": "creepiness",
+			"Plural": "creepinesses"
+		},
+		"Adjective": {
+			"Adjective": "creepy"
+		}
+	},
+	{
+		"Word": "crescent",
+		"Noun": {
+			"Singular": "crescent",
+			"Plural": "crescents"
+		},
+		"Adjective": {
+			"Adjective": "crescent-shaped"
+		}
+	},
+	{
+		"Word": "cross",
+		"Noun": {
+			"Singular": "cross",
+			"Plural": "crosses"
+		},
+		"Verb": {
+			"Verb": "cross",
+			"SimplePresent": "crosses",
+			"SimplePast": "crossed",
+			"PastParticiple": "crossed",
+			"PresentParticiple": "crossing"
+		},
+		"Adjective": {
+			"Adjective": "cross"
+		},
+		"ActionNoun": {
+			"Singular": "crosser",
+			"Plural": "crossers"
+		}
+	},
+	{
+		"Word": "crow",
+		"Noun": {
+			"Singular": "crow",
+			"Plural": "crows"
+		}
+	},
+	{
+		"Word": "crown",
+		"Noun": {
+			"Singular": "crown",
+			"Plural": "crowns"
+		},
+		"Verb": {
+			"Verb": "crown",
+			"SimplePresent": "crowns",
+			"SimplePast": "crowned",
+			"PastParticiple": "crowned",
+			"PresentParticiple": "crowning"
+		},
+		"ActionNoun": {
+			"Singular": "crowner",
+			"Plural": "crowners"
+		}
+	},
+	{
+		"Word": "crotch",
+		"Noun": {
+			"Singular": "crotch",
+			"Plural": "crotches"
+		},
+		"Adjective": {
+			"Adjective": "crotchety"
+		}
+	},
+	{
+		"Word": "crucify",
+		"Noun": {
+			"Singular": "crucifixion",
+			"Plural": "crucifixions"
+		},
+		"Verb": {
+			"Verb": "crucify",
+			"SimplePresent": "crucifies",
+			"SimplePast": "crucified",
+			"PastParticiple": "crucified",
+			"PresentParticiple": "crucifying"
+		},
+		"ActionNoun": {
+			"Singular": "crucifier",
+			"Plural": "crucifiers"
+		}
+	},
+	{
+		"Word": "crumble",
+		"Verb": {
+			"Verb": "crumble",
+			"SimplePresent": "crumbles",
+			"SimplePast": "crumbled",
+			"PastParticiple": "crumbled",
+			"PresentParticiple": "crumbling"
+		}
+	},
+	{
+		"Word": "crunch",
+		"Verb": {
+			"Verb": "crunch",
+			"SimplePresent": "crunches",
+			"SimplePast": "crunched",
+			"PastParticiple": "crunched",
+			"PresentParticiple": "crunching"
+		},
+		"ActionNoun": {
+			"Singular": "cruncher",
+			"Plural": "crunchers"
+		}
+	},
+	{
+		"Word": "crush",
+		"Verb": {
+			"Verb": "crush",
+			"SimplePresent": "crushes",
+			"SimplePast": "crushed",
+			"PastParticiple": "crushed",
+			"PresentParticiple": "crushing"
+		},
+		"ActionNoun": {
+			"Singular": "crusher",
+			"Plural": "crushers"
+		}
+	},
+	{
+		"Word": "cry",
+		"Verb": {
+			"Verb": "cry",
+			"SimplePresent": "cries",
+			"SimplePast": "cried",
+			"PastParticiple": "cried",
+			"PresentParticiple": "crying"
+		},
+		"ActionNoun": {
+			"Singular": "crier",
+			"Plural": "criers"
+		}
+	},
+	{
+		"Word": "crypt",
+		"Noun": {
+			"Singular": "crypt",
+			"Plural": "crypts"
+		}
+	},
+	{
+		"Word": "crystal",
+		"Noun": {
+			"Singular": "crystal",
+			"Plural": "crystals"
+		},
+		"Adjective": {
+			"Adjective": "crystalline"
+		}
+	},
+	{
+		"Word": "cuddle",
+		"Verb": {
+			"Verb": "cuddle",
+			"SimplePresent": "cuddles",
+			"SimplePast": "cuddled",
+			"PastParticiple": "cuddled",
+			"PresentParticiple": "cuddling"
+		},
+		"ActionNoun": {
+			"Singular": "cuddler",
+			"Plural": "cuddlers"
+		}
+	},
+	{
+		"Word": "cudgel",
+		"Noun": {
+			"Singular": "cudgel",
+			"Plural": "cudgels"
+		}
+	},
+	{
+		"Word": "cup",
+		"Noun": {
+			"Singular": "cup",
+			"Plural": "cups"
+		}
+	},
+	{
+		"Word": "curse",
+		"Noun": {
+			"Singular": "curse",
+			"Plural": "curses"
+		},
+		"Verb": {
+			"Verb": "curse",
+			"SimplePresent": "curses",
+			"SimplePast": "cursed",
+			"PastParticiple": "cursed",
+			"PresentParticiple": "cursing"
+		},
+		"ActionNoun": {
+			"Singular": "curser",
+			"Plural": "cursers"
+		}
+	},
+	{
+		"Word": "cut",
+		"Noun": {
+			"Singular": "cut",
+			"Plural": "cuts"
+		},
+		"Verb": {
+			"Verb": "cut",
+			"SimplePresent": "cuts",
+			"SimplePast": "cut",
+			"PastParticiple": "cut",
+			"PresentParticiple": "cutting"
+		},
+		"ActionNoun": {
+			"Singular": "cutter",
+			"Plural": "cutters"
+		}
+	},
+	{
+		"Word": "cyst",
+		"Noun": {
+			"Singular": "cyst",
+			"Plural": "cysts"
+		}
+	},
+	{
+		"Word": "dance",
+		"Noun": {
+			"Singular": "dance",
+			"Plural": "dances"
+		},
+		"Verb": {
+			"Verb": "dance",
+			"SimplePresent": "dances",
+			"SimplePast": "danced",
+			"PastParticiple": "danced",
+			"PresentParticiple": "dancing"
+		},
+		"ActionNoun": {
+			"Singular": "dancer",
+			"Plural": "dancers"
+		}
+	},
+	{
+		"Word": "dangle",
+		"Verb": {
+			"Verb": "dangle",
+			"SimplePresent": "dangle",
+			"SimplePast": "dangled",
+			"PastParticiple": "dangled",
+			"PresentParticiple": "dangling"
+		},
+		"ActionNoun": {
+			"Singular": "dangler",
+			"Plural": "danglers"
+		}
+	},
+	{
+		"Word": "dank",
+		"Noun": {
+			"Singular": "dankness",
+			"Plural": "danknesses"
+		},
+		"Adjective": {
+			"Adjective": "dank"
+		}
+	},
+	{
+		"Word": "dagger",
+		"Noun": {
+			"Singular": "dagger",
+			"Plural": "daggers"
+		}
+	},
+	{
+		"Word": "dark",
+		"Noun": {
+			"Singular": "darkness",
+			"Plural": "darknesses"
+		},
+		"Adjective": {
+			"Adjective": "dark"
+		}
+	},
+	{
+		"Word": "date",
+		"Noun": {
+			"Singular": "date",
+			"Plural": "dates"
+		},
+		"Verb": {
+			"Verb": "date",
+			"SimplePresent": "dates",
+			"SimplePast": "dated",
+			"PastParticiple": "dated",
+			"PresentParticiple": "dating"
+		}
+	},
+	{
+		"Word": "damage",
+		"Noun": {
+			"Singular": "damage",
+			"Plural": "damages"
+		},
+		"Verb": {
+			"Verb": "damage",
+			"SimplePresent": "damages",
+			"SimplePast": "damaged",
+			"PastParticiple": "damaged",
+			"PresentParticiple": "damaging"
+		},
+		"ActionNoun": {
+			"Singular": "damager",
+			"Plural": "damagers"
+		}
+	},
+	{
+		"Word": "damn",
+		"Verb": {
+			"Verb": "damn",
+			"SimplePresent": "damns",
+			"SimplePast": "damned",
+			"PastParticiple": "damned",
+			"PresentParticiple": "damning"
+		}
+	},
+	{
+		"Word": "dawn",
+		"Noun": {
+			"Singular": "dawn",
+			"Plural": "dawns"
+		},
+		"Verb": {
+			"Verb": "dawn",
+			"SimplePresent": "dawns",
+			"SimplePast": "dawned",
+			"PastParticiple": "dawned",
+			"PresentParticiple": "dawning"
+		}
+	},
+	{
+		"Word": "day",
+		"Noun": {
+			"Singular": "day",
+			"Plural": "days"
+		}
+	},
+	{
+		"Word": "dead",
+		"Noun": {
+			"Singular": "dead",
+			"Plural": "dead"
+		},
+		"Adjective": {
+			"Adjective": "dead"
+		}
+	},
+	{
+		"Word": "dear",
+		"Adjective": {
+			"Adjective": "dear"
+		}
+	},
+	{
+		"Word": "death",
+		"Noun": {
+			"Singular": "death",
+			"Plural": "deaths"
+		},
+		"Verb": {
+			"Verb": "die",
+			"SimplePresent": "dies",
+			"SimplePast": "died",
+			"PastParticiple": "died",
+			"PresentParticiple": "dying"
+		}
+	},
+	{
+		"Word": "decapitate",
+		"Verb": {
+			"Verb": "decapitate",
+			"SimplePresent": "decapitates",
+			"SimplePast": "decapitated",
+			"PastParticiple": "decapitated",
+			"PresentParticiple": "decapitating"
+		},
+		"ActionNoun": {
+			"Singular": "decapitater",
+			"Plural": "decapitaters"
+		}
+	},
+	{
+		"Word": "decay",
+		"Noun": {
+			"Singular": "decay",
+			"Plural": "decays"
+		},
+		"Verb": {
+			"Verb": "decay",
+			"SimplePresent": "decays",
+			"SimplePast": "decayed",
+			"PastParticiple": "decayed",
+			"PresentParticiple": "decaying"
+		}
+	},
+	{
+		"Word": "deceive",
+		"Verb": {
+			"Verb": "deceive",
+			"SimplePresent": "deceives",
+			"SimplePast": "deceived",
+			"PastParticiple": "deceived",
+			"PresentParticiple": "deceiving"
+		},
+		"ActionNoun": {
+			"Singular": "deceiver",
+			"Plural": "deceivers"
+		}
+	},
+	{
+		"Word": "deep",
+		"Noun": {
+			"Singular": "deep",
+			"Plural": "depths"
+		},
+		"Adjective": {
+			"Adjective": "deep"
+		}
+	},
+	{
+		"Word": "deer",
+		"Noun": {
+			"Singular": "deer",
+			"Plural": "deer"
+		}
+	},
+	{
+		"Word": "demon",
+		"Noun": {
+			"Singular": "demon",
+			"Plural": "demons"
+		},
+		"Adjective": {
+			"Adjective": "demonic"
+		}
+	},
+	{
+		"Word": "desecrate",
+		"Noun": {
+			"Singular": "desecration",
+			"Plural": "desecration"
+		},
+		"Verb": {
+			"Verb": "desecrate",
+			"SimplePresent": "desecrates",
+			"SimplePast": "desecrated",
+			"PastParticiple": "desecrated",
+			"PresentParticiple": "desecrating"
+		},
+		"ActionNoun": {
+			"Singular": "desecrater",
+			"Plural": "desecraters"
+		}
+	},
+	{
+		"Word": "desert",
+		"Noun": {
+			"Singular": "desert",
+			"Plural": "deserts"
+		},
+		"Adjective": {
+			"Adjective": "desert"
+		}
+	},
+	{
+		"Word": "desert_verb",
+		"Noun": {
+			"Singular": "desertedness",
+			"Plural": "desertednesses"
+		},
+		"Verb": {
+			"Verb": "desert",
+			"SimplePresent": "deserts",
+			"SimplePast": "deserted",
+			"PastParticiple": "deserted",
+			"PresentParticiple": "deserting"
+		},
+		"ActionNoun": {
+			"Singular": "deserter",
+			"Plural": "deserters"
+		}
+	},
+	{
+		"Word": "dessert",
+		"Noun": {
+			"Singular": "dessert",
+			"Plural": "desserts"
+		}
+	},
+	{
+		"Word": "despair",
+		"Noun": {
+			"Singular": "despair",
+			"Plural": "despairs"
+		},
+		"Verb": {
+			"Verb": "despair",
+			"SimplePresent": "despairing",
+			"SimplePast": "despaired",
+			"PastParticiple": "despaired",
+			"PresentParticiple": "despairing"
+		},
+		"ActionNoun": {
+			"Singular": "despairer",
+			"Plural": "despairers"
+		}
+	},
+	{
+		"Word": "destroy",
+		"Verb": {
+			"Verb": "destroy",
+			"SimplePresent": "destroys",
+			"SimplePast": "destroyed",
+			"PastParticiple": "destroyed",
+			"PresentParticiple": "destroying"
+		},
+		"ActionNoun": {
+			"Singular": "destroyer",
+			"Plural": "destroyers"
+		}
+	},
+	{
+		"Word": "destruction",
+		"Noun": {
+			"Singular": "destruction",
+			"Plural": "destructions"
+		}
+	},
+	{
+		"Word": "devil",
+		"Noun": {
+			"Singular": "devil",
+			"Plural": "devils"
+		},
+		"Verb": {
+			"Verb": "devil",
+			"SimplePresent": "bedevils",
+			"SimplePast": "devilled",
+			"PastParticiple": "devilled",
+			"PresentParticiple": "devilling"
+		}
+	},
+	{
+		"Word": "devour",
+		"Verb": {
+			"Verb": "devour",
+			"SimplePresent": "devours",
+			"SimplePast": "devoured",
+			"PastParticiple": "devoured",
+			"PresentParticiple": "devouring"
+		},
+		"ActionNoun": {
+			"Singular": "devourer",
+			"Plural": "devourers"
+		}
+	},
+	{
+		"Word": "diamond",
+		"Noun": {
+			"Singular": "diamond",
+			"Plural": "diamonds"
+		},
+		"Adjective": {
+			"Adjective": "diamond"
+		}
+	},
+	{
+		"Word": "dine",
+		"Verb": {
+			"Verb": "dine",
+			"SimplePresent": "dines",
+			"SimplePast": "dined",
+			"PastParticiple": "dined",
+			"PresentParticiple": "dining"
+		},
+		"ActionNoun": {
+			"Singular": "diner",
+			"Plural": "diners"
+		}
+	},
+	{
+		"Word": "dinner",
+		"Noun": {
+			"Singular": "dinner",
+			"Plural": "dinners"
+		}
+	},
+	{
+		"Word": "dirt",
+		"Noun": {
+			"Singular": "dirt",
+			"Plural": "dirts"
+		},
+		"Verb": {
+			"Verb": "dirty",
+			"SimplePresent": "dirty",
+			"SimplePast": "dirtied",
+			"PastParticiple": "dirtied",
+			"PresentParticiple": "dirtying"
+		},
+		"Adjective": {
+			"Adjective": "dirty"
+		},
+		"ActionNoun": {
+			"Singular": "dirtier",
+			"Plural": "dirtiers"
+		}
+	},
+	{
+		"Word": "disguise",
+		"Noun": {
+			"Singular": "disguise",
+			"Plural": "disguises"
+		},
+		"Verb": {
+			"Verb": "disguise",
+			"SimplePresent": "disguises",
+			"SimplePast": "disguised",
+			"PastParticiple": "disguised",
+			"PresentParticiple": "disguising"
+		}
+	},
+	{
+		"Word": "ditch",
+		"Noun": {
+			"Singular": "ditch",
+			"Plural": "ditches"
+		},
+		"Verb": {
+			"Verb": "ditch",
+			"SimplePresent": "ditches",
+			"SimplePast": "ditched",
+			"PastParticiple": "ditched",
+			"PresentParticiple": "ditching"
+		},
+		"ActionNoun": {
+			"Singular": "ditcher",
+			"Plural": "ditchers"
+		}
+	},
+	{
+		"Word": "dog",
+		"Noun": {
+			"Singular": "dog",
+			"Plural": "dogs"
+		}
+	},
+	{
+		"Word": "domain",
+		"Noun": {
+			"Singular": "domain",
+			"Plural": "domains"
+		}
+	},
+	{
+		"Word": "domestic",
+		"Noun": {
+			"Singular": "domescile",
+			"Plural": "domesciles"
+		},
+		"Adjective": {
+			"Adjective": "domestic"
+		}
+	},
+	{
+		"Word": "donkey",
+		"Noun": {
+			"Singular": "donkey",
+			"Plural": "donkeys"
+		}
+	},
+	{
+		"Word": "doom",
+		"Noun": {
+			"Singular": "doom",
+			"Plural": "dooms"
+		},
+		"Verb": {
+			"Verb": "doom",
+			"SimplePresent": "dooms",
+			"SimplePast": "doomed",
+			"PastParticiple": "doomed",
+			"PresentParticiple": "dooming"
+		},
+		"Adjective": {
+			"Adjective": "doomed"
+		}
+	},
+	{
+		"Word": "door",
+		"Noun": {
+			"Singular": "door",
+			"Plural": "doors"
+		}
+	},
+	{
+		"Word": "dragon",
+		"Noun": {
+			"Singular": "dragon",
+			"Plural": "dragons"
+		}
+	},
+	{
+		"Word": "drain",
+		"Noun": {
+			"Singular": "drain",
+			"Plural": "drains"
+		},
+		"Verb": {
+			"Verb": "drain",
+			"SimplePresent": "drains",
+			"SimplePast": "drained",
+			"PastParticiple": "drained",
+			"PresentParticiple": "draining"
+		},
+		"ActionNoun": {
+			"Singular": "drainer",
+			"Plural": "drainers"
+		}
+	},
+	{
+		"Word": "dream",
+		"Noun": {
+			"Singular": "dream",
+			"Plural": "dreams"
+		},
+		"Verb": {
+			"Verb": "dream",
+			"SimplePresent": "dream",
+			"SimplePast": "dreamed",
+			"PastParticiple": "dreamed",
+			"PresentParticiple": "dreaming"
+		},
+		"Adjective": {
+			"Adjective": "dreamy"
+		},
+		"ActionNoun": {
+			"Singular": "dreamer",
+			"Plural": "dreamers"
+		}
+	},
+	{
+		"Word": "dress",
+		"Noun": {
+			"Singular": "dress",
+			"Plural": "dresses"
+		},
+		"Verb": {
+			"Verb": "dress",
+			"SimplePresent": "dresses",
+			"SimplePast": "dressed",
+			"PastParticiple": "dressed",
+			"PresentParticiple": "dressing"
+		},
+		"ActionNoun": {
+			"Singular": "dresser",
+			"Plural": "dressers"
+		}
+	},
+	{
+		"Word": "drink",
+		"Noun": {
+			"Singular": "drink",
+			"Plural": "drinks"
+		},
+		"Verb": {
+			"Verb": "drink",
+			"SimplePresent": "drinks",
+			"SimplePast": "drank",
+			"PastParticiple": "drunk",
+			"PresentParticiple": "drinking"
+		},
+		"ActionNoun": {
+			"Singular": "drinker",
+			"Plural": "drinkers"
+		}
+	},
+	{
+		"Word": "drip",
+		"Noun": {
+			"Singular": "drip",
+			"Plural": "drips"
+		},
+		"Verb": {
+			"Verb": "drip",
+			"SimplePresent": "drips",
+			"SimplePast": "dripped",
+			"PastParticiple": "dripped",
+			"PresentParticiple": "dripping"
+		},
+		"ActionNoun": {
+			"Singular": "dripper",
+			"Plural": "drippers"
+		}
+	},
+	{
+		"Word": "drool",
+		"Noun": {
+			"Singular": "drool",
+			"Plural": "drools"
+		},
+		"Verb": {
+			"Verb": "drool",
+			"SimplePresent": "drools",
+			"SimplePast": "drooled",
+			"PastParticiple": "drooled",
+			"PresentParticiple": "drooling"
+		},
+		"ActionNoun": {
+			"Singular": "drooler",
+			"Plural": "droolers"
+		}
+	},
+	{
+		"Word": "drown",
+		"Verb": {
+			"Verb": "drown",
+			"SimplePresent": "drowns",
+			"SimplePast": "drowned",
+			"PastParticiple": "drowned",
+			"PresentParticiple": "drowning"
+		},
+		"ActionNoun": {
+			"Singular": "drowner",
+			"Plural": "drowners"
+		}
+	},
+	{
+		"Word": "dry",
+		"Verb": {
+			"Verb": "dry",
+			"SimplePresent": "dries",
+			"SimplePast": "dried",
+			"PastParticiple": "dried",
+			"PresentParticiple": "drying"
+		},
+		"ActionNoun": {
+			"Singular": "drier",
+			"Plural": "drier"
+		}
+	},
+	{
+		"Word": "dump",
+		"Noun": {
+			"Singular": "dump",
+			"Plural": "dumps"
+		},
+		"Verb": {
+			"Verb": "dump",
+			"SimplePresent": "dump",
+			"SimplePast": "dumped",
+			"PastParticiple": "dumped",
+			"PresentParticiple": "dumping"
+		},
+		"ActionNoun": {
+			"Singular": "dumper",
+			"Plural": "dumpers"
+		}
+	},
+	{
+		"Word": "dumpling",
+		"Noun": {
+			"Singular": "dumpling",
+			"Plural": "dumplings"
+		}
+	},
+	{
+		"Word": "dung",
+		"Noun": {
+			"Singular": "dung",
+			"Plural": "dungs"
+		}
+	},
+	{
+		"Word": "dungeon",
+		"Noun": {
+			"Singular": "dungeon",
+			"Plural": "dungeons"
+		}
+	},
+	{
+		"Word": "dusk",
+		"Noun": {
+			"Singular": "dusk",
+			"Plural": "dusks"
+		}
+	},
+	{
+		"Word": "dust",
+		"Noun": {
+			"Singular": "dust",
+			"Plural": "dusts"
+		},
+		"Adjective": {
+			"Adjective": "dusty"
+		}
+	},
+	{
+		"Word": "duty",
+		"Noun": {
+			"Singular": "duty",
+			"Plural": "duties"
+		},
+		"Adjective": {
+			"Adjective": "dutifull"
+		}
+	},
+	{
+		"Word": "dye",
+		"Noun": {
+			"Singular": "dye",
+			"Plural": "dyes"
+		},
+		"Verb": {
+			"Verb": "dye",
+			"SimplePresent": "dyes",
+			"SimplePast": "dyed",
+			"PastParticiple": "dyed",
+			"PresentParticiple": "dying"
+		},
+		"Adjective": {
+			"Adjective": "dyed"
+		},
+		"ActionNoun": {
+			"Singular": "dyer",
+			"Plural": "dyers"
+		}
+	},
+	{
+		"Word": "eagle",
+		"Noun": {
+			"Singular": "eagle",
+			"Plural": "eagles"
+		}
+	},
+	{
+		"Word": "ear",
+		"Noun": {
+			"Singular": "ear",
+			"Plural": "ears"
+		}
+	},
+	{
+		"Word": "earth",
+		"Noun": {
+			"Singular": "earth",
+			"Plural": "earths"
+		},
+		"Adjective": {
+			"Adjective": "earthen"
+		}
+	},
+	{
+		"Word": "east",
+		"Adjective": {
+			"Adjective": "east"
+		}
+	},
+	{
+		"Word": "eat",
+		"Verb": {
+			"Verb": "eat",
+			"SimplePresent": "eats",
+			"SimplePast": "ate",
+			"PastParticiple": "eaten",
+			"PresentParticiple": "eating"
+		},
+		"ActionNoun": {
+			"Singular": "eater",
+			"Plural": "eaters"
+		}
+	},
+	{
+		"Word": "eel",
+		"Noun": {
+			"Singular": "eel",
+			"Plural": "eels"
+		}
+	},
+	{
+		"Word": "eerie",
+		"Noun": {
+			"Singular": "eerieness",
+			"Plural": "eerienesses"
+		},
+		"Adjective": {
+			"Adjective": "eerie"
+		}
+	},
+	{
+		"Word": "egg",
+		"Noun": {
+			"Singular": "egg",
+			"Plural": "eggs"
+		}
+	},
+	{
+		"Word": "elder",
+		"Noun": {
+			"Singular": "elder",
+			"Plural": "elders"
+		},
+		"Adjective": {
+			"Adjective": "elder"
+		}
+	},
+	{
+		"Word": "engrave",
+		"Verb": {
+			"Verb": "engrave",
+			"SimplePresent": "engraves",
+			"SimplePast": "engraved",
+			"PastParticiple": "engraved",
+			"PresentParticiple": "engraving"
+		},
+		"ActionNoun": {
+			"Singular": "engraver",
+			"Plural": "engravers"
+		}
+	},
+	{
+		"Word": "eternal",
+		"Adjective": {
+			"Adjective": "eternal"
+		}
+	},
+	{
+		"Word": "entrance",
+		"Noun": {
+			"Singular": "entrance",
+			"Plural": "entrances"
+		},
+		"Verb": {
+			"Verb": "entrance",
+			"SimplePresent": "entrances",
+			"SimplePast": "entranced",
+			"PastParticiple": "entranced",
+			"PresentParticiple": "entrancing"
+		},
+		"ActionNoun": {
+			"Singular": "entrancer",
+			"Plural": "entrancers"
+		}
+	},
+	{
+		"Word": "entrails",
+		"Noun": {
+			"Singular": "entrails",
+			"Plural": "entrails"
+		}
+	},
+	{
+		"Word": "entrench",
+		"Verb": {
+			"Verb": "entrench",
+			"SimplePresent": "entrenches",
+			"SimplePast": "entrenched",
+			"PastParticiple": "entrenched",
+			"PresentParticiple": "entrenching"
+		},
+		"ActionNoun": {
+			"Singular": "entrencher",
+			"Plural": "entrenchers"
+		}
+	},
+	{
+		"Word": "entwine",
+		"Noun": {
+			"Singular": "entwinement",
+			"Plural": "entwinements"
+		},
+		"Verb": {
+			"Verb": "entwine",
+			"SimplePresent": "entwines",
+			"SimplePast": "entwined",
+			"PastParticiple": "entwined",
+			"PresentParticiple": "entwining"
+		}
+	},
+	{
+		"Word": "eternal",
+		"Adjective": {
+			"Adjective": "eternal"
+		}
+	},
+	{
+		"Word": "everlasting",
+		"Adjective": {
+			"Adjective": "everlasting"
+		}
+	},
+	{
+		"Word": "evil",
+		"Noun": {
+			"Singular": "evil",
+			"Plural": "evils"
+		},
+		"Adjective": {
+			"Adjective": "evil"
+		},
+		"ActionNoun": {
+			"Singular": "evildoer",
+			"Plural": "evildoers"
+		}
+	},
+	{
+		"Word": "execute",
+		"Noun": {
+			"Singular": "execution",
+			"Plural": "executions"
+		},
+		"Verb": {
+			"Verb": "execute",
+			"SimplePresent": "executes",
+			"SimplePast": "executed",
+			"PastParticiple": "executed",
+			"PresentParticiple": "executing"
+		},
+		"ActionNoun": {
+			"Singular": "executioner",
+			"Plural": "executioners"
+		}
+	},
+	{
+		"Word": "eye",
+		"Noun": {
+			"Singular": "eye",
+			"Plural": "eyes"
+		}
+	},
+	{
+		"Word": "face",
+		"Noun": {
+			"Singular": "face",
+			"Plural": "faces"
+		},
+		"Verb": {
+			"Verb": "face",
+			"SimplePresent": "faces",
+			"SimplePast": "faced",
+			"PastParticiple": "faced",
+			"PresentParticiple": "facing"
+		},
+		"ActionNoun": {
+			"Singular": "face",
+			"Plural": "faces"
+		}
+	},
+	{
+		"Word": "fall",
+		"Noun": {
+			"Singular": "fall",
+			"Plural": "falls"
+		},
+		"Verb": {
+			"Verb": "fall",
+			"SimplePresent": "falls",
+			"SimplePast": "fell",
+			"PastParticiple": "fallen",
+			"PresentParticiple": "falling"
+		}
+	},
+	{
+		"Word": "false",
+		"Noun": {
+			"Singular": "falsehood",
+			"Plural": "falsehoods"
+		},
+		"Adjective": {
+			"Adjective": "false"
+		}
+	},
+	{
+		"Word": "famine",
+		"Noun": {
+			"Singular": "famine",
+			"Plural": "famines"
+		}
+	},
+	{
+		"Word": "fang",
+		"Noun": {
+			"Singular": "fang",
+			"Plural": "fangs"
+		}
+	},
+	{
+		"Word": "fat",
+		"Noun": {
+			"Singular": "fat",
+			"Plural": "fats"
+		},
+		"Verb": {
+			"Verb": "fatten",
+			"SimplePresent": "fattens",
+			"SimplePast": "fattened",
+			"PastParticiple": "fattened",
+			"PresentParticiple": "fattening"
+		},
+		"Adjective": {
+			"Adjective": "fat"
+		}
+	},
+	{
+		"Word": "fatal",
+		"Noun": {
+			"Singular": "fatality",
+			"Plural": "fatalities"
+		},
+		"Adjective": {
+			"Adjective": "fatal"
+		}
+	},
+	{
+		"Word": "father",
+		"Noun": {
+			"Singular": "father",
+			"Plural": "fathers"
+		},
+		"Verb": {
+			"Verb": "father",
+			"SimplePresent": "fathers",
+			"SimplePast": "fathered",
+			"PastParticiple": "fathered",
+			"PresentParticiple": "fathering"
+		}
+	},
+	{
+		"Word": "fear",
+		"Noun": {
+			"Singular": "fear",
+			"Plural": "fear"
+		},
+		"Verb": {
+			"Verb": "fear",
+			"SimplePresent": "fears",
+			"SimplePast": "feared",
+			"PastParticiple": "feared",
+			"PresentParticiple": "fearing"
+		}
+	},
+	{
+		"Word": "feast",
+		"Noun": {
+			"Singular": "feast",
+			"Plural": "feasts"
+		},
+		"Verb": {
+			"Verb": "feast",
+			"SimplePresent": "feasts",
+			"SimplePast": "feasted",
+			"PastParticiple": "feasted",
+			"PresentParticiple": "feasting"
+		},
+		"ActionNoun": {
+			"Singular": "feaster",
+			"Plural": "feasters"
+		}
+	},
+	{
+		"Word": "fetid",
+		"Adjective": {
+			"Adjective": "fetid"
+		}
+	},
+	{
+		"Word": "fiend",
+		"Noun": {
+			"Singular": "fiend",
+			"Plural": "fiends"
+		},
+		"Adjective": {
+			"Adjective": "fiendish"
+		}
+	},
+	{
+		"Word": "fierce",
+		"Noun": {
+			"Singular": "fierceness",
+			"Plural": "fiercenesses"
+		},
+		"Adjective": {
+			"Adjective": "fierce"
+		}
+	},
+	{
+		"Word": "filth",
+		"Noun": {
+			"Singular": "filth",
+			"Plural": "filths"
+		},
+		"Adjective": {
+			"Adjective": "filthy"
+		}
+	},
+	{
+		"Word": "fin",
+		"Noun": {
+			"Singular": "fin",
+			"Plural": "fins"
+		},
+		"Adjective": {
+			"Adjective": "finned"
+		}
+	},
+	{
+		"Word": "find",
+		"Verb": {
+			"Verb": "find",
+			"SimplePresent": "finds",
+			"SimplePast": "found",
+			"PastParticiple": "found",
+			"PresentParticiple": "finding"
+		},
+		"ActionNoun": {
+			"Singular": "finder",
+			"Plural": "finders"
+		}
+	},
+	{
+		"Word": "finger",
+		"Noun": {
+			"Singular": "finger",
+			"Plural": "fingers"
+		}
+	},
+	{
+		"Word": "fire",
+		"Noun": {
+			"Singular": "fire",
+			"Plural": "fires"
+		},
+		"Verb": {
+			"Verb": "fire",
+			"SimplePresent": "fire",
+			"SimplePast": "fired",
+			"PastParticiple": "fired",
+			"PresentParticiple": "firing"
+		},
+		"Adjective": {
+			"Adjective": "fiery"
+		}
+	},
+	{
+		"Word": "first",
+		"Adjective": {
+			"Adjective": "first"
+		}
+	},
+	{
+		"Word": "fish",
+		"Noun": {
+			"Singular": "fish",
+			"Plural": "fish"
+		},
+		"Verb": {
+			"Verb": "fish",
+			"SimplePresent": "fishes",
+			"SimplePast": "fished",
+			"PastParticiple": "fished",
+			"PresentParticiple": "fishing"
+		},
+		"Adjective": {
+			"Adjective": "fishy"
+		},
+		"ActionNoun": {
+			"Singular": "fisher",
+			"Plural": "fishers"
+		}
+	},
+	{
+		"Word": "fist",
+		"Noun": {
+			"Singular": "fist",
+			"Plural": "fists"
+		}
+	},
+	{
+		"Word": "flame",
+		"Noun": {
+			"Singular": "flame",
+			"Plural": "flames"
+		},
+		"Verb": {
+			"Verb": "flame",
+			"SimplePresent": "flames",
+			"SimplePast": "flamed",
+			"PastParticiple": "flamed",
+			"PresentParticiple": "flaming"
+		},
+		"Adjective": {
+			"Adjective": "flaming"
+		},
+		"ActionNoun": {
+			"Singular": "flamer",
+			"Plural": "flamers"
+		}
+	},
+	{
+		"Word": "flank",
+		"Noun": {
+			"Singular": "flank",
+			"Plural": "flanks"
+		},
+		"Verb": {
+			"Verb": "flank",
+			"SimplePresent": "flanks",
+			"SimplePast": "flanked",
+			"PastParticiple": "flanked",
+			"PresentParticiple": "flanking"
+		},
+		"ActionNoun": {
+			"Singular": "flanker",
+			"Plural": "flankers"
+		}
+	},
+	{
+		"Word": "flea",
+		"Noun": {
+			"Singular": "flea",
+			"Plural": "fleas"
+		}
+	},
+	{
+		"Word": "flee",
+		"Verb": {
+			"Verb": "flee",
+			"SimplePresent": "flees",
+			"SimplePast": "fled",
+			"PastParticiple": "fled",
+			"PresentParticiple": "fleeing"
+		}
+	},
+	{
+		"Word": "flesh",
+		"Noun": {
+			"Singular": "flesh",
+			"Plural": "fleshes"
+		},
+		"Adjective": {
+			"Adjective": "fleshy"
+		}
+	},
+	{
+		"Word": "fling",
+		"Verb": {
+			"Verb": "fling",
+			"SimplePresent": "flings",
+			"SimplePast": "flung",
+			"PastParticiple": "flung",
+			"PresentParticiple": "flinging"
+		},
+		"ActionNoun": {
+			"Singular": "flinger",
+			"Plural": "flingers"
+		}
+	},
+	{
+		"Word": "flood",
+		"Noun": {
+			"Singular": "flood",
+			"Plural": "floods"
+		},
+		"Verb": {
+			"Verb": "flood",
+			"SimplePresent": "floods",
+			"SimplePast": "flooded",
+			"PastParticiple": "flooded",
+			"PresentParticiple": "flooding"
+		},
+		"ActionNoun": {
+			"Singular": "flooder",
+			"Plural": "flooders"
+		}
+	},
+	{
+		"Word": "flower",
+		"Noun": {
+			"Singular": "flower",
+			"Plural": "flowers"
+		},
+		"Verb": {
+			"Verb": "flower",
+			"SimplePresent": "flowers",
+			"SimplePast": "flowered",
+			"PastParticiple": "flowered",
+			"PresentParticiple": "flowering"
+		},
+		"Adjective": {
+			"Adjective": "flowery"
+		}
+	},
+	{
+		"Word": "flute",
+		"Noun": {
+			"Singular": "flute",
+			"Plural": "flutes"
+		},
+		"Verb": {
+			"Verb": "flute",
+			"SimplePresent": "flutes",
+			"SimplePast": "fluted",
+			"PastParticiple": "fluted",
+			"PresentParticiple": "fluting"
+		},
+		"ActionNoun": {
+			"Singular": "flutist",
+			"Plural": "flutists"
+		}
+	},
+	{
+		"Word": "fly",
+		"Noun": {
+			"Singular": "fly",
+			"Plural": "flies"
+		},
+		"Verb": {
+			"Verb": "fly",
+			"SimplePresent": "flies",
+			"SimplePast": "flew",
+			"PastParticiple": "flew",
+			"PresentParticiple": "flying"
+		},
+		"ActionNoun": {
+			"Singular": "flier",
+			"Plural": "fliers"
+		}
+	},
+	{
+		"Word": "focus",
+		"Noun": {
+			"Singular": "focus",
+			"Plural": "focuses"
+		},
+		"Verb": {
+			"Verb": "focus",
+			"SimplePresent": "focuses",
+			"SimplePast": "focused",
+			"PastParticiple": "focused",
+			"PresentParticiple": "focusing"
+		},
+		"ActionNoun": {
+			"Singular": "focuser",
+			"Plural": "focusers"
+		}
+	},
+	{
+		"Word": "fog",
+		"Noun": {
+			"Singular": "fog",
+			"Plural": "fogs"
+		},
+		"Verb": {
+			"Verb": "fog",
+			"SimplePresent": "fogs",
+			"SimplePast": "fogged",
+			"PastParticiple": "fogged",
+			"PresentParticiple": "fogging"
+		},
+		"Adjective": {
+			"Adjective": "foggy"
+		},
+		"ActionNoun": {
+			"Singular": "fogger",
+			"Plural": "foggers"
+		}
+	},
+	{
+		"Word": "fool",
+		"Noun": {
+			"Singular": "fool",
+			"Plural": "fools"
+		},
+		"Verb": {
+			"Verb": "fool",
+			"SimplePresent": "fools",
+			"SimplePast": "fooled",
+			"PastParticiple": "fooled",
+			"PresentParticiple": "fooling"
+		},
+		"Adjective": {
+			"Adjective": "foolish"
+		},
+		"ActionNoun": {
+			"Singular": "fooler",
+			"Plural": "foolers"
+		}
+	},
+	{
+		"Word": "foot",
+		"Noun": {
+			"Singular": "foot",
+			"Plural": "feet"
+		}
+	},
+	{
+		"Word": "forest",
+		"Noun": {
+			"Singular": "forest",
+			"Plural": "forests"
+		}
+	},
+	{
+		"Word": "fork",
+		"Noun": {
+			"Singular": "fork",
+			"Plural": "fork"
+		},
+		"Verb": {
+			"Verb": "fork",
+			"SimplePresent": "forks",
+			"SimplePast": "forked",
+			"PastParticiple": "forked",
+			"PresentParticiple": "forking"
+		},
+		"ActionNoun": {
+			"Singular": "forker",
+			"Plural": "forkers"
+		}
+	},
+	{
+		"Word": "fortify",
+		"Noun": {
+			"Singular": "fortification",
+			"Plural": "fortifications"
+		},
+		"Verb": {
+			"Verb": "fortify",
+			"SimplePresent": "fortifies",
+			"SimplePast": "fortified",
+			"PastParticiple": "fortified",
+			"PresentParticiple": "fortifying"
+		},
+		"ActionNoun": {
+			"Singular": "fortifier",
+			"Plural": "fortifiers"
+		}
+	},
+	{
+		"Word": "fortress",
+		"Noun": {
+			"Singular": "fortress",
+			"Plural": "fortresses"
+		}
+	},
+	{
+		"Word": "found",
+		"Noun": {
+			"Singular": "foundation",
+			"Plural": "foundations"
+		},
+		"Verb": {
+			"Verb": "found",
+			"SimplePresent": "founds",
+			"SimplePast": "founded",
+			"PastParticiple": "founded",
+			"PresentParticiple": "founding"
+		},
+		"ActionNoun": {
+			"Singular": "founder",
+			"Plural": "founders"
+		}
+	},
+	{
+		"Word": "fragile",
+		"Adjective": {
+			"Adjective": "fragile"
+		}
+	},
+	{
+		"Word": "fragment",
+		"Noun": {
+			"Singular": "fragment",
+			"Plural": "fragments"
+		},
+		"Verb": {
+			"Verb": "fragment",
+			"SimplePresent": "fragments",
+			"SimplePast": "fragmented",
+			"PastParticiple": "fragmented",
+			"PresentParticiple": "fragmenting"
+		}
+	},
+	{
+		"Word": "frame",
+		"Noun": {
+			"Singular": "frame",
+			"Plural": "frames"
+		},
+		"Verb": {
+			"Verb": "frame",
+			"SimplePresent": "frames",
+			"SimplePast": "framed",
+			"PastParticiple": "framed",
+			"PresentParticiple": "framing"
+		},
+		"ActionNoun": {
+			"Singular": "framer",
+			"Plural": "framer"
+		}
+	},
+	{
+		"Word": "fray",
+		"Verb": {
+			"Verb": "fray",
+			"SimplePresent": "frays",
+			"SimplePast": "frayed",
+			"PastParticiple": "frayed",
+			"PresentParticiple": "fraying"
+		}
+	},
+	{
+		"Word": "free",
+		"Noun": {
+			"Singular": "freedom",
+			"Plural": "freedoms"
+		},
+		"Verb": {
+			"Verb": "free",
+			"SimplePresent": "frees",
+			"SimplePast": "freed",
+			"PastParticiple": "freed",
+			"PresentParticiple": "freeing"
+		},
+		"Adjective": {
+			"Adjective": "free"
+		},
+		"ActionNoun": {
+			"Singular": "freer",
+			"Plural": "freers"
+		}
+	},
+	{
+		"Word": "frenzy",
+		"Noun": {
+			"Singular": "frenzy",
+			"Plural": "frenzies"
+		},
+		"Verb": {
+			"Verb": "frenzy",
+			"SimplePresent": "frenzies",
+			"SimplePast": "frenzied",
+			"PastParticiple": "frenzied",
+			"PresentParticiple": "frenzying"
+		}
+	},
+	{
+		"Word": "freeze",
+		"Verb": {
+			"Verb": "freeze",
+			"SimplePresent": "freezes",
+			"SimplePast": "froze",
+			"PastParticiple": "frozen",
+			"PresentParticiple": "freezing"
+		},
+		"ActionNoun": {
+			"Singular": "freezer",
+			"Plural": "freezers"
+		}
+	},
+	{
+		"Word": "frill",
+		"Noun": {
+			"Singular": "frill",
+			"Plural": "frills"
+		},
+		"Adjective": {
+			"Adjective": "frilly"
+		}
+	},
+	{
+		"Word": "frog",
+		"Noun": {
+			"Singular": "frog",
+			"Plural": "frogs"
+		},
+		"Adjective": {
+			"Adjective": "froggy"
+		}
+	},
+	{
+		"Word": "fruit",
+		"Noun": {
+			"Singular": "fruit",
+			"Plural": "fruits"
+		},
+		"Adjective": {
+			"Adjective": "fruity"
+		}
+	},
+	{
+		"Word": "fungus",
+		"Noun": {
+			"Singular": "fungus",
+			"Plural": "fungi"
+		}
+	},
+	{
+		"Word": "fur",
+		"Noun": {
+			"Singular": "fur",
+			"Plural": "furs"
+		},
+		"Adjective": {
+			"Adjective": "furry"
+		}
+	},
+	{
+		"Word": "game",
+		"Noun": {
+			"Singular": "game",
+			"Plural": "games"
+		},
+		"Verb": {
+			"Verb": "game",
+			"SimplePresent": "games",
+			"SimplePast": "gamed",
+			"PastParticiple": "gamed",
+			"PresentParticiple": "gaming"
+		},
+		"ActionNoun": {
+			"Singular": "gamer",
+			"Plural": "gamers"
+		}
+	},
+	{
+		"Word": "garlic",
+		"Noun": {
+			"Singular": "garlic",
+			"Plural": "garlics"
+		}
+	},
+	{
+		"Word": "garnish",
+		"Noun": {
+			"Singular": "garnish",
+			"Plural": "garnishes"
+		},
+		"Verb": {
+			"Verb": "garnish",
+			"SimplePresent": "garnishes",
+			"SimplePast": "garnished",
+			"PastParticiple": "garnished",
+			"PresentParticiple": "garnishing"
+		},
+		"ActionNoun": {
+			"Singular": "garnisher",
+			"Plural": "garnishers"
+		}
+	},
+	{
+		"Word": "gaunt",
+		"Adjective": {
+			"Adjective": "gaunt"
+		}
+	},
+	{
+		"Word": "gaze",
+		"Noun": {
+			"Singular": "gaze",
+			"Plural": "gazes"
+		},
+		"Verb": {
+			"Verb": "gaze",
+			"SimplePresent": "gazes",
+			"SimplePast": "gazed",
+			"PastParticiple": "gazed",
+			"PresentParticiple": "gazing"
+		},
+		"ActionNoun": {
+			"Singular": "gazer",
+			"Plural": "gazers"
+		}
+	},
+	{
+		"Word": "gear",
+		"Noun": {
+			"Singular": "gear",
+			"Plural": "gears"
+		},
+		"Verb": {
+			"Verb": "gear",
+			"SimplePresent": "gears",
+			"SimplePast": "geared",
+			"PastParticiple": "geared",
+			"PresentParticiple": "gearing"
+		}
+	},
+	{
+		"Word": "gerbil",
+		"Noun": {
+			"Singular": "gerbil",
+			"Plural": "gerbils"
+		}
+	},
+	{
+		"Word": "ghost",
+		"Noun": {
+			"Singular": "ghost",
+			"Plural": "ghosts"
+		},
+		"Adjective": {
+			"Adjective": "ghostly"
+		}
+	},
+	{
+		"Word": "ghoul",
+		"Noun": {
+			"Singular": "ghoul",
+			"Plural": "ghouls"
+		},
+		"Adjective": {
+			"Adjective": "ghoulish"
+		}
+	},
+	{
+		"Word": "gift",
+		"Noun": {
+			"Singular": "gift",
+			"Plural": "gifts"
+		},
+		"Verb": {
+			"Verb": "gift",
+			"SimplePresent": "gifts",
+			"SimplePast": "gifted",
+			"PastParticiple": "gifted",
+			"PresentParticiple": "gifting"
+		},
+		"Adjective": {
+			"Adjective": "gifted"
+		}
+	},
+	{
+		"Word": "gill",
+		"Noun": {
+			"Singular": "gill",
+			"Plural": "gills"
+		},
+		"Adjective": {
+			"Adjective": "gilled"
+		}
+	},
+	{
+		"Word": "gland",
+		"Noun": {
+			"Singular": "gland",
+			"Plural": "glands"
+		}
+	},
+	{
+		"Word": "glaze",
+		"Noun": {
+			"Singular": "glaze",
+			"Plural": "glazes"
+		},
+		"Verb": {
+			"Verb": "glaze",
+			"SimplePresent": "glazes",
+			"SimplePast": "glazed",
+			"PastParticiple": "glazed",
+			"PresentParticiple": "glazing"
+		},
+		"ActionNoun": {
+			"Singular": "glazer",
+			"Plural": "glazers"
+		}
+	},
+	{
+		"Word": "glide",
+		"Verb": {
+			"Verb": "glide",
+			"SimplePresent": "glides",
+			"SimplePast": "glided",
+			"PastParticiple": "glided",
+			"PresentParticiple": "gliding"
+		},
+		"ActionNoun": {
+			"Singular": "glider",
+			"Plural": "gliders"
+		}
+	},
+	{
+		"Word": "glimmer",
+		"Noun": {
+			"Singular": "glimmer",
+			"Plural": "glimmers"
+		},
+		"Verb": {
+			"Verb": "glimmer",
+			"SimplePresent": "glimmers",
+			"SimplePast": "glimmered",
+			"PastParticiple": "glimmered",
+			"PresentParticiple": "glimmering"
+		}
+	},
+	{
+		"Word": "glisten",
+		"Verb": {
+			"Verb": "glisten",
+			"SimplePresent": "glistens",
+			"SimplePast": "glistened",
+			"PastParticiple": "glistened",
+			"PresentParticiple": "glistening"
+		}
+	},
+	{
+		"Word": "gloss",
+		"Noun": {
+			"Singular": "gloss",
+			"Plural": "glosses"
+		},
+		"Verb": {
+			"Verb": "gloss",
+			"SimplePresent": "glosses",
+			"SimplePast": "glossed",
+			"PastParticiple": "glossed",
+			"PresentParticiple": "glossing"
+		}
+	},
+	{
+		"Word": "glove",
+		"Noun": {
+			"Singular": "glove",
+			"Plural": "gloves"
+		},
+		"Adjective": {
+			"Adjective": "gloved"
+		}
+	},
+	{
+		"Word": "glutton",
+		"Noun": {
+			"Singular": "glutton",
+			"Plural": "gluttons"
+		},
+		"Adjective": {
+			"Adjective": "gluttonous"
+		}
+	},
+	{
+		"Word": "goat",
+		"Noun": {
+			"Singular": "goat",
+			"Plural": "goats"
+		}
+	},
+	{
+		"Word": "god",
+		"Noun": {
+			"Singular": "god",
+			"Plural": "gods"
+		},
+		"Adjective": {
+			"Adjective": "godly"
+		}
+	},
+	{
+		"Word": "god-forsaken",
+		"Adjective": {
+			"Adjective": "god-forsaken"
+		}
+	},
+	{
+		"Word": "gold",
+		"Noun": {
+			"Singular": "gold",
+			"Plural": "gold"
+		},
+		"Adjective": {
+			"Adjective": "gold"
+		}
+	},
+	{
+		"Word": "goose",
+		"Noun": {
+			"Singular": "goose",
+			"Plural": "geese"
+		}
+	},
+	{
+		"Word": "gore",
+		"Noun": {
+			"Singular": "gore",
+			"Plural": "gore"
+		},
+		"Verb": {
+			"Verb": "gore",
+			"SimplePresent": "gores",
+			"SimplePast": "gored",
+			"PastParticiple": "gored",
+			"PresentParticiple": "goring"
+		},
+		"Adjective": {
+			"Adjective": "gory"
+		}
+	},
+	{
+		"Word": "gorge",
+		"Noun": {
+			"Singular": "gorge",
+			"Plural": "gorges"
+		},
+		"Verb": {
+			"Verb": "gorge",
+			"SimplePresent": "gorges",
+			"SimplePast": "gorged",
+			"PastParticiple": "gorged",
+			"PresentParticiple": "gorging"
+		},
+		"ActionNoun": {
+			"Singular": "gorger",
+			"Plural": "gorgers"
+		}
+	},
+	{
+		"Word": "grain",
+		"Noun": {
+			"Singular": "grain",
+			"Plural": "grains"
+		}
+	},
+	{
+		"Word": "grand",
+		"Noun": {
+			"Singular": "grandeur",
+			"Plural": "grandeurs"
+		},
+		"Adjective": {
+			"Adjective": "grand"
+		}
+	},
+	{
+		"Word": "grape",
+		"Noun": {
+			"Singular": "grape",
+			"Plural": "grapes"
+		}
+	},
+	{
+		"Word": "grass",
+		"Noun": {
+			"Singular": "grass",
+			"Plural": "grasses"
+		}
+	},
+	{
+		"Word": "grave",
+		"Noun": {
+			"Singular": "grave",
+			"Plural": "graves"
+		},
+		"Adjective": {
+			"Adjective": "grave"
+		}
+	},
+	{
+		"Word": "grease",
+		"Noun": {
+			"Singular": "grease",
+			"Plural": "greases"
+		},
+		"Verb": {
+			"Verb": "grease",
+			"SimplePresent": "greases",
+			"SimplePast": "greased",
+			"PastParticiple": "greased",
+			"PresentParticiple": "greasing"
+		},
+		"Adjective": {
+			"Adjective": "greasy"
+		},
+		"ActionNoun": {
+			"Singular": "greaser",
+			"Plural": "greasers"
+		}
+	},
+	{
+		"Word": "great",
+		"Noun": {
+			"Singular": "greatness",
+			"Plural": "greatnesses"
+		},
+		"Adjective": {
+			"Adjective": "great"
+		}
+	},
+	{
+		"Word": "greed",
+		"Noun": {
+			"Singular": "greed",
+			"Plural": "greed"
+		},
+		"Verb": {
+			"Verb": "greed",
+			"SimplePresent": "greeds",
+			"SimplePast": "greeded",
+			"PastParticiple": "greeded",
+			"PresentParticiple": "greeding"
+		},
+		"Adjective": {
+			"Adjective": "greedy"
+		}
+	},
+	{
+		"Word": "green",
+		"Adjective": {
+			"Adjective": "green"
+		}
+	},
+	{
+		"Word": "griffon",
+		"Noun": {
+			"Singular": "griffon",
+			"Plural": "griffons"
+		}
+	},
+	{
+		"Word": "grill",
+		"Verb": {
+			"Verb": "grill",
+			"SimplePresent": "grills",
+			"SimplePast": "grilled",
+			"PastParticiple": "grilled",
+			"PresentParticiple": "grilling"
+		},
+		"ActionNoun": {
+			"Singular": "griller",
+			"Plural": "grillers"
+		}
+	},
+	{
+		"Word": "grim",
+		"Adjective": {
+			"Adjective": "grim"
+		}
+	},
+	{
+		"Word": "grind",
+		"Verb": {
+			"Verb": "grind",
+			"SimplePresent": "grinds",
+			"SimplePast": "ground",
+			"PastParticiple": "ground",
+			"PresentParticiple": "grinding"
+		},
+		"ActionNoun": {
+			"Singular": "grinder",
+			"Plural": "grinders"
+		}
+	},
+	{
+		"Word": "grip",
+		"Noun": {
+			"Singular": "grip",
+			"Plural": "grips"
+		},
+		"Verb": {
+			"Verb": "grip",
+			"SimplePresent": "grips",
+			"SimplePast": "gripped",
+			"PastParticiple": "gripped",
+			"PresentParticiple": "gripping"
+		},
+		"ActionNoun": {
+			"Singular": "gripper",
+			"Plural": "grippers"
+		}
+	},
+	{
+		"Word": "gristle",
+		"Noun": {
+			"Singular": "gristle",
+			"Plural": "gristles"
+		},
+		"Verb": {
+			"Verb": "grip",
+			"SimplePresent": "grips",
+			"SimplePast": "gripped",
+			"PastParticiple": "gripped",
+			"PresentParticiple": "gripping"
+		},
+		"Adjective": {
+			"Adjective": "gristly"
+		}
+	},
+	{
+		"Word": "grizzle",
+		"Noun": {
+			"Singular": "grizzle",
+			"Plural": "grizzles"
+		},
+		"Verb": {
+			"Verb": "grizzle",
+			"SimplePresent": "grizzles",
+			"SimplePast": "grizzled",
+			"PastParticiple": "grizzled",
+			"PresentParticiple": "grizzling"
+		},
+		"Adjective": {
+			"Adjective": "grizzly"
+		}
+	},
+	{
+		"Word": "grove",
+		"Noun": {
+			"Singular": "grove",
+			"Plural": "groves"
+		}
+	},
+	{
+		"Word": "grow",
+		"Noun": {
+			"Singular": "growth",
+			"Plural": "growths"
+		},
+		"Verb": {
+			"Verb": "grow",
+			"SimplePresent": "grows",
+			"SimplePast": "grew",
+			"PastParticiple": "grown",
+			"PresentParticiple": "growing"
+		},
+		"ActionNoun": {
+			"Singular": "grower",
+			"Plural": "growers"
+		}
+	},
+	{
+		"Word": "growl",
+		"Noun": {
+			"Singular": "growl",
+			"Plural": "growls"
+		},
+		"Verb": {
+			"Verb": "growl",
+			"SimplePresent": "growls",
+			"SimplePast": "growled",
+			"PastParticiple": "growled",
+			"PresentParticiple": "growling"
+		}
+	},
+	{
+		"Word": "grub",
+		"Noun": {
+			"Singular": "grub",
+			"Plural": "grubs"
+		},
+		"Verb": {
+			"Verb": "grub",
+			"SimplePresent": "grubs",
+			"SimplePast": "grubbed",
+			"PastParticiple": "grubbed",
+			"PresentParticiple": "grubbing"
+		},
+		"Adjective": {
+			"Adjective": "grubby"
+		},
+		"ActionNoun": {
+			"Singular": "grubber",
+			"Plural": "grubbers"
+		}
+	},
+	{
+		"Word": "guard",
+		"Noun": {
+			"Singular": "guard",
+			"Plural": "guards"
+		},
+		"Verb": {
+			"Verb": "guard",
+			"SimplePresent": "grguardsubs",
+			"SimplePast": "guarded",
+			"PastParticiple": "guarded",
+			"PresentParticiple": "guarding"
+		},
+		"ActionNoun": {
+			"Singular": "guarder",
+			"Plural": "guarders"
+		}
+	},
+	{
+		"Word": "guile",
+		"Noun": {
+			"Singular": "guile",
+			"Plural": "guiles"
+		},
+		"Adjective": {
+			"Adjective": "guileful"
+		}
+	},
+	{
+		"Word": "guise",
+		"Noun": {
+			"Singular": "guise",
+			"Plural": "guises"
+		}
+	},
+	{
+		"Word": "gut",
+		"Noun": {
+			"Singular": "gut",
+			"Plural": "guts"
+		},
+		"Verb": {
+			"Verb": "gut",
+			"SimplePresent": "guts",
+			"SimplePast": "gutted",
+			"PastParticiple": "gutted",
+			"PresentParticiple": "gutting"
+		},
+		"ActionNoun": {
+			"Singular": "gutter",
+			"Plural": "gutters"
+		}
+	},
+	{
+		"Word": "hag",
+		"Noun": {
+			"Singular": "hag",
+			"Plural": "hags"
+		}
+	},
+	{
+		"Word": "haggle",
+		"Verb": {
+			"Verb": "haggle",
+			"SimplePresent": "haggles",
+			"SimplePast": "haggled",
+			"PastParticiple": "haggled",
+			"PresentParticiple": "haggling"
+		},
+		"ActionNoun": {
+			"Singular": "haggler",
+			"Plural": "hagglers"
+		}
+	},
+	{
+		"Word": "hair",
+		"Noun": {
+			"Singular": "hair",
+			"Plural": "hairs"
+		},
+		"Adjective": {
+			"Adjective": "hairy"
+		}
+	},
+	{
+		"Word": "hammer",
+		"Noun": {
+			"Singular": "hammer",
+			"Plural": "hammers"
+		},
+		"Verb": {
+			"Verb": "hammer",
+			"SimplePresent": "hammers",
+			"SimplePast": "hammered",
+			"PastParticiple": "hammered",
+			"PresentParticiple": "hammering"
+		},
+		"ActionNoun": {
+			"Singular": "hammerer",
+			"Plural": "hammerers"
+		}
+	},
+	{
+		"Word": "hand",
+		"Noun": {
+			"Singular": "hand",
+			"Plural": "hands"
+		},
+		"Verb": {
+			"Verb": "hand",
+			"SimplePresent": "hands",
+			"SimplePast": "handed",
+			"PastParticiple": "handed",
+			"PresentParticiple": "handing"
+		},
+		"Adjective": {
+			"Adjective": "handy"
+		},
+		"ActionNoun": {
+			"Singular": "hander",
+			"Plural": "handers"
+		}
+	},
+	{
+		"Word": "hare",
+		"Noun": {
+			"Singular": "hare",
+			"Plural": "hares"
+		}
+	},
+	{
+		"Word": "harvest",
+		"Noun": {
+			"Singular": "harvest",
+			"Plural": "harvests"
+		},
+		"Verb": {
+			"Verb": "harvest",
+			"SimplePresent": "harvests",
+			"SimplePast": "harvested",
+			"PastParticiple": "harvested",
+			"PresentParticiple": "harvesting"
+		},
+		"ActionNoun": {
+			"Singular": "harvester",
+			"Plural": "harvesters"
+		}
+	},
+	{
+		"Word": "hatchet",
+		"Noun": {
+			"Singular": "hatchet",
+			"Plural": "hatchets"
+		},
+		"Verb": {
+			"Verb": "hatchet",
+			"SimplePresent": "hatchets",
+			"SimplePast": "hatcheted",
+			"PastParticiple": "hatcheted",
+			"PresentParticiple": "hatcheting"
+		},
+		"ActionNoun": {
+			"Singular": "hatcheter",
+			"Plural": "hatcheters"
+		}
+	},
+	{
+		"Word": "hate",
+		"Noun": {
+			"Singular": "hate",
+			"Plural": "hates"
+		},
+		"Verb": {
+			"Verb": "hate",
+			"SimplePresent": "hates",
+			"SimplePast": "hated",
+			"PastParticiple": "hated",
+			"PresentParticiple": "hating"
+		},
+		"Adjective": {
+			"Adjective": "hateful"
+		},
+		"ActionNoun": {
+			"Singular": "hater",
+			"Plural": "haters"
+		}
+	},
+	{
+		"Word": "haunt",
+		"Noun": {
+			"Singular": "haunt",
+			"Plural": "haunts"
+		},
+		"Verb": {
+			"Verb": "haunt",
+			"SimplePresent": "haunts",
+			"SimplePast": "haunted",
+			"PastParticiple": "haunted",
+			"PresentParticiple": "haunting"
+		},
+		"ActionNoun": {
+			"Singular": "haunter",
+			"Plural": "haunters"
+		}
+	},
+	{
+		"Word": "hawk",
+		"Noun": {
+			"Singular": "hawk",
+			"Plural": "hawks"
+		},
+		"Verb": {
+			"Verb": "hawk",
+			"SimplePresent": "hawks",
+			"SimplePast": "hawked",
+			"PastParticiple": "hawked",
+			"PresentParticiple": "hawking"
+		},
+		"ActionNoun": {
+			"Singular": "hawker",
+			"Plural": "hawker"
+		}
+	},
+	{
+		"Word": "hay",
+		"Noun": {
+			"Singular": "hay",
+			"Plural": "hays"
+		}
+	},
+	{
+		"Word": "head",
+		"Noun": {
+			"Singular": "head",
+			"Plural": "heads"
+		},
+		"Verb": {
+			"Verb": "head",
+			"SimplePresent": "heads",
+			"SimplePast": "headed",
+			"PastParticiple": "headed",
+			"PresentParticiple": "heading"
+		},
+		"Adjective": {
+			"Adjective": "headless"
+		}
+	},
+	{
+		"Word": "heart",
+		"Noun": {
+			"Singular": "heart",
+			"Plural": "hearts"
+		},
+		"Adjective": {
+			"Adjective": "hearty"
+		}
+	},
+	{
+		"Word": "heartless",
+		"Noun": {
+			"Singular": "heartlessness",
+			"Plural": "heartlessnesses"
+		},
+		"Adjective": {
+			"Adjective": "heartless"
+		}
+	},
+	{
+		"Word": "heartful",
+		"Noun": {
+			"Singular": "heartfulness",
+			"Plural": "heartfulnesses"
+		},
+		"Adjective": {
+			"Adjective": "heartful"
+		}
+	},
+	{
+		"Word": "hearth",
+		"Noun": {
+			"Singular": "hearth",
+			"Plural": "hearths"
+		}
+	},
+	{
+		"Word": "hedge",
+		"Noun": {
+			"Singular": "hedge",
+			"Plural": "hedges"
+		}
+	},
+	{
+		"Word": "hell",
+		"Noun": {
+			"Singular": "hell",
+			"Plural": "hells"
+		},
+		"Adjective": {
+			"Adjective": "hellish"
+		}
+	},
+	{
+		"Word": "helm",
+		"Noun": {
+			"Singular": "helm",
+			"Plural": "helms"
+		},
+		"Adjective": {
+			"Adjective": "helmed"
+		}
+	},
+	{
+		"Word": "hero",
+		"Noun": {
+			"Singular": "hero",
+			"Plural": "heroes"
+		},
+		"Adjective": {
+			"Adjective": "heroic"
+		}
+	},
+	{
+		"Word": "hex",
+		"Noun": {
+			"Singular": "hex",
+			"Plural": "hexes"
+		},
+		"Verb": {
+			"Verb": "hex",
+			"SimplePresent": "hexes",
+			"SimplePast": "hexed",
+			"PastParticiple": "hexed",
+			"PresentParticiple": "hexing"
+		},
+		"ActionNoun": {
+			"Singular": "hexer",
+			"Plural": "hexers"
+		}
+	},
+	{
+		"Word": "hide",
+		"Noun": {
+			"Singular": "hide",
+			"Plural": "hides"
+		},
+		"Verb": {
+			"Verb": "hide",
+			"SimplePresent": "hides",
+			"SimplePast": "hid",
+			"PastParticiple": "hidden",
+			"PresentParticiple": "hiding"
+		},
+		"ActionNoun": {
+			"Singular": "hider",
+			"Plural": "hiders"
+		}
+	},
+	{
+		"Word": "hideous",
+		"Noun": {
+			"Singular": "hideousness",
+			"Plural": "hideousnesses"
+		},
+		"Adjective": {
+			"Adjective": "hideous"
+		}
+	},
+	{
+		"Word": "high",
+		"Noun": {
+			"Singular": "highness",
+			"Plural": "highnesses"
+		},
+		"Adjective": {
+			"Adjective": "high"
+		}
+	},
+	{
+		"Word": "hill",
+		"Noun": {
+			"Singular": "hill",
+			"Plural": "hills"
+		},
+		"Adjective": {
+			"Adjective": "hilly"
+		}
+	},
+	{
+		"Word": "hip",
+		"Noun": {
+			"Singular": "hip",
+			"Plural": "hips"
+		},
+		"Adjective": {
+			"Adjective": "hip"
+		}
+	},
+	{
+		"Word": "hobble",
+		"Verb": {
+			"Verb": "hobble",
+			"SimplePresent": "hobbles",
+			"SimplePast": "hobbled",
+			"PastParticiple": "hobbled",
+			"PresentParticiple": "hobbling"
+		},
+		"Adjective": {
+			"Adjective": "hobbly"
+		},
+		"ActionNoun": {
+			"Singular": "hobbler",
+			"Plural": "hobblers"
+		}
+	},
+	{
+		"Word": "hog",
+		"Noun": {
+			"Singular": "hog",
+			"Plural": "hogs"
+		},
+		"Verb": {
+			"Verb": "hog",
+			"SimplePresent": "hogs",
+			"SimplePast": "hogged",
+			"PastParticiple": "hogged",
+			"PresentParticiple": "hoggin"
+		},
+		"Adjective": {
+			"Adjective": "hoggy"
+		},
+		"ActionNoun": {
+			"Singular": "hogger",
+			"Plural": "hoggers"
+		}
+	},
+	{
+		"Word": "hoist",
+		"Verb": {
+			"Verb": "hoist",
+			"SimplePresent": "hoists",
+			"SimplePast": "hoisted",
+			"PastParticiple": "hoisted",
+			"PresentParticiple": "hoisting"
+		},
+		"ActionNoun": {
+			"Singular": "hoister",
+			"Plural": "hoisters"
+		}
+	},
+	{
+		"Word": "hole",
+		"Noun": {
+			"Singular": "hole",
+			"Plural": "holes"
+		},
+		"Verb": {
+			"Verb": "hole",
+			"SimplePresent": "holes",
+			"SimplePast": "holed",
+			"PastParticiple": "holed",
+			"PresentParticiple": "holing"
+		},
+		"Adjective": {
+			"Adjective": "holey"
+		},
+		"ActionNoun": {
+			"Singular": "holer",
+			"Plural": "holers"
+		}
+	},
+	{
+		"Word": "holy",
+		"Noun": {
+			"Singular": "holiness",
+			"Plural": "holinesses"
+		},
+		"Adjective": {
+			"Adjective": "holy"
+		}
+	},
+	{
+		"Word": "home",
+		"Noun": {
+			"Singular": "home",
+			"Plural": "homes"
+		},
+		"Verb": {
+			"Verb": "home",
+			"SimplePresent": "homes",
+			"SimplePast": "homed",
+			"PastParticiple": "homed",
+			"PresentParticiple": "homing"
+		},
+		"Adjective": {
+			"Adjective": "homey"
+		}
+	},
+	{
+		"Word": "honey",
+		"Noun": {
+			"Singular": "honey",
+			"Plural": "honeys"
+		},
+		"Verb": {
+			"Verb": "honey",
+			"SimplePresent": "honeys",
+			"SimplePast": "honeyed",
+			"PastParticiple": "honeyed",
+			"PresentParticiple": "honeying"
+		},
+		"ActionNoun": {
+			"Singular": "honeyer",
+			"Plural": "honeyers"
+		}
+	},
+	{
+		"Word": "hood",
+		"Noun": {
+			"Singular": "hood",
+			"Plural": "hoods"
+		},
+		"Adjective": {
+			"Adjective": "hooded"
+		}
+	},
+	{
+		"Word": "hoof",
+		"Noun": {
+			"Singular": "hoof",
+			"Plural": "hooves"
+		},
+		"Adjective": {
+			"Adjective": "hooved"
+		}
+	},
+	{
+		"Word": "hop",
+		"Noun": {
+			"Singular": "hop",
+			"Plural": "hops"
+		},
+		"Verb": {
+			"Verb": "hop",
+			"SimplePresent": "hops",
+			"SimplePast": "hopped",
+			"PastParticiple": "hopped",
+			"PresentParticiple": "hopping"
+		},
+		"Adjective": {
+			"Adjective": "hoppy"
+		},
+		"ActionNoun": {
+			"Singular": "hopper",
+			"Plural": "hoppers"
+		}
+	},
+	{
+		"Word": "horn",
+		"Noun": {
+			"Singular": "horn",
+			"Plural": "horns"
+		},
+		"Adjective": {
+			"Adjective": "horned"
+		}
+	},
+	{
+		"Word": "horny",
+		"Adjective": {
+			"Adjective": "horny"
+		}
+	},
+	{
+		"Word": "horse",
+		"Noun": {
+			"Singular": "horse",
+			"Plural": "horses"
+		}
+	},
+	{
+		"Word": "hound",
+		"Noun": {
+			"Singular": "hound",
+			"Plural": "hounds"
+		},
+		"Verb": {
+			"Verb": "hound",
+			"SimplePresent": "hounds",
+			"SimplePast": "hounded",
+			"PastParticiple": "hounded",
+			"PresentParticiple": "hounding"
+		},
+		"ActionNoun": {
+			"Singular": "hounder",
+			"Plural": "hounders"
+		}
+	},
+	{
+		"Word": "howl",
+		"Noun": {
+			"Singular": "howl",
+			"Plural": "howls"
+		},
+		"Verb": {
+			"Verb": "howl",
+			"SimplePresent": "howls",
+			"SimplePast": "howled",
+			"PastParticiple": "howled",
+			"PresentParticiple": "howling"
+		},
+		"ActionNoun": {
+			"Singular": "howler",
+			"Plural": "howlers"
+		}
+	},
+	{
+		"Word": "hug",
+		"Noun": {
+			"Singular": "hug",
+			"Plural": "hugs"
+		},
+		"Verb": {
+			"Verb": "hug",
+			"SimplePresent": "hugs",
+			"SimplePast": "hugged",
+			"PastParticiple": "hugged",
+			"PresentParticiple": "huggin"
+		},
+		"ActionNoun": {
+			"Singular": "hugger",
+			"Plural": "hugger"
+		}
+	},
+	{
+		"Word": "hum",
+		"Verb": {
+			"Verb": "hum",
+			"SimplePresent": "hums",
+			"SimplePast": "hummed",
+			"PastParticiple": "hummed",
+			"PresentParticiple": "humming"
+		},
+		"ActionNoun": {
+			"Singular": "hummer",
+			"Plural": "hummers"
+		}
+	},
+	{
+		"Word": "hunger",
+		"Noun": {
+			"Singular": "hunger",
+			"Plural": "hungers"
+		},
+		"Verb": {
+			"Verb": "hunger",
+			"SimplePresent": "hungers",
+			"SimplePast": "hungered",
+			"PastParticiple": "hungered",
+			"PresentParticiple": "hungering"
+		},
+		"ActionNoun": {
+			"Singular": "hungerer",
+			"Plural": "hungerers"
+		}
+	},
+	{
+		"Word": "hungry",
+		"Noun": {
+			"Singular": "hungriness",
+			"Plural": "hungrinesses"
+		},
+		"Adjective": {
+			"Adjective": "hungry"
+		}
+	},
+	{
+		"Word": "hustle",
+		"Verb": {
+			"Verb": "hustle",
+			"SimplePresent": "hustles",
+			"SimplePast": "hustled",
+			"PastParticiple": "hustled",
+			"PresentParticiple": "hustleing"
+		},
+		"ActionNoun": {
+			"Singular": "hustler",
+			"Plural": "hustlers"
+		}
+	},
+	{
+		"Word": "ice",
+		"Noun": {
+			"Singular": "ice",
+			"Plural": "ices"
+		},
+		"Verb": {
+			"Verb": "ice",
+			"SimplePresent": "ices",
+			"SimplePast": "iced",
+			"PastParticiple": "iced",
+			"PresentParticiple": "icing"
+		},
+		"Adjective": {
+			"Adjective": "icy"
+		},
+		"ActionNoun": {
+			"Singular": "icer",
+			"Plural": "icers"
+		}
+	},
+	{
+		"Word": "idle",
+		"Noun": {
+			"Singular": "idleness",
+			"Plural": "idlenessess"
+		},
+		"Verb": {
+			"Verb": "idle",
+			"SimplePresent": "idles",
+			"SimplePast": "idled",
+			"PastParticiple": "idled",
+			"PresentParticiple": "idling"
+		},
+		"Adjective": {
+			"Adjective": "idle"
+		},
+		"ActionNoun": {
+			"Singular": "idler",
+			"Plural": "idlers"
+		}
+	},
+	{
+		"Word": "idol",
+		"Noun": {
+			"Singular": "idol",
+			"Plural": "idols"
+		},
+		"Verb": {
+			"Verb": "idol",
+			"SimplePresent": "idols",
+			"SimplePast": "idoled",
+			"PastParticiple": "idoled",
+			"PresentParticiple": "idoling"
+		}
+	},
+	{
+		"Word": "idolize",
+		"Noun": {
+			"Singular": "idoltry",
+			"Plural": "idoltries"
+		},
+		"Verb": {
+			"Verb": "idolize",
+			"SimplePresent": "idolizes",
+			"SimplePast": "idolized",
+			"PastParticiple": "idolized",
+			"PresentParticiple": "idolizing"
+		},
+		"ActionNoun": {
+			"Singular": "idolizer",
+			"Plural": "idolizers"
+		}
+	},
+	{
+		"Word": "ill",
+		"Noun": {
+			"Singular": "illness",
+			"Plural": "illnesses"
+		},
+		"Adjective": {
+			"Adjective": "ill"
+		}
+	},
+	{
+		"Word": "imprison",
+		"Verb": {
+			"Verb": "imprison",
+			"SimplePresent": "imprisons",
+			"SimplePast": "imprisoned",
+			"PastParticiple": "imprisoned",
+			"PresentParticiple": "imprisoning"
+		},
+		"ActionNoun": {
+			"Singular": "imprisoner",
+			"Plural": "imprisoners"
+		}
+	},
+	{
+		"Word": "impure",
+		"Noun": {
+			"Singular": "impurity",
+			"Plural": "impurities"
+		},
+		"Verb": {
+			"Verb": "impure",
+			"SimplePresent": "impures",
+			"SimplePast": "impured",
+			"PastParticiple": "impured",
+			"PresentParticiple": "impuring"
+		},
+		"Adjective": {
+			"Adjective": "impure"
+		}
+	},
+	{
+		"Word": "incense",
+		"Noun": {
+			"Singular": "incense",
+			"Plural": "incenses"
+		},
+		"Verb": {
+			"Verb": "incense",
+			"SimplePresent": "incenses",
+			"SimplePast": "incensed",
+			"PastParticiple": "incensed",
+			"PresentParticiple": "incensing"
+		}
+	},
+	{
+		"Word": "incest",
+		"Noun": {
+			"Singular": "incest",
+			"Plural": "incests"
+		},
+		"Verb": {
+			"Verb": "incest",
+			"SimplePresent": "incests",
+			"SimplePast": "incested",
+			"PastParticiple": "incested",
+			"PresentParticiple": "incesting"
+		}
+	},
+	{
+		"Word": "inch",
+		"Noun": {
+			"Singular": "inch",
+			"Plural": "inches"
+		},
+		"Verb": {
+			"Verb": "inch",
+			"SimplePresent": "inches",
+			"SimplePast": "inched",
+			"PastParticiple": "inched",
+			"PresentParticiple": "inching"
+		}
+	},
+	{
+		"Word": "ink",
+		"Noun": {
+			"Singular": "ink",
+			"Plural": "inks"
+		},
+		"Verb": {
+			"Verb": "ink",
+			"SimplePresent": "inks",
+			"SimplePast": "inked",
+			"PastParticiple": "inked",
+			"PresentParticiple": "inking"
+		},
+		"Adjective": {
+			"Adjective": "inky"
+		},
+		"ActionNoun": {
+			"Singular": "inker",
+			"Plural": "inkers"
+		}
+	},
+	{
+		"Word": "inkling",
+		"Noun": {
+			"Singular": "inkling",
+			"Plural": "inklings"
+		}
+	},
+	{
+		"Word": "inn",
+		"Noun": {
+			"Singular": "inn",
+			"Plural": "inns"
+		},
+		"ActionNoun": {
+			"Singular": "innkeeper",
+			"Plural": "innkeepers"
+		}
+	},
+	{
+		"Word": "insane",
+		"Noun": {
+			"Singular": "insanity",
+			"Plural": "insanities"
+		},
+		"Adjective": {
+			"Adjective": "insane"
+		}
+	},
+	{
+		"Word": "invisible",
+		"Noun": {
+			"Singular": "invisibility",
+			"Plural": "invisibilities"
+		},
+		"Adjective": {
+			"Adjective": "invisible"
+		}
+	},
+	{
+		"Word": "iron",
+		"Noun": {
+			"Singular": "iron",
+			"Plural": "irons"
+		},
+		"Verb": {
+			"Verb": "iron",
+			"SimplePresent": "irons",
+			"SimplePast": "ironed",
+			"PastParticiple": "ironed",
+			"PresentParticiple": "ironing"
+		},
+		"Adjective": {
+			"Adjective": "irony"
+		},
+		"ActionNoun": {
+			"Singular": "ironer",
+			"Plural": "ironers"
+		}
+	},
+	{
+		"Word": "irony",
+		"Noun": {
+			"Singular": "irony",
+			"Plural": "ironies"
+		}
+	},
+	{
+		"Word": "itch",
+		"Noun": {
+			"Singular": "itch",
+			"Plural": "itches"
+		},
+		"Verb": {
+			"Verb": "itch",
+			"SimplePresent": "itches",
+			"SimplePast": "itched",
+			"PastParticiple": "itched",
+			"PresentParticiple": "itching"
+		},
+		"ActionNoun": {
+			"Singular": "itcher",
+			"Plural": "itchers"
+		}
+	},
+	{
+		"Word": "ivory",
+		"Noun": {
+			"Singular": "ivory",
+			"Plural": "ivory"
+		},
+		"Adjective": {
+			"Adjective": "ivory"
+		}
+	},
+	{
+		"Word": "ivy",
+		"Noun": {
+			"Singular": "ivy",
+			"Plural": "ivy"
+		}
+	},
+	{
+		"Word": "jackal",
+		"Noun": {
+			"Singular": "jackal",
+			"Plural": "jackals"
+		}
+	},
+	{
+		"Word": "jaw",
+		"Noun": {
+			"Singular": "jaw",
+			"Plural": "jaws"
+		}
+	},
+	{
+		"Word": "jest",
+		"Noun": {
+			"Singular": "jest",
+			"Plural": "jests"
+		},
+		"Verb": {
+			"Verb": "jest",
+			"SimplePresent": "jests",
+			"SimplePast": "jested",
+			"PastParticiple": "jested",
+			"PresentParticiple": "jesting"
+		},
+		"ActionNoun": {
+			"Singular": "jester",
+			"Plural": "jesters"
+		}
+	},
+	{
+		"Word": "joke",
+		"Noun": {
+			"Singular": "joke",
+			"Plural": "jokes"
+		},
+		"Verb": {
+			"Verb": "joke",
+			"SimplePresent": "jokes",
+			"SimplePast": "joked",
+			"PastParticiple": "joked",
+			"PresentParticiple": "joking"
+		},
+		"ActionNoun": {
+			"Singular": "joker",
+			"Plural": "jokers"
+		}
+	},
+	{
+		"Word": "judge",
+		"Noun": {
+			"Singular": "judge",
+			"Plural": "judges"
+		},
+		"Verb": {
+			"Verb": "judge",
+			"SimplePresent": "judges",
+			"SimplePast": "judged",
+			"PastParticiple": "judged",
+			"PresentParticiple": "judging"
+		}
+	},
+	{
+		"Word": "juggle",
+		"Verb": {
+			"Verb": "juggle",
+			"SimplePresent": "juggles",
+			"SimplePast": "juggled",
+			"PastParticiple": "juggled",
+			"PresentParticiple": "juggling"
+		},
+		"ActionNoun": {
+			"Singular": "juggler",
+			"Plural": "jugglers"
+		}
+	},
+	{
+		"Word": "juice",
+		"Noun": {
+			"Singular": "juice",
+			"Plural": "juices"
+		},
+		"Verb": {
+			"Verb": "juice",
+			"SimplePresent": "juices",
+			"SimplePast": "juiced",
+			"PastParticiple": "juiced",
+			"PresentParticiple": "juicing"
+		},
+		"ActionNoun": {
+			"Singular": "juicer",
+			"Plural": "juicers"
+		}
+	},
+	{
+		"Word": "jump",
+		"Verb": {
+			"Verb": "jump",
+			"SimplePresent": "jumps",
+			"SimplePast": "jumped",
+			"PastParticiple": "jumped",
+			"PresentParticiple": "jumping"
+		},
+		"Adjective": {
+			"Adjective": "jumpy"
+		},
+		"ActionNoun": {
+			"Singular": "jumper",
+			"Plural": "jumpers"
+		}
+	},
+	{
+		"Word": "jungle",
+		"Noun": {
+			"Singular": "jungle",
+			"Plural": "jungles"
+		}
+	},
+	{
+		"Word": "just",
+		"Noun": {
+			"Singular": "justice",
+			"Plural": "justices"
+		},
+		"Adjective": {
+			"Adjective": "just"
+		}
+	},
+	{
+		"Word": "justify",
+		"Verb": {
+			"Verb": "justify",
+			"SimplePresent": "justifies",
+			"SimplePast": "justified",
+			"PastParticiple": "justified",
+			"PresentParticiple": "justifying"
+		}
+	},
+	{
+		"Word": "keep",
+		"Noun": {
+			"Singular": "keep",
+			"Plural": "keeps"
+		},
+		"Verb": {
+			"Verb": "keep",
+			"SimplePresent": "keeps",
+			"SimplePast": "kept",
+			"PastParticiple": "kept",
+			"PresentParticiple": "keeping"
+		},
+		"ActionNoun": {
+			"Singular": "keeper",
+			"Plural": "keepers"
+		}
+	},
+	{
+		"Word": "keg",
+		"Noun": {
+			"Singular": "keg",
+			"Plural": "kegs"
+		}
+	},
+	{
+		"Word": "key",
+		"Noun": {
+			"Singular": "key",
+			"Plural": "keys"
+		}
+	},
+	{
+		"Word": "kick",
+		"Noun": {
+			"Singular": "kick",
+			"Plural": "kicks"
+		},
+		"Verb": {
+			"Verb": "kick",
+			"SimplePresent": "kicks",
+			"SimplePast": "kicked",
+			"PastParticiple": "kicked",
+			"PresentParticiple": "kicking"
+		},
+		"Adjective": {
+			"Adjective": "kicking"
+		},
+		"ActionNoun": {
+			"Singular": "kicker",
+			"Plural": "kickers"
+		}
+	},
+	{
+		"Word": "kill",
+		"Noun": {
+			"Singular": "kill",
+			"Plural": "kills"
+		},
+		"Verb": {
+			"Verb": "kill",
+			"SimplePresent": "kills",
+			"SimplePast": "killed",
+			"PastParticiple": "killed",
+			"PresentParticiple": "killing"
+		},
+		"ActionNoun": {
+			"Singular": "killer",
+			"Plural": "killers"
+		}
+	},
+	{
+		"Word": "kind",
+		"Noun": {
+			"Singular": "kindness",
+			"Plural": "kindnesses"
+		},
+		"Adjective": {
+			"Adjective": "kind"
+		}
+	},
+	{
+		"Word": "kiss",
+		"Noun": {
+			"Singular": "kiss",
+			"Plural": "kisses"
+		},
+		"Verb": {
+			"Verb": "kiss",
+			"SimplePresent": "kisses",
+			"SimplePast": "kissed",
+			"PastParticiple": "kissed",
+			"PresentParticiple": "kissing"
+		},
+		"ActionNoun": {
+			"Singular": "kisser",
+			"Plural": "kissers"
+		}
+	},
+	{
+		"Word": "king",
+		"Noun": {
+			"Singular": "king",
+			"Plural": "kings"
+		},
+		"Adjective": {
+			"Adjective": "kingly"
+		}
+	},
+	{
+		"Word": "kingdom",
+		"Noun": {
+			"Singular": "kingdom",
+			"Plural": "kingdoms"
+		}
+	},
+	{
+		"Word": "knead",
+		"Verb": {
+			"Verb": "knead",
+			"SimplePresent": "kneads",
+			"SimplePast": "kneaded",
+			"PastParticiple": "knead",
+			"PresentParticiple": "kneading"
+		},
+		"ActionNoun": {
+			"Singular": "kneader",
+			"Plural": "kneaders"
+		}
+	},
+	{
+		"Word": "knife",
+		"Noun": {
+			"Singular": "knife",
+			"Plural": "knives"
+		},
+		"Verb": {
+			"Verb": "knife",
+			"SimplePresent": "knifes",
+			"SimplePast": "knifed",
+			"PastParticiple": "knifed",
+			"PresentParticiple": "knifing"
+		},
+		"ActionNoun": {
+			"Singular": "knifer",
+			"Plural": "knifer"
+		}
+	},
+	{
+		"Word": "knight",
+		"Noun": {
+			"Singular": "knight",
+			"Plural": "knights"
+		},
+		"Verb": {
+			"Verb": "knight",
+			"SimplePresent": "knights",
+			"SimplePast": "knighted",
+			"PastParticiple": "knighted",
+			"PresentParticiple": "knighting"
+		}
+	},
+	{
+		"Word": "knit",
+		"Verb": {
+			"Verb": "knit",
+			"SimplePresent": "knits",
+			"SimplePast": "knit",
+			"PastParticiple": "knitted",
+			"PresentParticiple": "knitting"
+		},
+		"Adjective": {
+			"Adjective": "knit"
+		},
+		"ActionNoun": {
+			"Singular": "knitter",
+			"Plural": "knitters"
+		}
+	},
+	{
+		"Word": "knot",
+		"Noun": {
+			"Singular": "knot",
+			"Plural": "knots"
+		},
+		"Verb": {
+			"Verb": "knot",
+			"SimplePresent": "knots",
+			"SimplePast": "knotted",
+			"PastParticiple": "knotted",
+			"PresentParticiple": "knotting"
+		}
+	},
+	{
+		"Word": "lace",
+		"Noun": {
+			"Singular": "lace",
+			"Plural": "laces"
+		},
+		"Verb": {
+			"Verb": "lace",
+			"SimplePresent": "laces",
+			"SimplePast": "laced",
+			"PastParticiple": "laced",
+			"PresentParticiple": "lacing"
+		},
+		"Adjective": {
+			"Adjective": "lacy"
+		}
+	},
+	{
+		"Word": "lake",
+		"Noun": {
+			"Singular": "lake",
+			"Plural": "lakes"
+		}
+	},
+	{
+		"Word": "lard",
+		"Noun": {
+			"Singular": "lard",
+			"Plural": "lards"
+		}
+	},
+	{
+		"Word": "larva",
+		"Noun": {
+			"Singular": "larva",
+			"Plural": "larvae"
+		},
+		"Adjective": {
+			"Adjective": "larval"
+		}
+	},
+	{
+		"Word": "last",
+		"Verb": {
+			"Verb": "last",
+			"SimplePresent": "lasts",
+			"SimplePast": "lasted",
+			"PastParticiple": "lasted",
+			"PresentParticiple": "lasting"
+		},
+		"Adjective": {
+			"Adjective": "last"
+		}
+	},
+	{
+		"Word": "law",
+		"Noun": {
+			"Singular": "law",
+			"Plural": "laws"
+		},
+		"ActionNoun": {
+			"Singular": "lawyer",
+			"Plural": "lawyers"
+		}
+	},
+	{
+		"Word": "lazy",
+		"Noun": {
+			"Singular": "laziness",
+			"Plural": "lazinesses"
+		},
+		"Adjective": {
+			"Adjective": "lazy"
+		}
+	},
+	{
+		"Word": "lead",
+		"Verb": {
+			"Verb": "lead",
+			"SimplePresent": "leads",
+			"SimplePast": "led",
+			"PastParticiple": "led",
+			"PresentParticiple": "leading"
+		},
+		"ActionNoun": {
+			"Singular": "leader",
+			"Plural": "leaders"
+		}
+	},
+	{
+		"Word": "lead_metal",
+		"Noun": {
+			"Singular": "lead",
+			"Plural": "lead"
+		}
+	},
+	{
+		"Word": "leaf",
+		"Noun": {
+			"Singular": "leaf",
+			"Plural": "leaves"
+		},
+		"Adjective": {
+			"Adjective": "leafy"
+		}
+	},
+	{
+		"Word": "leak",
+		"Noun": {
+			"Singular": "leak",
+			"Plural": "leak"
+		},
+		"Verb": {
+			"Verb": "leak",
+			"SimplePresent": "leaks",
+			"SimplePast": "leaked",
+			"PastParticiple": "leaked",
+			"PresentParticiple": "leaking"
+		},
+		"Adjective": {
+			"Adjective": "leaky"
+		}
+	},
+	{
+		"Word": "lean",
+		"Adjective": {
+			"Adjective": "lean"
+		}
+	},
+	{
+		"Word": "leech",
+		"Noun": {
+			"Singular": "leech",
+			"Plural": "leeches"
+		},
+		"Verb": {
+			"Verb": "leech",
+			"SimplePresent": "leeches",
+			"SimplePast": "leeched",
+			"PastParticiple": "leeched",
+			"PresentParticiple": "leeching"
+		},
+		"ActionNoun": {
+			"Singular": "leecher",
+			"Plural": "leechers"
+		}
+	},
+	{
+		"Word": "legend",
+		"Noun": {
+			"Singular": "legend",
+			"Plural": "legends"
+		},
+		"Adjective": {
+			"Adjective": "legendary"
+		}
+	},
+	{
+		"Word": "lens",
+		"Noun": {
+			"Singular": "lens",
+			"Plural": "lenses"
+		}
+	},
+	{
+		"Word": "leopard",
+		"Noun": {
+			"Singular": "leopard",
+			"Plural": "leopards"
+		}
+	},
+	{
+		"Word": "leper",
+		"Noun": {
+			"Singular": "leper",
+			"Plural": "leper"
+		},
+		"Adjective": {
+			"Adjective": "leperous"
+		}
+	},
+	{
+		"Word": "leprosy",
+		"Noun": {
+			"Singular": "leprosy",
+			"Plural": "leprosies"
+		}
+	},
+	{
+		"Word": "letter",
+		"Noun": {
+			"Singular": "letter",
+			"Plural": "letters"
+		}
+	},
+	{
+		"Word": "lie",
+		"Noun": {
+			"Singular": "lie",
+			"Plural": "lies"
+		},
+		"Verb": {
+			"Verb": "lie",
+			"SimplePresent": "lies",
+			"SimplePast": "lied",
+			"PastParticiple": "lied",
+			"PresentParticiple": "lieing"
+		},
+		"ActionNoun": {
+			"Singular": "liar",
+			"Plural": "liars"
+		}
+	},
+	{
+		"Word": "light",
+		"Noun": {
+			"Singular": "light",
+			"Plural": "lights"
+		},
+		"Verb": {
+			"Verb": "light",
+			"SimplePresent": "lights",
+			"SimplePast": "lit",
+			"PastParticiple": "lit",
+			"PresentParticiple": "lighting"
+		},
+		"Adjective": {
+			"Adjective": "light"
+		},
+		"ActionNoun": {
+			"Singular": "lighter",
+			"Plural": "lighters"
+		}
+	},
+	{
+		"Word": "lightning",
+		"Noun": {
+			"Singular": "lightning",
+			"Plural": "lightnings"
+		}
+	},
+	{
+		"Word": "life",
+		"Noun": {
+			"Singular": "life",
+			"Plural": "lives"
+		},
+		"Verb": {
+			"Verb": "live",
+			"SimplePresent": "lives",
+			"SimplePast": "lived",
+			"PastParticiple": "lived",
+			"PresentParticiple": "living"
+		}
+	},
+	{
+		"Word": "limb",
+		"Noun": {
+			"Singular": "limb",
+			"Plural": "limbs"
+		}
+	},
+	{
+		"Word": "lip",
+		"Noun": {
+			"Singular": "lip",
+			"Plural": "lips"
+		}
+	},
+	{
+		"Word": "listen",
+		"Verb": {
+			"Verb": "listen",
+			"SimplePresent": "listens",
+			"SimplePast": "listened",
+			"PastParticiple": "listened",
+			"PresentParticiple": "listening"
+		},
+		"ActionNoun": {
+			"Singular": "listener",
+			"Plural": "listeners"
+		}
+	},
+	{
+		"Word": "liver",
+		"Noun": {
+			"Singular": "liver",
+			"Plural": "livers"
+		}
+	},
+	{
+		"Word": "lizard",
+		"Noun": {
+			"Singular": "lizard",
+			"Plural": "lizards"
+		}
+	},
+	{
+		"Word": "loan",
+		"Noun": {
+			"Singular": "loan",
+			"Plural": "loans"
+		},
+		"Verb": {
+			"Verb": "loan",
+			"SimplePresent": "loans",
+			"SimplePast": "loaned",
+			"PastParticiple": "loaned",
+			"PresentParticiple": "loaning"
+		},
+		"ActionNoun": {
+			"Singular": "loaner",
+			"Plural": "loaners"
+		}
+	},
+	{
+		"Word": "lobster",
+		"Noun": {
+			"Singular": "lobster",
+			"Plural": "lobsters"
+		}
+	},
+	{
+		"Word": "lock",
+		"Noun": {
+			"Singular": "lock",
+			"Plural": "locks"
+		},
+		"Verb": {
+			"Verb": "lock",
+			"SimplePresent": "locks",
+			"SimplePast": "locked",
+			"PastParticiple": "locked",
+			"PresentParticiple": "locking"
+		}
+	},
+	{
+		"Word": "lone",
+		"Adjective": {
+			"Adjective": "lone"
+		},
+		"ActionNoun": {
+			"Singular": "loner",
+			"Plural": "loners"
+		}
+	},
+	{
+		"Word": "long",
+		"Noun": {
+			"Singular": "length",
+			"Plural": "lengths"
+		},
+		"Adjective": {
+			"Adjective": "long"
+		}
+	},
+	{
+		"Word": "loot",
+		"Noun": {
+			"Singular": "loot",
+			"Plural": "loots"
+		},
+		"Verb": {
+			"Verb": "loot",
+			"SimplePresent": "loots",
+			"SimplePast": "looted",
+			"PastParticiple": "looted",
+			"PresentParticiple": "looting"
+		},
+		"ActionNoun": {
+			"Singular": "looter",
+			"Plural": "looters"
+		}
+	},
+	{
+		"Word": "lord",
+		"Noun": {
+			"Singular": "lord",
+			"Plural": "lords"
+		},
+		"Adjective": {
+			"Adjective": "lordly"
+		}
+	},
+	{
+		"Word": "lose",
+		"Verb": {
+			"Verb": "lose",
+			"SimplePresent": "loses",
+			"SimplePast": "lost",
+			"PastParticiple": "lost",
+			"PresentParticiple": "losing"
+		},
+		"ActionNoun": {
+			"Singular": "loser",
+			"Plural": "losers"
+		}
+	},
+	{
+		"Word": "louse",
+		"Noun": {
+			"Singular": "louse",
+			"Plural": "lice"
+		}
+	},
+	{
+		"Word": "love",
+		"Noun": {
+			"Singular": "love",
+			"Plural": "loves"
+		},
+		"Verb": {
+			"Verb": "love",
+			"SimplePresent": "loves",
+			"SimplePast": "loved",
+			"PastParticiple": "loved",
+			"PresentParticiple": "loving"
+		},
+		"Adjective": {
+			"Adjective": "lovely"
+		},
+		"ActionNoun": {
+			"Singular": "lover",
+			"Plural": "lovers"
+		}
+	},
+	{
+		"Word": "low",
+		"Noun": {
+			"Singular": "lowness",
+			"Plural": "lownesses"
+		},
+		"Verb": {
+			"Verb": "lower",
+			"SimplePresent": "lowers",
+			"SimplePast": "lowered",
+			"PastParticiple": "lowered",
+			"PresentParticiple": "lowering"
+		},
+		"Adjective": {
+			"Adjective": "low"
+		}
+	},
+	{
+		"Word": "lunch",
+		"Noun": {
+			"Singular": "lunch",
+			"Plural": "lunches"
+		}
+	},
+	{
+		"Word": "lung",
+		"Noun": {
+			"Singular": "lung",
+			"Plural": "lungs"
+		}
+	},
+	{
+		"Word": "lurch",
+		"Verb": {
+			"Verb": "lurch",
+			"SimplePresent": "lurches",
+			"SimplePast": "lurched",
+			"PastParticiple": "lurched",
+			"PresentParticiple": "lurching"
+		}
+	},
+	{
+		"Word": "lurk",
+		"Verb": {
+			"Verb": "lurk",
+			"SimplePresent": "lurks",
+			"SimplePast": "lurked",
+			"PastParticiple": "lurked",
+			"PresentParticiple": "lurking"
+		},
+		"ActionNoun": {
+			"Singular": "lurker",
+			"Plural": "lurkers"
+		}
+	},
+	{
+		"Word": "lush",
+		"Noun": {
+			"Singular": "lushness",
+			"Plural": "lushnesses"
+		},
+		"Adjective": {
+			"Adjective": "lush"
+		}
+	},
+	{
+		"Word": "lust",
+		"Noun": {
+			"Singular": "lust",
+			"Plural": "lusts"
+		},
+		"Adjective": {
+			"Adjective": "lustful"
+		}
+	},
+	{
+		"Word": "lute",
+		"Noun": {
+			"Singular": "lute",
+			"Plural": "lutes"
+		}
+	},
+	{
+		"Word": "lyric",
+		"Noun": {
+			"Singular": "lyric",
+			"Plural": "lyrics"
+		},
+		"Adjective": {
+			"Adjective": "lyrical"
+		},
+		"ActionNoun": {
+			"Singular": "lyricist",
+			"Plural": "lyricists"
+		}
+	},
+	{
+		"Word": "maggot",
+		"Noun": {
+			"Singular": "maggot",
+			"Plural": "maggots"
+		}
+	},
+	{
+		"Word": "magic",
+		"Noun": {
+			"Singular": "magic",
+			"Plural": "magics"
+		},
+		"Adjective": {
+			"Adjective": "magical"
+		}
+	},
+	{
+		"Word": "man",
+		"Noun": {
+			"Singular": "man",
+			"Plural": "men"
+		},
+		"Adjective": {
+			"Adjective": "manly"
+		}
+	},
+	{
+		"Word": "mangle",
+		"Verb": {
+			"Verb": "mangle",
+			"SimplePresent": "mangles",
+			"SimplePast": "mangled",
+			"PastParticiple": "mangled",
+			"PresentParticiple": "mangling"
+		},
+		"ActionNoun": {
+			"Singular": "mangler",
+			"Plural": "manglers"
+		}
+	},
+	{
+		"Word": "mangy",
+		"Adjective": {
+			"Adjective": "mangy"
+		}
+	},
+	{
+		"Word": "marsh",
+		"Noun": {
+			"Singular": "marsh",
+			"Plural": "marshes"
+		}
+	},
+	{
+		"Word": "martyr",
+		"Noun": {
+			"Singular": "martyr",
+			"Plural": "martyrs"
+		},
+		"Verb": {
+			"Verb": "martyr",
+			"SimplePresent": "martyrs",
+			"SimplePast": "martyred",
+			"PastParticiple": "martyred",
+			"PresentParticiple": "martyring"
+		}
+	},
+	{
+		"Word": "master",
+		"Noun": {
+			"Singular": "master",
+			"Plural": "masters"
+		},
+		"Verb": {
+			"Verb": "master",
+			"SimplePresent": "masters",
+			"SimplePast": "mastered",
+			"PastParticiple": "mastered",
+			"PresentParticiple": "mastering"
+		}
+	},
+	{
+		"Word": "mead",
+		"Noun": {
+			"Singular": "mead",
+			"Plural": "meads"
+		}
+	},
+	{
+		"Word": "meadow",
+		"Noun": {
+			"Singular": "meadow",
+			"Plural": "meadows"
+		}
+	},
+	{
+		"Word": "meal",
+		"Noun": {
+			"Singular": "meal",
+			"Plural": "meals"
+		}
+	},
+	{
+		"Word": "meat",
+		"Noun": {
+			"Singular": "meat",
+			"Plural": "meats"
+		}
+	},
+	{
+		"Word": "meditation",
+		"Noun": {
+			"Singular": "meditation",
+			"Plural": "meditations"
+		},
+		"Verb": {
+			"Verb": "meditate",
+			"SimplePresent": "meditates",
+			"SimplePast": "meditated",
+			"PastParticiple": "meditated",
+			"PresentParticiple": "meditating"
+		},
+		"ActionNoun": {
+			"Singular": "meditater",
+			"Plural": "meditaters"
+		}
+	},
+	{
+		"Word": "mellow",
+		"Adjective": {
+			"Adjective": "mellow"
+		}
+	},
+	{
+		"Word": "menace",
+		"Noun": {
+			"Singular": "menace",
+			"Plural": "menaces"
+		},
+		"Verb": {
+			"Verb": "menace",
+			"SimplePresent": "menaces",
+			"SimplePast": "menaced",
+			"PastParticiple": "menaced",
+			"PresentParticiple": "menacing"
+		}
+	},
+	{
+		"Word": "mess",
+		"Noun": {
+			"Singular": "mess",
+			"Plural": "messes"
+		},
+		"Verb": {
+			"Verb": "mess",
+			"SimplePresent": "messes",
+			"SimplePast": "messed",
+			"PastParticiple": "messed",
+			"PresentParticiple": "messing"
+		}
+	},
+	{
+		"Word": "metal",
+		"Noun": {
+			"Singular": "metal",
+			"Plural": "metals"
+		}
+	},
+	{
+		"Word": "midnight",
+		"Noun": {
+			"Singular": "midnight",
+			"Plural": "midnights"
+		}
+	},
+	{
+		"Word": "might",
+		"Noun": {
+			"Singular": "might",
+			"Plural": "mights"
+		},
+		"Adjective": {
+			"Adjective": "mighty"
+		}
+	},
+	{
+		"Word": "mile",
+		"Noun": {
+			"Singular": "mile",
+			"Plural": "miles"
+		}
+	},
+	{
+		"Word": "mince",
+		"Verb": {
+			"Verb": "mince",
+			"SimplePresent": "minces",
+			"SimplePast": "minced",
+			"PastParticiple": "minced",
+			"PresentParticiple": "mincing"
+		},
+		"ActionNoun": {
+			"Singular": "mincer",
+			"Plural": "mincers"
+		}
+	},
+	{
+		"Word": "mind",
+		"Noun": {
+			"Singular": "mind",
+			"Plural": "minds"
+		},
+		"Verb": {
+			"Verb": "mind",
+			"SimplePresent": "minds",
+			"SimplePast": "minded",
+			"PastParticiple": "minded",
+			"PresentParticiple": "minding"
+		}
+	},
+	{
+		"Word": "mine",
+		"Noun": {
+			"Singular": "mine",
+			"Plural": "mine"
+		},
+		"Verb": {
+			"Verb": "mine",
+			"SimplePresent": "mines",
+			"SimplePast": "mined",
+			"PastParticiple": "mined",
+			"PresentParticiple": "mining"
+		},
+		"ActionNoun": {
+			"Singular": "miner",
+			"Plural": "miners"
+		}
+	},
+	{
+		"Word": "minion",
+		"Noun": {
+			"Singular": "minion",
+			"Plural": "minions"
+		}
+	},
+	{
+		"Word": "mirror",
+		"Noun": {
+			"Singular": "mirror",
+			"Plural": "mirror"
+		},
+		"Verb": {
+			"Verb": "mirror",
+			"SimplePresent": "mirrors",
+			"SimplePast": "mirrored",
+			"PastParticiple": "mirrored",
+			"PresentParticiple": "mirroring"
+		}
+	},
+	{
+		"Word": "misery",
+		"Noun": {
+			"Singular": "misery",
+			"Plural": "miseries"
+		},
+		"Adjective": {
+			"Adjective": "miserable"
+		}
+	},
+	{
+		"Word": "mist",
+		"Noun": {
+			"Singular": "mist",
+			"Plural": "mists"
+		},
+		"Verb": {
+			"Verb": "mist",
+			"SimplePresent": "mists",
+			"SimplePast": "misted",
+			"PastParticiple": "misted",
+			"PresentParticiple": "misting"
+		},
+		"Adjective": {
+			"Adjective": "misty"
+		}
+	},
+	{
+		"Word": "mold",
+		"Noun": {
+			"Singular": "mold",
+			"Plural": "molds"
+		},
+		"Verb": {
+			"Verb": "mold",
+			"SimplePresent": "molds",
+			"SimplePast": "molded",
+			"PastParticiple": "molded",
+			"PresentParticiple": "molding"
+		},
+		"Adjective": {
+			"Adjective": "moldy"
+		}
+	},
+	{
+		"Word": "mole",
+		"Noun": {
+			"Singular": "mole",
+			"Plural": "moles"
+		}
+	},
+	{
+		"Word": "molten",
+		"Adjective": {
+			"Adjective": "molten"
+		}
+	},
+	{
+		"Word": "monkey",
+		"Noun": {
+			"Singular": "monkey",
+			"Plural": "monkeys"
+		}
+	},
+	{
+		"Word": "moon",
+		"Noun": {
+			"Singular": "moon",
+			"Plural": "moons"
+		}
+	},
+	{
+		"Word": "moth",
+		"Noun": {
+			"Singular": "moth",
+			"Plural": "moths"
+		}
+	},
+	{
+		"Word": "mother",
+		"Noun": {
+			"Singular": "mother",
+			"Plural": "mothers"
+		}
+	},
+	{
+		"Word": "mouse",
+		"Noun": {
+			"Singular": "mouse",
+			"Plural": "mice"
+		},
+		"Adjective": {
+			"Adjective": "mousy"
+		}
+	},
+	{
+		"Word": "mouth",
+		"Noun": {
+			"Singular": "mouth",
+			"Plural": "mouths"
+		}
+	},
+	{
+		"Word": "mud",
+		"Noun": {
+			"Singular": "mud",
+			"Plural": "muds"
+		},
+		"Adjective": {
+			"Adjective": "muddy"
+		}
+	},
+	{
+		"Word": "muffin",
+		"Noun": {
+			"Singular": "muffin",
+			"Plural": "muffins"
+		}
+	},
+	{
+		"Word": "mule",
+		"Noun": {
+			"Singular": "mule",
+			"Plural": "mules"
+		}
+	},
+	{
+		"Word": "murder",
+		"Noun": {
+			"Singular": "murder",
+			"Plural": "murders"
+		},
+		"Verb": {
+			"Verb": "murder",
+			"SimplePresent": "murders",
+			"SimplePast": "murdered",
+			"PastParticiple": "murdered",
+			"PresentParticiple": "murdering"
+		},
+		"ActionNoun": {
+			"Singular": "murderer",
+			"Plural": "murderers"
+		}
+	},
+	{
+		"Word": "mush",
+		"Noun": {
+			"Singular": "mush",
+			"Plural": "mushes"
+		},
+		"Verb": {
+			"Verb": "mush",
+			"SimplePresent": "mushes",
+			"SimplePast": "mushed",
+			"PastParticiple": "mushed",
+			"PresentParticiple": "mushing"
+		},
+		"Adjective": {
+			"Adjective": "mushy"
+		},
+		"ActionNoun": {
+			"Singular": "musher",
+			"Plural": "musher"
+		}
+	},
+	{
+		"Word": "mushroom",
+		"Noun": {
+			"Singular": "mushroom",
+			"Plural": "mushrooms"
+		}
+	},
+	{
+		"Word": "music",
+		"Noun": {
+			"Singular": "music",
+			"Plural": "musics"
+		},
+		"Adjective": {
+			"Adjective": "musical"
+		}
+	},
+	{
+		"Word": "mystery",
+		"Noun": {
+			"Singular": "mystery",
+			"Plural": "mysteries"
+		},
+		"Adjective": {
+			"Adjective": "mysterious"
+		}
+	},
+	{
+		"Word": "myth",
+		"Noun": {
+			"Singular": "myth",
+			"Plural": "myths"
+		},
+		"Adjective": {
+			"Adjective": "mythical"
+		}
+	},
+	{
+		"Word": "nail",
+		"Noun": {
+			"Singular": "nail",
+			"Plural": "nails"
+		}
+	},
+	{
+		"Word": "nasty",
+		"Adjective": {
+			"Adjective": "nasty"
+		}
+	},
+	{
+		"Word": "nature",
+		"Noun": {
+			"Singular": "nature",
+			"Plural": "natures"
+		},
+		"Adjective": {
+			"Adjective": "natural"
+		}
+	},
+	{
+		"Word": "negate",
+		"Verb": {
+			"Verb": "negate",
+			"SimplePresent": "negates",
+			"SimplePast": "negated",
+			"PastParticiple": "negated",
+			"PresentParticiple": "negating"
+		},
+		"Adjective": {
+			"Adjective": "negative"
+		},
+		"ActionNoun": {
+			"Singular": "negator",
+			"Plural": "negators"
+		}
+	},
+	{
+		"Word": "nest",
+		"Noun": {
+			"Singular": "nest",
+			"Plural": "nests"
+		},
+		"Verb": {
+			"Verb": "nest",
+			"SimplePresent": "nests",
+			"SimplePast": "nested",
+			"PastParticiple": "nested",
+			"PresentParticiple": "nesting"
+		}
+	},
+	{
+		"Word": "nestle",
+		"Verb": {
+			"Verb": "nestle",
+			"SimplePresent": "nestles",
+			"SimplePast": "nestled",
+			"PastParticiple": "nestled",
+			"PresentParticiple": "nestling"
+		}
+	},
+	{
+		"Word": "net",
+		"Noun": {
+			"Singular": "net",
+			"Plural": "nets"
+		},
+		"Verb": {
+			"Verb": "net",
+			"SimplePresent": "nets",
+			"SimplePast": "netted",
+			"PastParticiple": "netted",
+			"PresentParticiple": "netting"
+		}
+	},
+	{
+		"Word": "new",
+		"Adjective": {
+			"Adjective": "new"
+		}
+	},
+	{
+		"Word": "newt",
+		"Noun": {
+			"Singular": "newt",
+			"Plural": "newts"
+		}
+	},
+	{
+		"Word": "nibble",
+		"Verb": {
+			"Verb": "nibble",
+			"SimplePresent": "nibbles",
+			"SimplePast": "nibbled",
+			"PastParticiple": "nibbled",
+			"PresentParticiple": "nibbling"
+		}
+	},
+	{
+		"Word": "night",
+		"Noun": {
+			"Singular": "night",
+			"Plural": "nights"
+		}
+	},
+	{
+		"Word": "nightmare",
+		"Noun": {
+			"Singular": "nightmare",
+			"Plural": "nightmares"
+		}
+	},
+	{
+		"Word": "noble",
+		"Noun": {
+			"Singular": "noble",
+			"Plural": "nobles"
+		},
+		"Adjective": {
+			"Adjective": "noble"
+		}
+	},
+	{
+		"Word": "north",
+		"Adjective": {
+			"Adjective": "north"
+		}
+	},
+	{
+		"Word": "nose",
+		"Noun": {
+			"Singular": "nose",
+			"Plural": "noses"
+		}
+	},
+	{
+		"Word": "null",
+		"Adjective": {
+			"Adjective": "null"
+		}
+	},
+	{
+		"Word": "number",
+		"Noun": {
+			"Singular": "number",
+			"Plural": "numbers"
+		}
+	},
+	{
+		"Word": "nurture",
+		"Verb": {
+			"Verb": "nurture",
+			"SimplePresent": "nurtures",
+			"SimplePast": "nurtured",
+			"PastParticiple": "nurtured",
+			"PresentParticiple": "nurturing"
+		}
+	},
+	{
+		"Word": "nut",
+		"Noun": {
+			"Singular": "nut",
+			"Plural": "nuts"
+		}
+	},
+	{
+		"Word": "oak",
+		"Noun": {
+			"Singular": "oak",
+			"Plural": "oaks"
+		},
+		"Adjective": {
+			"Adjective": "oaken"
+		}
+	},
+	{
+		"Word": "oar",
+		"Noun": {
+			"Singular": "oar",
+			"Plural": "oars"
+		}
+	},
+	{
+		"Word": "oat",
+		"Noun": {
+			"Singular": "oat",
+			"Plural": "oats"
+		}
+	},
+	{
+		"Word": "oblivion",
+		"Noun": {
+			"Singular": "oblivion",
+			"Plural": "oblivions"
+		}
+	},
+	{
+		"Word": "ocean",
+		"Noun": {
+			"Singular": "ocean",
+			"Plural": "oceans"
+		},
+		"Adjective": {
+			"Adjective": "oceanic"
+		}
+	},
+	{
+		"Word": "old",
+		"Adjective": {
+			"Adjective": "old"
+		}
+	},
+	{
+		"Word": "omen",
+		"Noun": {
+			"Singular": "omen",
+			"Plural": "omens"
+		}
+	},
+	{
+		"Word": "one",
+		"Noun": {
+			"Singular": "one",
+			"Plural": "ones"
+		}
+	},
+	{
+		"Word": "onion",
+		"Noun": {
+			"Singular": "onion",
+			"Plural": "onions"
+		}
+	},
+	{
+		"Word": "ooze",
+		"Noun": {
+			"Singular": "ooze",
+			"Plural": "oozes"
+		}
+	},
+	{
+		"Word": "open",
+		"Verb": {
+			"Verb": "open",
+			"SimplePresent": "opens",
+			"SimplePast": "opened",
+			"PastParticiple": "opened",
+			"PresentParticiple": "opening"
+		},
+		"ActionNoun": {
+			"Singular": "opener",
+			"Plural": "openers"
+		}
+	},
+	{
+		"Word": "orb",
+		"Noun": {
+			"Singular": "orb",
+			"Plural": "orbs"
+		}
+	},
+	{
+		"Word": "owl",
+		"Noun": {
+			"Singular": "owl",
+			"Plural": "owls"
+		}
+	},
+	{
+		"Word": "ox",
+		"Noun": {
+			"Singular": "ox",
+			"Plural": "oxen"
+		}
+	},
+	{
+		"Word": "pack",
+		"Noun": {
+			"Singular": "pack",
+			"Plural": "packs"
+		},
+		"Verb": {
+			"Verb": "pack",
+			"SimplePresent": "packs",
+			"SimplePast": "packed",
+			"PastParticiple": "packed",
+			"PresentParticiple": "packing"
+		},
+		"ActionNoun": {
+			"Singular": "packer",
+			"Plural": "packers"
+		}
+	},
+	{
+		"Word": "pad",
+		"Noun": {
+			"Singular": "pad",
+			"Plural": "pads"
+		},
+		"Verb": {
+			"Verb": "pad",
+			"SimplePresent": "pads",
+			"SimplePast": "padded",
+			"PastParticiple": "padded",
+			"PresentParticiple": "pading"
+		}
+	},
+	{
+		"Word": "page",
+		"Noun": {
+			"Singular": "page",
+			"Plural": "pages"
+		}
+	},
+	{
+		"Word": "pain",
+		"Noun": {
+			"Singular": "pain",
+			"Plural": "pains"
+		},
+		"Adjective": {
+			"Adjective": "painful"
+		}
+	},
+	{
+		"Word": "paint",
+		"Noun": {
+			"Singular": "paint",
+			"Plural": "paints"
+		},
+		"Verb": {
+			"Verb": "paint",
+			"SimplePresent": "paints",
+			"SimplePast": "painted",
+			"PastParticiple": "painted",
+			"PresentParticiple": "painting"
+		}
+	},
+	{
+		"Word": "pale",
+		"Noun": {
+			"Singular": "paleness",
+			"Plural": "palenesses"
+		},
+		"Adjective": {
+			"Adjective": "pale"
+		}
+	},
+	{
+		"Word": "palm",
+		"Noun": {
+			"Singular": "palm",
+			"Plural": "palms"
+		}
+	},
+	{
+		"Word": "pander",
+		"Verb": {
+			"Verb": "pander",
+			"SimplePresent": "panders",
+			"SimplePast": "pandered",
+			"PastParticiple": "pandered",
+			"PresentParticiple": "pandering"
+		},
+		"ActionNoun": {
+			"Singular": "panderer",
+			"Plural": "panderers"
+		}
+	},
+	{
+		"Word": "pant",
+		"Verb": {
+			"Verb": "pant",
+			"SimplePresent": "pant",
+			"SimplePast": "panted",
+			"PastParticiple": "panted",
+			"PresentParticiple": "panting"
+		}
+	},
+	{
+		"Word": "panther",
+		"Noun": {
+			"Singular": "panther",
+			"Plural": "panthers"
+		}
+	},
+	{
+		"Word": "pants",
+		"Noun": {
+			"Singular": "pants",
+			"Plural": "pants"
+		}
+	},
+	{
+		"Word": "paper",
+		"Noun": {
+			"Singular": "paper",
+			"Plural": "papers"
+		}
+	},
+	{
+		"Word": "peace",
+		"Noun": {
+			"Singular": "peace",
+			"Plural": "peaces"
+		},
+		"Adjective": {
+			"Adjective": "peaceful"
+		}
+	},
+	{
+		"Word": "peach",
+		"Noun": {
+			"Singular": "peach",
+			"Plural": "peaches"
+		}
+	},
+	{
+		"Word": "pepper",
+		"Noun": {
+			"Singular": "pepper",
+			"Plural": "peppers"
+		}
+	},
+	{
+		"Word": "pig",
+		"Noun": {
+			"Singular": "pig",
+			"Plural": "pigs"
+		}
+	},
+	{
+		"Word": "piss",
+		"Noun": {
+			"Singular": "piss",
+			"Plural": "pisses"
+		}
+	},
+	{
+		"Word": "pit",
+		"Noun": {
+			"Singular": "pit",
+			"Plural": "pits"
+		}
+	},
+	{
+		"Word": "pitch",
+		"Noun": {
+			"Singular": "pitch",
+			"Plural": "pitches"
+		}
+	},
+	{
+		"Word": "plague",
+		"Noun": {
+			"Singular": "plague",
+			"Plural": "plagues"
+		}
+	},
+	{
+		"Word": "plant",
+		"Noun": {
+			"Singular": "plant",
+			"Plural": "plants"
+		},
+		"Verb": {
+			"Verb": "plant",
+			"SimplePresent": "plants",
+			"SimplePast": "planted",
+			"PastParticiple": "planted",
+			"PresentParticiple": "planting"
+		},
+		"ActionNoun": {
+			"Singular": "planter",
+			"Plural": "planters"
+		}
+	},
+	{
+		"Word": "plot",
+		"Noun": {
+			"Singular": "plot",
+			"Plural": "plots"
+		},
+		"Verb": {
+			"Verb": "plot",
+			"SimplePresent": "plots",
+			"SimplePast": "plotted",
+			"PastParticiple": "plotted",
+			"PresentParticiple": "plotting"
+		},
+		"ActionNoun": {
+			"Singular": "plotter",
+			"Plural": "plotter"
+		}
+	},
+	{
+		"Word": "pocket",
+		"Noun": {
+			"Singular": "pocket",
+			"Plural": "pockets"
+		},
+		"Verb": {
+			"Verb": "pocket",
+			"SimplePresent": "pockets",
+			"SimplePast": "pocketed",
+			"PastParticiple": "pocketed",
+			"PresentParticiple": "pocketing"
+		}
+	},
+	{
+		"Word": "poison",
+		"Noun": {
+			"Singular": "poison",
+			"Plural": "poisons"
+		},
+		"Verb": {
+			"Verb": "poison",
+			"SimplePresent": "poisons",
+			"SimplePast": "poisoned",
+			"PastParticiple": "poisoned",
+			"PresentParticiple": "poisoning"
+		},
+		"Adjective": {
+			"Adjective": "poisonous"
+		},
+		"ActionNoun": {
+			"Singular": "poisoner",
+			"Plural": "poisoners"
+		}
+	},
+	{
+		"Word": "portal",
+		"Noun": {
+			"Singular": "portal",
+			"Plural": "portals"
+		}
+	},
+	{
+		"Word": "power",
+		"Noun": {
+			"Singular": "power",
+			"Plural": "powers"
+		},
+		"Verb": {
+			"Verb": "power",
+			"SimplePresent": "powers",
+			"SimplePast": "powered",
+			"PastParticiple": "powered",
+			"PresentParticiple": "powering"
+		}
+	},
+	{
+		"Word": "prank",
+		"Noun": {
+			"Singular": "prank",
+			"Plural": "pranks"
+		},
+		"Verb": {
+			"Verb": "prank",
+			"SimplePresent": "pranks",
+			"SimplePast": "pranked",
+			"PastParticiple": "pranked",
+			"PresentParticiple": "pranking"
+		},
+		"ActionNoun": {
+			"Singular": "pranker",
+			"Plural": "prankers"
+		}
+	},
+	{
+		"Word": "pride",
+		"Noun": {
+			"Singular": "pride",
+			"Plural": "prides"
+		}
+	},
+	{
+		"Word": "priest",
+		"Noun": {
+			"Singular": "priest",
+			"Plural": "priests"
+		}
+	},
+	{
+		"Word": "prime",
+		"Noun": {
+			"Singular": "prime",
+			"Plural": "prime"
+		},
+		"Verb": {
+			"Verb": "prime",
+			"SimplePresent": "primes",
+			"SimplePast": "primed",
+			"PastParticiple": "primed",
+			"PresentParticiple": "priming"
+		},
+		"Adjective": {
+			"Adjective": "prime"
+		}
+	},
+	{
+		"Word": "prison",
+		"Noun": {
+			"Singular": "prison",
+			"Plural": "prisons"
+		},
+		"ActionNoun": {
+			"Singular": "prisoner",
+			"Plural": "prisoners"
+		}
+	},
+	{
+		"Word": "primitive",
+		"Adjective": {
+			"Adjective": "primitive"
+		}
+	},
+	{
+		"Word": "profane",
+		"Noun": {
+			"Singular": "profanity",
+			"Plural": "profanities"
+		},
+		"Adjective": {
+			"Adjective": "profane"
+		}
+	},
+	{
+		"Word": "profit",
+		"Noun": {
+			"Singular": "profit",
+			"Plural": "profits"
+		},
+		"Verb": {
+			"Verb": "profit",
+			"SimplePresent": "profits",
+			"SimplePast": "profited",
+			"PastParticiple": "profited",
+			"PresentParticiple": "profiting"
+		},
+		"ActionNoun": {
+			"Singular": "profiter",
+			"Plural": "profiters"
+		}
+	},
+	{
+		"Word": "prophecy",
+		"Noun": {
+			"Singular": "prophecy",
+			"Plural": "prophecies"
+		},
+		"ActionNoun": {
+			"Singular": "prophet",
+			"Plural": "prophets"
+		}
+	},
+	{
+		"Word": "prowl",
+		"Verb": {
+			"Verb": "prowl",
+			"SimplePresent": "prowls",
+			"SimplePast": "prowled",
+			"PastParticiple": "prowled",
+			"PresentParticiple": "prowling"
+		},
+		"ActionNoun": {
+			"Singular": "prowler",
+			"Plural": "prowlers"
+		}
+	},
+	{
+		"Word": "puke",
+		"Noun": {
+			"Singular": "puke",
+			"Plural": "pukes"
+		},
+		"Verb": {
+			"Verb": "puke",
+			"SimplePresent": "pukes",
+			"SimplePast": "puked",
+			"PastParticiple": "puked",
+			"PresentParticiple": "puking"
+		},
+		"ActionNoun": {
+			"Singular": "puker",
+			"Plural": "pukers"
+		}
+	},
+	{
+		"Word": "pull",
+		"Noun": {
+			"Singular": "pull",
+			"Plural": "pulls"
+		},
+		"Verb": {
+			"Verb": "pull",
+			"SimplePresent": "pulls",
+			"SimplePast": "pulled",
+			"PastParticiple": "pulled",
+			"PresentParticiple": "pulling"
+		},
+		"ActionNoun": {
+			"Singular": "puller",
+			"Plural": "pullers"
+		}
+	},
+	{
+		"Word": "pulley",
+		"Noun": {
+			"Singular": "pulley",
+			"Plural": "pulleys"
+		}
+	},
+	{
+		"Word": "pulp",
+		"Noun": {
+			"Singular": "pulp",
+			"Plural": "pulps"
+		},
+		"Adjective": {
+			"Adjective": "pulpy"
+		}
+	},
+	{
+		"Word": "punch",
+		"Verb": {
+			"Verb": "punch",
+			"SimplePresent": "punches",
+			"SimplePast": "punched",
+			"PastParticiple": "punched",
+			"PresentParticiple": "punching"
+		},
+		"ActionNoun": {
+			"Singular": "puncher",
+			"Plural": "punchers"
+		}
+	},
+	{
+		"Word": "purple",
+		"Adjective": {
+			"Adjective": "purple"
+		}
+	},
+	{
+		"Word": "pus",
+		"Noun": {
+			"Singular": "pus",
+			"Plural": "pusses"
+		}
+	},
+	{
+		"Word": "push",
+		"Noun": {
+			"Singular": "push",
+			"Plural": "pushes"
+		},
+		"Verb": {
+			"Verb": "push",
+			"SimplePresent": "pushes",
+			"SimplePast": "pushed",
+			"PastParticiple": "pushed",
+			"PresentParticiple": "pushing"
+		},
+		"ActionNoun": {
+			"Singular": "pusher",
+			"Plural": "pushers"
+		}
+	},
+	{
+		"Word": "putrid",
+		"Noun": {
+			"Singular": "putrescence",
+			"Plural": "putrescences"
+		},
+		"Adjective": {
+			"Adjective": "putrid"
+		}
+	},
+	{
+		"Word": "quack",
+		"Noun": {
+			"Singular": "quack",
+			"Plural": "quacks"
+		},
+		"Verb": {
+			"Verb": "quack",
+			"SimplePresent": "quacks",
+			"SimplePast": "quacked",
+			"PastParticiple": "quacked",
+			"PresentParticiple": "quacking"
+		},
+		"ActionNoun": {
+			"Singular": "quacker",
+			"Plural": "quackers"
+		}
+	},
+	{
+		"Word": "quake",
+		"Noun": {
+			"Singular": "quake",
+			"Plural": "quakes"
+		},
+		"Verb": {
+			"Verb": "quake",
+			"SimplePresent": "quakes",
+			"SimplePast": "quaked",
+			"PastParticiple": "quaked",
+			"PresentParticiple": "quaking"
+		}
+	},
+	{
+		"Word": "quark",
+		"Noun": {
+			"Singular": "quark",
+			"Plural": "quarks"
+		}
+	},
+	{
+		"Word": "queen",
+		"Noun": {
+			"Singular": "queen",
+			"Plural": "queens"
+		}
+	},
+	{
+		"Word": "quick",
+		"Noun": {
+			"Singular": "quickness",
+			"Plural": "quicknesses"
+		},
+		"Verb": {
+			"Verb": "quick",
+			"SimplePresent": "quickens",
+			"SimplePast": "quickened",
+			"PastParticiple": "quickened",
+			"PresentParticiple": "quickening"
+		},
+		"Adjective": {
+			"Adjective": "quick"
+		}
+	},
+	{
+		"Word": "quill",
+		"Noun": {
+			"Singular": "quill",
+			"Plural": "quills"
+		}
+	},
+	{
+		"Word": "quirk",
+		"Adjective": {
+			"Adjective": "quirky"
+		}
+	},
+	{
+		"Word": "rabbit",
+		"Noun": {
+			"Singular": "rabbit",
+			"Plural": "rabbits"
+		}
+	},
+	{
+		"Word": "rabble",
+		"Noun": {
+			"Singular": "rabble",
+			"Plural": "rabbles"
+		}
+	},
+	{
+		"Word": "race",
+		"Noun": {
+			"Singular": "race",
+			"Plural": "races"
+		},
+		"Verb": {
+			"Verb": "race",
+			"SimplePresent": "races",
+			"SimplePast": "raced",
+			"PastParticiple": "raced",
+			"PresentParticiple": "racing"
+		},
+		"ActionNoun": {
+			"Singular": "racer",
+			"Plural": "racers"
+		}
+	},
+	{
+		"Word": "rack",
+		"Noun": {
+			"Singular": "rack",
+			"Plural": "racks"
+		}
+	},
+	{
+		"Word": "rag",
+		"Noun": {
+			"Singular": "rag",
+			"Plural": "rags"
+		}
+	},
+	{
+		"Word": "rage",
+		"Noun": {
+			"Singular": "rage",
+			"Plural": "rages"
+		}
+	},
+	{
+		"Word": "rain",
+		"Noun": {
+			"Singular": "rain",
+			"Plural": "rains"
+		},
+		"Verb": {
+			"Verb": "rain",
+			"SimplePresent": "rains",
+			"SimplePast": "rained",
+			"PastParticiple": "rained",
+			"PresentParticiple": "raining"
+		},
+		"Adjective": {
+			"Adjective": "rainy"
+		}
+	},
+	{
+		"Word": "rake",
+		"Noun": {
+			"Singular": "rake",
+			"Plural": "rakes"
+		},
+		"Verb": {
+			"Verb": "rake",
+			"SimplePresent": "rakes",
+			"SimplePast": "raked",
+			"PastParticiple": "raked",
+			"PresentParticiple": "raking"
+		}
+	},
+	{
+		"Word": "ram",
+		"Noun": {
+			"Singular": "ram",
+			"Plural": "rams"
+		},
+		"Verb": {
+			"Verb": "ram",
+			"SimplePresent": "rams",
+			"SimplePast": "rammed",
+			"PastParticiple": "rammed",
+			"PresentParticiple": "ramming"
+		},
+		"ActionNoun": {
+			"Singular": "rammer",
+			"Plural": "rammers"
+		}
+	},
+	{
+		"Word": "rampage",
+		"Noun": {
+			"Singular": "rampage",
+			"Plural": "rampages"
+		},
+		"Verb": {
+			"Verb": "rampage",
+			"SimplePresent": "rampages",
+			"SimplePast": "rampaged",
+			"PastParticiple": "rampaged",
+			"PresentParticiple": "rampaging"
+		},
+		"ActionNoun": {
+			"Singular": "rampager",
+			"Plural": "rampagers"
+		}
+	},
+	{
+		"Word": "random",
+		"Adjective": {
+			"Adjective": "random"
+		}
+	},
+	{
+		"Word": "ransack",
+		"Verb": {
+			"Verb": "ransack",
+			"SimplePresent": "ransacks",
+			"SimplePast": "ransacked",
+			"PastParticiple": "ransacked",
+			"PresentParticiple": "ransacking"
+		}
+	},
+	{
+		"Word": "rat",
+		"Noun": {
+			"Singular": "rat",
+			"Plural": "rats"
+		}
+	},
+	{
+		"Word": "ravage",
+		"Verb": {
+			"Verb": "ravage",
+			"SimplePresent": "ravages",
+			"SimplePast": "ravaged",
+			"PastParticiple": "ravaged",
+			"PresentParticiple": "ravaging"
+		},
+		"ActionNoun": {
+			"Singular": "ravager",
+			"Plural": "ravagers"
+		}
+	},
+	{
+		"Word": "raven",
+		"Noun": {
+			"Singular": "raven",
+			"Plural": "raven"
+		}
+	},
+	{
+		"Word": "raw",
+		"Noun": {
+			"Singular": "rawness",
+			"Plural": "rawnesses"
+		},
+		"Adjective": {
+			"Adjective": "raw"
+		}
+	},
+	{
+		"Word": "razor",
+		"Noun": {
+			"Singular": "razor",
+			"Plural": "razors"
+		}
+	},
+	{
+		"Word": "red",
+		"Noun": {
+			"Singular": "redness",
+			"Plural": "rednesses"
+		},
+		"Adjective": {
+			"Adjective": "red"
+		}
+	},
+	{
+		"Word": "regal",
+		"Adjective": {
+			"Adjective": "regal"
+		}
+	},
+	{
+		"Word": "reign",
+		"Noun": {
+			"Singular": "reign",
+			"Plural": "reigns"
+		},
+		"Verb": {
+			"Verb": "reign",
+			"SimplePresent": "reigns",
+			"SimplePast": "reigned",
+			"PastParticiple": "reigned",
+			"PresentParticiple": "reigning"
+		}
+	},
+	{
+		"Word": "rein",
+		"Noun": {
+			"Singular": "rein",
+			"Plural": "reins"
+		},
+		"Verb": {
+			"Verb": "rein",
+			"SimplePresent": "reins",
+			"SimplePast": "reined",
+			"PastParticiple": "reined",
+			"PresentParticiple": "reining"
+		}
+	},
+	{
+		"Word": "rider",
+		"Noun": {
+			"Singular": "rider",
+			"Plural": "riders"
+		}
+	},
+	{
+		"Word": "rim",
+		"Noun": {
+			"Singular": "rim",
+			"Plural": "rims"
+		}
+	},
+	{
+		"Word": "ring",
+		"Noun": {
+			"Singular": "ring",
+			"Plural": "rings"
+		},
+		"Verb": {
+			"Verb": "ring",
+			"SimplePresent": "rings",
+			"SimplePast": "rang",
+			"PastParticiple": "rung",
+			"PresentParticiple": "ringing"
+		},
+		"ActionNoun": {
+			"Singular": "ringer",
+			"Plural": "ringers"
+		}
+	},
+	{
+		"Word": "rip",
+		"Noun": {
+			"Singular": "rip",
+			"Plural": "rips"
+		},
+		"Verb": {
+			"Verb": "rip",
+			"SimplePresent": "rips",
+			"SimplePast": "ripped",
+			"PastParticiple": "ripped",
+			"PresentParticiple": "ripping"
+		},
+		"Adjective": {
+			"Adjective": "ripper"
+		}
+	},
+	{
+		"Word": "ripe",
+		"Noun": {
+			"Singular": "ripeness",
+			"Plural": "ripenesses"
+		},
+		"Adjective": {
+			"Adjective": "ripe"
+		}
+	},
+	{
+		"Word": "rise",
+		"Verb": {
+			"Verb": "rise",
+			"SimplePresent": "rises",
+			"SimplePast": "rose",
+			"PastParticiple": "risen",
+			"PresentParticiple": "rising"
+		}
+	},
+	{
+		"Word": "rite",
+		"Noun": {
+			"Singular": "rite",
+			"Plural": "rites"
+		}
+	},
+	{
+		"Word": "river",
+		"Noun": {
+			"Singular": "river",
+			"Plural": "rivers"
+		}
+	},
+	{
+		"Word": "rock",
+		"Noun": {
+			"Singular": "rock",
+			"Plural": "rocks"
+		}
+	},
+	{
+		"Word": "rogue",
+		"Noun": {
+			"Singular": "rogue",
+			"Plural": "rogues"
+		}
+	},
+	{
+		"Word": "romance",
+		"Noun": {
+			"Singular": "romance",
+			"Plural": "romances"
+		},
+		"Verb": {
+			"Verb": "romance",
+			"SimplePresent": "romances",
+			"SimplePast": "romanced",
+			"PastParticiple": "romanced",
+			"PresentParticiple": "romancing"
+		},
+		"Adjective": {
+			"Adjective": "romantic"
+		},
+		"ActionNoun": {
+			"Singular": "romancer",
+			"Plural": "romancers"
+		}
+	},
+	{
+		"Word": "room",
+		"Noun": {
+			"Singular": "room",
+			"Plural": "rooms"
+		},
+		"Adjective": {
+			"Adjective": "roomy"
+		}
+	},
+	{
+		"Word": "root",
+		"Noun": {
+			"Singular": "root",
+			"Plural": "roots"
+		}
+	},
+	{
+		"Word": "rose",
+		"Noun": {
+			"Singular": "rose",
+			"Plural": "roses"
+		},
+		"Adjective": {
+			"Adjective": "rosy"
+		}
+	},
+	{
+		"Word": "rot",
+		"Noun": {
+			"Singular": "rot",
+			"Plural": "rots"
+		}
+	},
+	{
+		"Word": "rough",
+		"Noun": {
+			"Singular": "roughness",
+			"Plural": "roughnesses"
+		},
+		"Adjective": {
+			"Adjective": "rough"
+		}
+	},
+	{
+		"Word": "royal",
+		"Noun": {
+			"Singular": "royalty",
+			"Plural": "royalties"
+		},
+		"Adjective": {
+			"Adjective": "royal"
+		}
+	},
+	{
+		"Word": "ruin",
+		"Noun": {
+			"Singular": "ruin",
+			"Plural": "ruins"
+		},
+		"Verb": {
+			"Verb": "ruin",
+			"SimplePresent": "ruins",
+			"SimplePast": "ruined",
+			"PastParticiple": "ruined",
+			"PresentParticiple": "ruining"
+		},
+		"ActionNoun": {
+			"Singular": "ruiner",
+			"Plural": "ruiners"
+		}
+	},
+	{
+		"Word": "rule",
+		"Verb": {
+			"Verb": "rule",
+			"SimplePresent": "rules",
+			"SimplePast": "ruled",
+			"PastParticiple": "ruled",
+			"PresentParticiple": "ruling"
+		},
+		"ActionNoun": {
+			"Singular": "ruler",
+			"Plural": "ruler"
+		}
+	},
+	{
+		"Word": "rumor",
+		"Noun": {
+			"Singular": "rumor",
+			"Plural": "rumors"
+		},
+		"Adjective": {
+			"Adjective": "rumored"
+		}
+	},
+	{
+		"Word": "rust",
+		"Noun": {
+			"Singular": "rust",
+			"Plural": "rusts"
+		},
+		"Adjective": {
+			"Adjective": "rusty"
+		}
+	},
+	{
+		"Word": "sabre",
+		"Noun": {
+			"Singular": "sabre",
+			"Plural": "sabres"
+		}
+	},
+	{
+		"Word": "sack",
+		"Noun": {
+			"Singular": "sack",
+			"Plural": "sacks"
+		}
+	},
+	{
+		"Word": "saint",
+		"Noun": {
+			"Singular": "saint",
+			"Plural": "saints"
+		}
+	},
+	{
+		"Word": "salt",
+		"Noun": {
+			"Singular": "salt",
+			"Plural": "salts"
+		},
+		"Adjective": {
+			"Adjective": "salty"
+		}
+	},
+	{
+		"Word": "salve",
+		"Noun": {
+			"Singular": "salve",
+			"Plural": "salves"
+		}
+	},
+	{
+		"Word": "sap",
+		"Noun": {
+			"Singular": "sap",
+			"Plural": "saps"
+		}
+	},
+	{
+		"Word": "satin",
+		"Noun": {
+			"Singular": "satin",
+			"Plural": "satins"
+		}
+	},
+	{
+		"Word": "savage",
+		"Noun": {
+			"Singular": "savage",
+			"Plural": "savages"
+		},
+		"Adjective": {
+			"Adjective": "savage"
+		}
+	},
+	{
+		"Word": "savagery",
+		"Noun": {
+			"Singular": "savagery",
+			"Plural": "savageries"
+		}
+	},
+	{
+		"Word": "savior",
+		"Noun": {
+			"Singular": "savior",
+			"Plural": "saviors"
+		}
+	},
+	{
+		"Word": "saw",
+		"Noun": {
+			"Singular": "saw",
+			"Plural": "saws"
+		},
+		"Verb": {
+			"Verb": "saw",
+			"SimplePresent": "saws",
+			"SimplePast": "sawed",
+			"PastParticiple": "sawn",
+			"PresentParticiple": "sawing"
+		},
+		"ActionNoun": {
+			"Singular": "sawer",
+			"Plural": "sawers"
+		}
+	},
+	{
+		"Word": "scab",
+		"Noun": {
+			"Singular": "scab",
+			"Plural": "scabs"
+		}
+	},
+	{
+		"Word": "scald",
+		"Noun": {
+			"Singular": "scald",
+			"Plural": "scalds"
+		},
+		"Verb": {
+			"Verb": "scald",
+			"SimplePresent": "scalds",
+			"SimplePast": "scalded",
+			"PastParticiple": "scalded",
+			"PresentParticiple": "scalding"
+		},
+		"Adjective": {
+			"Adjective": "scalding"
+		}
+	},
+	{
+		"Word": "scar",
+		"Noun": {
+			"Singular": "scar",
+			"Plural": "scars"
+		},
+		"Verb": {
+			"Verb": "scar",
+			"SimplePresent": "scars",
+			"SimplePast": "scarred",
+			"PastParticiple": "scarred",
+			"PresentParticiple": "scarring"
+		}
+	},
+	{
+		"Word": "scold",
+		"Verb": {
+			"Verb": "scold",
+			"SimplePresent": "scolds",
+			"SimplePast": "scolded",
+			"PastParticiple": "scolded",
+			"PresentParticiple": "scolding"
+		}
+	},
+	{
+		"Word": "scorpion",
+		"Noun": {
+			"Singular": "scorpion",
+			"Plural": "scorpions"
+		}
+	},
+	{
+		"Word": "scourge",
+		"Noun": {
+			"Singular": "scourge",
+			"Plural": "scourges"
+		}
+	},
+	{
+		"Word": "scream",
+		"Noun": {
+			"Singular": "scream",
+			"Plural": "screams"
+		},
+		"Verb": {
+			"Verb": "scream",
+			"SimplePresent": "screams",
+			"SimplePast": "screamed",
+			"PastParticiple": "screamed",
+			"PresentParticiple": "screaming"
+		},
+		"ActionNoun": {
+			"Singular": "screamer",
+			"Plural": "screamers"
+		}
+	},
+	{
+		"Word": "scum",
+		"Noun": {
+			"Singular": "scum",
+			"Plural": "scums"
+		},
+		"Adjective": {
+			"Adjective": "scummy"
+		}
+	},
+	{
+		"Word": "sea",
+		"Noun": {
+			"Singular": "sea",
+			"Plural": "seas"
+		}
+	},
+	{
+		"Word": "seal",
+		"Noun": {
+			"Singular": "seal",
+			"Plural": "seals"
+		}
+	},
+	{
+		"Word": "seam",
+		"Noun": {
+			"Singular": "seam",
+			"Plural": "seams"
+		}
+	},
+	{
+		"Word": "season",
+		"Noun": {
+			"Singular": "season",
+			"Plural": "seasons"
+		}
+	},
+	{
+		"Word": "secret",
+		"Noun": {
+			"Singular": "secret",
+			"Plural": "secrets"
+		},
+		"Adjective": {
+			"Adjective": "secretive"
+		}
+	},
+	{
+		"Word": "seduce",
+		"Noun": {
+			"Singular": "seduction",
+			"Plural": "seductions"
+		},
+		"Verb": {
+			"Verb": "seduce",
+			"SimplePresent": "seduces",
+			"SimplePast": "seduced",
+			"PastParticiple": "seduced",
+			"PresentParticiple": "seducing"
+		},
+		"ActionNoun": {
+			"Singular": "seducer",
+			"Plural": "seducers"
+		}
+	},
+	{
+		"Word": "seed",
+		"Noun": {
+			"Singular": "seed",
+			"Plural": "seeds"
+		}
+	},
+	{
+		"Word": "see",
+		"Verb": {
+			"Verb": "see",
+			"SimplePresent": "sees",
+			"SimplePast": "saw",
+			"PastParticiple": "seen",
+			"PresentParticiple": "seeing"
+		},
+		"ActionNoun": {
+			"Singular": "seer",
+			"Plural": "seers"
+		}
+	},
+	{
+		"Word": "seize",
+		"Noun": {
+			"Singular": "seizure",
+			"Plural": "seizures"
+		},
+		"Verb": {
+			"Verb": "seize",
+			"SimplePresent": "seizes",
+			"SimplePast": "seized",
+			"PastParticiple": "seized",
+			"PresentParticiple": "seizing"
+		}
+	},
+	{
+		"Word": "serpent",
+		"Noun": {
+			"Singular": "serpent",
+			"Plural": "serpents"
+		}
+	},
+	{
+		"Word": "servant",
+		"Noun": {
+			"Singular": "servant",
+			"Plural": "servants"
+		}
+	},
+	{
+		"Word": "serve",
+		"Verb": {
+			"Verb": "serve",
+			"SimplePresent": "serves",
+			"SimplePast": "served",
+			"PastParticiple": "served",
+			"PresentParticiple": "serving"
+		},
+		"ActionNoun": {
+			"Singular": "server",
+			"Plural": "server"
+		}
+	},
+	{
+		"Word": "sever",
+		"Verb": {
+			"Verb": "sever",
+			"SimplePresent": "severs",
+			"SimplePast": "severed",
+			"PastParticiple": "severed",
+			"PresentParticiple": "severing"
+		},
+		"ActionNoun": {
+			"Singular": "severer",
+			"Plural": "severers"
+		}
+	},
+	{
+		"Word": "sewer",
+		"Noun": {
+			"Singular": "sewer",
+			"Plural": "sewers"
+		}
+	},
+	{
+		"Word": "shadow",
+		"Noun": {
+			"Singular": "shadow",
+			"Plural": "shadows"
+		}
+	},
+	{
+		"Word": "shaft",
+		"Noun": {
+			"Singular": "shaft",
+			"Plural": "shafts"
+		}
+	},
+	{
+		"Word": "shank",
+		"Noun": {
+			"Singular": "shank",
+			"Plural": "shanks"
+		},
+		"ActionNoun": {
+			"Singular": "shanker",
+			"Plural": "shankers"
+		}
+	},
+	{
+		"Word": "shark",
+		"Noun": {
+			"Singular": "shark",
+			"Plural": "sharks"
+		}
+	},
+	{
+		"Word": "shear",
+		"Verb": {
+			"Verb": "shear",
+			"SimplePresent": "shears",
+			"SimplePast": "sheared",
+			"PastParticiple": "sheared",
+			"PresentParticiple": "shearing"
+		},
+		"ActionNoun": {
+			"Singular": "shearer",
+			"Plural": "shearers"
+		}
+	},
+	{
+		"Word": "sheen",
+		"Noun": {
+			"Singular": "sheen",
+			"Plural": "sheens"
+		}
+	},
+	{
+		"Word": "shell",
+		"Noun": {
+			"Singular": "shell",
+			"Plural": "shells"
+		}
+	},
+	{
+		"Word": "shelter",
+		"Noun": {
+			"Singular": "shelter",
+			"Plural": "shelters"
+		},
+		"Verb": {
+			"Verb": "shelter",
+			"SimplePresent": "shelters",
+			"SimplePast": "sheltered",
+			"PastParticiple": "sheltered",
+			"PresentParticiple": "sheltering"
+		},
+		"ActionNoun": {
+			"Singular": "shelterer",
+			"Plural": "shelterers"
+		}
+	},
+	{
+		"Word": "shield",
+		"Noun": {
+			"Singular": "shield",
+			"Plural": "shields"
+		},
+		"Verb": {
+			"Verb": "shield",
+			"SimplePresent": "shields",
+			"SimplePast": "shielded",
+			"PastParticiple": "shielded",
+			"PresentParticiple": "shielding"
+		},
+		"ActionNoun": {
+			"Singular": "shielder",
+			"Plural": "shielders"
+		}
+	},
+	{
+		"Word": "shimmer",
+		"Noun": {
+			"Singular": "shimmer",
+			"Plural": "shimmers"
+		},
+		"Verb": {
+			"Verb": "shimmer",
+			"SimplePresent": "shimmers",
+			"SimplePast": "shimmered",
+			"PastParticiple": "shimmered",
+			"PresentParticiple": "shimmering"
+		},
+		"Adjective": {
+			"Adjective": "shimmery"
+		}
+	},
+	{
+		"Word": "ship",
+		"Noun": {
+			"Singular": "ship",
+			"Plural": "ships"
+		}
+	},
+	{
+		"Word": "shoot",
+		"Verb": {
+			"Verb": "shoot",
+			"SimplePresent": "shoots",
+			"SimplePast": "shot",
+			"PastParticiple": "shot",
+			"PresentParticiple": "shooting"
+		},
+		"ActionNoun": {
+			"Singular": "shooter",
+			"Plural": "shooters"
+		}
+	},
+	{
+		"Word": "show",
+		"Noun": {
+			"Singular": "show",
+			"Plural": "shows"
+		},
+		"Verb": {
+			"Verb": "show",
+			"SimplePresent": "shows",
+			"SimplePast": "showed",
+			"PastParticiple": "shown",
+			"PresentParticiple": "showing"
+		},
+		"ActionNoun": {
+			"Singular": "shower",
+			"Plural": "showers"
+		}
+	},
+	{
+		"Word": "shower",
+		"Noun": {
+			"Singular": "shower",
+			"Plural": "showers"
+		},
+		"Verb": {
+			"Verb": "shower",
+			"SimplePresent": "showers",
+			"SimplePast": "showered",
+			"PastParticiple": "showered",
+			"PresentParticiple": "showering"
+		},
+		"ActionNoun": {
+			"Singular": "showerer",
+			"Plural": "showerers"
+		}
+	},
+	{
+		"Word": "shred",
+		"Noun": {
+			"Singular": "shred",
+			"Plural": "shreds"
+		},
+		"Verb": {
+			"Verb": "shred",
+			"SimplePresent": "shreds",
+			"SimplePast": "shredded",
+			"PastParticiple": "shredded",
+			"PresentParticiple": "shredding"
+		},
+		"ActionNoun": {
+			"Singular": "shredder",
+			"Plural": "shredder"
+		}
+	},
+	{
+		"Word": "shriek",
+		"Noun": {
+			"Singular": "shriek",
+			"Plural": "shrieks"
+		},
+		"Verb": {
+			"Verb": "shriek",
+			"SimplePresent": "shrieks",
+			"SimplePast": "shrieked",
+			"PastParticiple": "shrieked",
+			"PresentParticiple": "shrieking"
+		},
+		"ActionNoun": {
+			"Singular": "shrieker",
+			"Plural": "shrieker"
+		}
+	},
+	{
+		"Word": "shut",
+		"Verb": {
+			"Verb": "shut",
+			"SimplePresent": "shuts",
+			"SimplePast": "shut",
+			"PastParticiple": "shut",
+			"PresentParticiple": "shutting"
+		},
+		"ActionNoun": {
+			"Singular": "shutter",
+			"Plural": "shutter"
+		}
+	},
+	{
+		"Word": "sick",
+		"Noun": {
+			"Singular": "sick",
+			"Plural": "sick"
+		},
+		"Verb": {
+			"Verb": "sicken",
+			"SimplePresent": "sickens",
+			"SimplePast": "sickened",
+			"PastParticiple": "sickened",
+			"PresentParticiple": "sickening"
+		},
+		"ActionNoun": {
+			"Singular": "sickener",
+			"Plural": "sickeners"
+		}
+	},
+	{
+		"Word": "sickness",
+		"Noun": {
+			"Singular": "sickness",
+			"Plural": "sicknessess"
+		}
+	},
+	{
+		"Word": "siege",
+		"Noun": {
+			"Singular": "siege",
+			"Plural": "sieges"
+		},
+		"Verb": {
+			"Verb": "siege",
+			"SimplePresent": "sieges",
+			"SimplePast": "sieged",
+			"PastParticiple": "sieged",
+			"PresentParticiple": "sieging"
+		},
+		"ActionNoun": {
+			"Singular": "sieger",
+			"Plural": "siegers"
+		}
+	},
+	{
+		"Word": "silence",
+		"Noun": {
+			"Singular": "silence",
+			"Plural": "silences"
+		},
+		"Verb": {
+			"Verb": "silence",
+			"SimplePresent": "silences",
+			"SimplePast": "silenced",
+			"PastParticiple": "silenced",
+			"PresentParticiple": "silencing"
+		},
+		"Adjective": {
+			"Adjective": "silent"
+		},
+		"ActionNoun": {
+			"Singular": "silencer",
+			"Plural": "silencers"
+		}
+	},
+	{
+		"Word": "silk",
+		"Noun": {
+			"Singular": "silk",
+			"Plural": "silks"
+		},
+		"Adjective": {
+			"Adjective": "silken"
+		}
+	},
+	{
+		"Word": "silky",
+		"Noun": {
+			"Singular": "silkiness",
+			"Plural": "silkinesses"
+		},
+		"Adjective": {
+			"Adjective": "silky"
+		}
+	},
+	{
+		"Word": "silt",
+		"Noun": {
+			"Singular": "silt",
+			"Plural": "silt"
+		},
+		"Adjective": {
+			"Adjective": "silty"
+		}
+	},
+	{
+		"Word": "silver",
+		"Noun": {
+			"Singular": "silver",
+			"Plural": "silvers"
+		},
+		"Adjective": {
+			"Adjective": "silvery"
+		}
+	},
+	{
+		"Word": "sin",
+		"Noun": {
+			"Singular": "sin",
+			"Plural": "sins"
+		},
+		"Adjective": {
+			"Adjective": "sinful"
+		}
+	},
+	{
+		"Word": "sinew",
+		"Noun": {
+			"Singular": "sinew",
+			"Plural": "sinews"
+		}
+	},
+	{
+		"Word": "sing",
+		"Noun": {
+			"Singular": "song",
+			"Plural": "songs"
+		},
+		"Verb": {
+			"Verb": "sing",
+			"SimplePresent": "sings",
+			"SimplePast": "sang",
+			"PastParticiple": "sung",
+			"PresentParticiple": "singing"
+		},
+		"ActionNoun": {
+			"Singular": "singer",
+			"Plural": "singers"
+		}
+	},
+	{
+		"Word": "sister",
+		"Noun": {
+			"Singular": "sister",
+			"Plural": "sisters"
+		}
+	},
+	{
+		"Word": "skirt",
+		"Noun": {
+			"Singular": "skirt",
+			"Plural": "skirts"
+		},
+		"Verb": {
+			"Verb": "skirt",
+			"SimplePresent": "skirts",
+			"SimplePast": "skirted",
+			"PastParticiple": "skirted",
+			"PresentParticiple": "skirting"
+		}
+	},
+	{
+		"Word": "skull",
+		"Noun": {
+			"Singular": "skull",
+			"Plural": "skulls"
+		}
+	},
+	{
+		"Word": "skulk",
+		"Noun": {
+			"Singular": "skulk",
+			"Plural": "skulks"
+		},
+		"Verb": {
+			"Verb": "skulk",
+			"SimplePresent": "skulks",
+			"SimplePast": "skulked",
+			"PastParticiple": "skulked",
+			"PresentParticiple": "skulking"
+		},
+		"ActionNoun": {
+			"Singular": "skulker",
+			"Plural": "skulkers"
+		}
+	},
+	{
+		"Word": "skunk",
+		"Noun": {
+			"Singular": "skunk",
+			"Plural": "skunks"
+		}
+	},
+	{
+		"Word": "sky",
+		"Noun": {
+			"Singular": "sky",
+			"Plural": "skies"
+		}
+	},
+	{
+		"Word": "slaughter",
+		"Noun": {
+			"Singular": "slaughter",
+			"Plural": "slaughters"
+		},
+		"Verb": {
+			"Verb": "slaughter",
+			"SimplePresent": "slaughters",
+			"SimplePast": "slaughtered",
+			"PastParticiple": "slaughtered",
+			"PresentParticiple": "slaughtering"
+		},
+		"ActionNoun": {
+			"Singular": "slaughterer",
+			"Plural": "slaughterers"
+		}
+	},
+	{
+		"Word": "slave",
+		"Noun": {
+			"Singular": "slave",
+			"Plural": "slaves"
+		},
+		"Verb": {
+			"Verb": "enslave",
+			"SimplePresent": "enslaves",
+			"SimplePast": "enslaved",
+			"PastParticiple": "enslaved",
+			"PresentParticiple": "enslaving"
+		},
+		"ActionNoun": {
+			"Singular": "slaver",
+			"Plural": "slavers"
+		}
+	},
+	{
+		"Word": "slay",
+		"Noun": {
+			"Singular": "slain",
+			"Plural": "slain"
+		},
+		"Verb": {
+			"Verb": "slay",
+			"SimplePresent": "slays",
+			"SimplePast": "slew",
+			"PastParticiple": "slain",
+			"PresentParticiple": "slaying"
+		},
+		"ActionNoun": {
+			"Singular": "slayer",
+			"Plural": "slayers"
+		}
+	},
+	{
+		"Word": "slim",
+		"Verb": {
+			"Verb": "slim",
+			"SimplePresent": "slims",
+			"SimplePast": "slimmed",
+			"PastParticiple": "slimmed",
+			"PresentParticiple": "slimming"
+		},
+		"ActionNoun": {
+			"Singular": "slimmer",
+			"Plural": "slimmers"
+		}
+	},
+	{
+		"Word": "slime",
+		"Noun": {
+			"Singular": "slime",
+			"Plural": "slimes"
+		}
+	},
+	{
+		"Word": "slink",
+		"Verb": {
+			"Verb": "slink",
+			"SimplePresent": "slinks",
+			"SimplePast": "slunk",
+			"PastParticiple": "slunk",
+			"PresentParticiple": "slinking"
+		}
+	},
+	{
+		"Word": "slit",
+		"Noun": {
+			"Singular": "slit",
+			"Plural": "slits"
+		},
+		"Verb": {
+			"Verb": "slit",
+			"SimplePresent": "slits",
+			"SimplePast": "slit",
+			"PastParticiple": "slit",
+			"PresentParticiple": "sliting"
+		},
+		"Adjective": {
+			"Adjective": "slitted"
+		},
+		"ActionNoun": {
+			"Singular": "slitter",
+			"Plural": "slitters"
+		}
+	},
+	{
+		"Word": "slither",
+		"Verb": {
+			"Verb": "slither",
+			"SimplePresent": "slithers",
+			"SimplePast": "slithered",
+			"PastParticiple": "slithered",
+			"PresentParticiple": "slithering"
+		}
+	},
+	{
+		"Word": "sliver",
+		"Noun": {
+			"Singular": "sliver",
+			"Plural": "slivers"
+		}
+	},
+	{
+		"Word": "sloth",
+		"Noun": {
+			"Singular": "sloth",
+			"Plural": "sloths"
+		}
+	},
+	{
+		"Word": "slug",
+		"Noun": {
+			"Singular": "slug",
+			"Plural": "slugs"
+		}
+	},
+	{
+		"Word": "smash",
+		"Noun": {
+			"Singular": "smash",
+			"Plural": "smashes"
+		},
+		"Verb": {
+			"Verb": "smash",
+			"SimplePresent": "smashes",
+			"SimplePast": "smashed",
+			"PastParticiple": "smashed",
+			"PresentParticiple": "smashing"
+		},
+		"Adjective": {
+			"Adjective": "smashing"
+		},
+		"ActionNoun": {
+			"Singular": "smasher",
+			"Plural": "smashers"
+		}
+	},
+	{
+		"Word": "smile",
+		"Noun": {
+			"Singular": "smile",
+			"Plural": "smiles"
+		},
+		"Verb": {
+			"Verb": "smile",
+			"SimplePresent": "smiles",
+			"SimplePast": "smiled",
+			"PastParticiple": "smiled",
+			"PresentParticiple": "smiling"
+		},
+		"Adjective": {
+			"Adjective": "smiley"
+		},
+		"ActionNoun": {
+			"Singular": "smiler",
+			"Plural": "smilers"
+		}
+	},
+	{
+		"Word": "smith",
+		"Noun": {
+			"Singular": "smith",
+			"Plural": "smiths"
+		}
+	},
+	{
+		"Word": "smoke",
+		"Noun": {
+			"Singular": "smoke",
+			"Plural": "smokes"
+		},
+		"Verb": {
+			"Verb": "smoke",
+			"SimplePresent": "smokes",
+			"SimplePast": "smoked",
+			"PastParticiple": "smoked",
+			"PresentParticiple": "smoking"
+		},
+		"ActionNoun": {
+			"Singular": "smoker",
+			"Plural": "smokers"
+		}
+	},
+	{
+		"Word": "smooth",
+		"Noun": {
+			"Singular": "smoothness",
+			"Plural": "smoothnesses"
+		},
+		"Verb": {
+			"Verb": "smooth",
+			"SimplePresent": "smooths",
+			"SimplePast": "smoothed",
+			"PastParticiple": "smoothed",
+			"PresentParticiple": "smoothing"
+		},
+		"Adjective": {
+			"Adjective": "smooth"
+		},
+		"ActionNoun": {
+			"Singular": "smoother",
+			"Plural": "smoothers"
+		}
+	},
+	{
+		"Word": "smoulder",
+		"Verb": {
+			"Verb": "smoulder",
+			"SimplePresent": "smoulders",
+			"SimplePast": "smouldered",
+			"PastParticiple": "smouldered",
+			"PresentParticiple": "smouldering"
+		},
+		"ActionNoun": {
+			"Singular": "smoulderer",
+			"Plural": "smoulderers"
+		}
+	},
+	{
+		"Word": "snack",
+		"Noun": {
+			"Singular": "snack",
+			"Plural": "snacks"
+		},
+		"Verb": {
+			"Verb": "snack",
+			"SimplePresent": "snacks",
+			"SimplePast": "snacked",
+			"PastParticiple": "snacked",
+			"PresentParticiple": "snacking"
+		},
+		"ActionNoun": {
+			"Singular": "snacker",
+			"Plural": "snackers"
+		}
+	},
+	{
+		"Word": "snake",
+		"Noun": {
+			"Singular": "snake",
+			"Plural": "snakes"
+		}
+	},
+	{
+		"Word": "sneer",
+		"Noun": {
+			"Singular": "sneer",
+			"Plural": "sneers"
+		}
+	},
+	{
+		"Word": "snicker",
+		"Verb": {
+			"Verb": "snicker",
+			"SimplePresent": "snickers",
+			"SimplePast": "snickered",
+			"PastParticiple": "snickered",
+			"PresentParticiple": "snickering"
+		},
+		"ActionNoun": {
+			"Singular": "snickerer",
+			"Plural": "snickerers"
+		}
+	},
+	{
+		"Word": "snot",
+		"Noun": {
+			"Singular": "snot",
+			"Plural": "snots"
+		}
+	},
+	{
+		"Word": "snuggle",
+		"Verb": {
+			"Verb": "snuggle",
+			"SimplePresent": "snuggles",
+			"SimplePast": "snuggled",
+			"PastParticiple": "snuggled",
+			"PresentParticiple": "snuggling"
+		},
+		"ActionNoun": {
+			"Singular": "snuggler",
+			"Plural": "snugglers"
+		}
+	},
+	{
+		"Word": "soil",
+		"Noun": {
+			"Singular": "soil",
+			"Plural": "soils"
+		}
+	},
+	{
+		"Word": "soldier",
+		"Noun": {
+			"Singular": "soldier",
+			"Plural": "soldiers"
+		}
+	},
+	{
+		"Word": "soot",
+		"Noun": {
+			"Singular": "soot",
+			"Plural": "soots"
+		},
+		"Adjective": {
+			"Adjective": "sooty"
+		}
+	},
+	{
+		"Word": "soothe",
+		"Verb": {
+			"Verb": "soothe",
+			"SimplePresent": "soothes",
+			"SimplePast": "soothed",
+			"PastParticiple": "soothed",
+			"PresentParticiple": "soothing"
+		},
+		"ActionNoun": {
+			"Singular": "soother",
+			"Plural": "soothers"
+		}
+	},
+	{
+		"Word": "sorrow",
+		"Noun": {
+			"Singular": "sorrow",
+			"Plural": "sorrow"
+		}
+	},
+	{
+		"Word": "soul",
+		"Noun": {
+			"Singular": "soul",
+			"Plural": "souls"
+		},
+		"Adjective": {
+			"Adjective": "soulful"
+		}
+	},
+	{
+		"Word": "sound",
+		"Noun": {
+			"Singular": "sound",
+			"Plural": "sound"
+		},
+		"Verb": {
+			"Verb": "sound",
+			"SimplePresent": "sounds",
+			"SimplePast": "sounded",
+			"PastParticiple": "sounded",
+			"PresentParticiple": "sounding"
+		}
+	},
+	{
+		"Word": "south",
+		"Adjective": {
+			"Adjective": "south"
+		}
+	},
+	{
+		"Word": "spasm",
+		"Noun": {
+			"Singular": "spasm",
+			"Plural": "spasms"
+		}
+	},
+	{
+		"Word": "spawn",
+		"Noun": {
+			"Singular": "spawn",
+			"Plural": "spawns"
+		}
+	},
+	{
+		"Word": "spear",
+		"Noun": {
+			"Singular": "spear",
+			"Plural": "spears"
+		}
+	},
+	{
+		"Word": "spell",
+		"Noun": {
+			"Singular": "spell",
+			"Plural": "spells"
+		}
+	},
+	{
+		"Word": "spew",
+		"Noun": {
+			"Singular": "spew",
+			"Plural": "spews"
+		},
+		"Verb": {
+			"Verb": "spew",
+			"SimplePresent": "spews",
+			"SimplePast": "spewed",
+			"PastParticiple": "spewed",
+			"PresentParticiple": "spewing"
+		},
+		"ActionNoun": {
+			"Singular": "spewer",
+			"Plural": "spewers"
+		}
+	},
+	{
+		"Word": "spice",
+		"Noun": {
+			"Singular": "spice",
+			"Plural": "spices"
+		},
+		"Adjective": {
+			"Adjective": "spicy"
+		}
+	},
+	{
+		"Word": "spider",
+		"Noun": {
+			"Singular": "spider",
+			"Plural": "spiders"
+		},
+		"Adjective": {
+			"Adjective": "spidery"
+		}
+	},
+	{
+		"Word": "spike",
+		"Noun": {
+			"Singular": "spike",
+			"Plural": "spikes"
+		},
+		"Adjective": {
+			"Adjective": "spiky"
+		}
+	},
+	{
+		"Word": "spin",
+		"Verb": {
+			"Verb": "spin",
+			"SimplePresent": "spins",
+			"SimplePast": "spun",
+			"PastParticiple": "spun",
+			"PresentParticiple": "spinning"
+		}
+	},
+	{
+		"Word": "spine",
+		"Noun": {
+			"Singular": "spine",
+			"Plural": "spines"
+		}
+	},
+	{
+		"Word": "spirit",
+		"Noun": {
+			"Singular": "spirit",
+			"Plural": "spirits"
+		},
+		"Adjective": {
+			"Adjective": "spirited"
+		}
+	},
+	{
+		"Word": "spit",
+		"Noun": {
+			"Singular": "spit",
+			"Plural": "spits"
+		}
+	},
+	{
+		"Word": "spoil",
+		"Noun": {
+			"Singular": "spoil",
+			"Plural": "spoils"
+		},
+		"Verb": {
+			"Verb": "spoil",
+			"SimplePresent": "spoils",
+			"SimplePast": "spoiled",
+			"PastParticiple": "spoiled",
+			"PresentParticiple": "spoiling"
+		},
+		"ActionNoun": {
+			"Singular": "spoiler",
+			"Plural": "spoilers"
+		}
+	},
+	{
+		"Word": "spoon",
+		"Noun": {
+			"Singular": "spoon",
+			"Plural": "spoons"
+		},
+		"Verb": {
+			"Verb": "spoon",
+			"SimplePresent": "spoons",
+			"SimplePast": "spooned",
+			"PastParticiple": "spooned",
+			"PresentParticiple": "spooning"
+		},
+		"ActionNoun": {
+			"Singular": "spooner",
+			"Plural": "spooners"
+		}
+	},
+	{
+		"Word": "spring",
+		"Noun": {
+			"Singular": "spring",
+			"Plural": "springs"
+		},
+		"Verb": {
+			"Verb": "spring",
+			"SimplePresent": "springs",
+			"SimplePast": "sprang",
+			"PastParticiple": "sprung",
+			"PresentParticiple": "springing"
+		},
+		"ActionNoun": {
+			"Singular": "springer",
+			"Plural": "springers"
+		}
+	},
+	{
+		"Word": "spy",
+		"Noun": {
+			"Singular": "spy",
+			"Plural": "spies"
+		},
+		"Verb": {
+			"Verb": "spy",
+			"SimplePresent": "spies",
+			"SimplePast": "spied",
+			"PastParticiple": "spied",
+			"PresentParticiple": "spying"
+		},
+		"ActionNoun": {
+			"Singular": "spier",
+			"Plural": "spiers"
+		}
+	},
+	{
+		"Word": "squid",
+		"Noun": {
+			"Singular": "squid",
+			"Plural": "squids"
+		}
+	},
+	{
+		"Word": "squirm",
+		"Verb": {
+			"Verb": "squirm",
+			"SimplePresent": "squirms",
+			"SimplePast": "squirmed",
+			"PastParticiple": "squirmed",
+			"PresentParticiple": "squirming"
+		},
+		"ActionNoun": {
+			"Singular": "squirmer",
+			"Plural": "squirmers"
+		}
+	},
+	{
+		"Word": "stab",
+		"Verb": {
+			"Verb": "stab",
+			"SimplePresent": "stabs",
+			"SimplePast": "stabbed",
+			"PastParticiple": "stabbed",
+			"PresentParticiple": "stabbing"
+		},
+		"ActionNoun": {
+			"Singular": "stabber",
+			"Plural": "stabbers"
+		}
+	},
+	{
+		"Word": "staff",
+		"Noun": {
+			"Singular": "staff",
+			"Plural": "staves"
+		}
+	},
+	{
+		"Word": "stalk",
+		"Verb": {
+			"Verb": "stalk",
+			"SimplePresent": "stalks",
+			"SimplePast": "stalked",
+			"PastParticiple": "stalked",
+			"PresentParticiple": "stalking"
+		},
+		"ActionNoun": {
+			"Singular": "stalker",
+			"Plural": "stalkers"
+		}
+	},
+	{
+		"Word": "stand",
+		"Noun": {
+			"Singular": "stand",
+			"Plural": "stands"
+		},
+		"Verb": {
+			"Verb": "stand",
+			"SimplePresent": "stands",
+			"SimplePast": "stood",
+			"PastParticiple": "stood",
+			"PresentParticiple": "standing"
+		}
+	},
+	{
+		"Word": "star",
+		"Noun": {
+			"Singular": "star",
+			"Plural": "stars"
+		},
+		"Adjective": {
+			"Adjective": "starry"
+		}
+	},
+	{
+		"Word": "steed",
+		"Noun": {
+			"Singular": "steed",
+			"Plural": "steeds"
+		}
+	},
+	{
+		"Word": "starve",
+		"Noun": {
+			"Singular": "starvation",
+			"Plural": "starvations"
+		},
+		"Verb": {
+			"Verb": "starve",
+			"SimplePresent": "starves",
+			"SimplePast": "starved",
+			"PastParticiple": "starved",
+			"PresentParticiple": "starving"
+		},
+		"ActionNoun": {
+			"Singular": "starver",
+			"Plural": "starvers"
+		}
+	},
+	{
+		"Word": "steal",
+		"Verb": {
+			"Verb": "steal",
+			"SimplePresent": "steals",
+			"SimplePast": "stole",
+			"PastParticiple": "stolen",
+			"PresentParticiple": "stealing"
+		},
+		"ActionNoun": {
+			"Singular": "stealer",
+			"Plural": "stealers"
+		}
+	},
+	{
+		"Word": "steel",
+		"Noun": {
+			"Singular": "steel",
+			"Plural": "steels"
+		}
+	},
+	{
+		"Word": "stench",
+		"Noun": {
+			"Singular": "stench",
+			"Plural": "stenches"
+		}
+	},
+	{
+		"Word": "stern",
+		"Adjective": {
+			"Adjective": "stern"
+		}
+	},
+	{
+		"Word": "stick",
+		"Noun": {
+			"Singular": "stick",
+			"Plural": "sticks"
+		}
+	},
+	{
+		"Word": "sticky",
+		"Verb": {
+			"Verb": "stick",
+			"SimplePresent": "sticks",
+			"SimplePast": "stuck",
+			"PastParticiple": "stuck",
+			"PresentParticiple": "sticking"
+		},
+		"Adjective": {
+			"Adjective": "sticky"
+		}
+	},
+	{
+		"Word": "stone",
+		"Noun": {
+			"Singular": "stone",
+			"Plural": "stone"
+		},
+		"Verb": {
+			"Verb": "stone",
+			"SimplePresent": "stones",
+			"SimplePast": "stoned",
+			"PastParticiple": "stoned",
+			"PresentParticiple": "stoning"
+		},
+		"ActionNoun": {
+			"Singular": "stoner",
+			"Plural": "stoners"
+		}
+	},
+	{
+		"Word": "storm",
+		"Noun": {
+			"Singular": "storm",
+			"Plural": "storms"
+		},
+		"Verb": {
+			"Verb": "storm",
+			"SimplePresent": "storms",
+			"SimplePast": "stormed",
+			"PastParticiple": "stormed",
+			"PresentParticiple": "storming"
+		},
+		"Adjective": {
+			"Adjective": "stormy"
+		},
+		"ActionNoun": {
+			"Singular": "stormer",
+			"Plural": "stormers"
+		}
+	},
+	{
+		"Word": "strange",
+		"Noun": {
+			"Singular": "strangeness",
+			"Plural": "strangenesses"
+		},
+		"Adjective": {
+			"Adjective": "strange"
+		}
+	},
+	{
+		"Word": "stranger",
+		"Noun": {
+			"Singular": "stranger",
+			"Plural": "strangers"
+		}
+	},
+	{
+		"Word": "strap",
+		"Noun": {
+			"Singular": "strap",
+			"Plural": "straps"
+		},
+		"Verb": {
+			"Verb": "strap",
+			"SimplePresent": "straps",
+			"SimplePast": "strapped",
+			"PastParticiple": "strapped",
+			"PresentParticiple": "strapping"
+		},
+		"Adjective": {
+			"Adjective": "strapping"
+		}
+	},
+	{
+		"Word": "straw",
+		"Noun": {
+			"Singular": "straw",
+			"Plural": "straws"
+		}
+	},
+	{
+		"Word": "stray",
+		"Noun": {
+			"Singular": "stray",
+			"Plural": "strays"
+		},
+		"Verb": {
+			"Verb": "stray",
+			"SimplePresent": "strays",
+			"SimplePast": "strayed",
+			"PastParticiple": "strayed",
+			"PresentParticiple": "straying"
+		}
+	},
+	{
+		"Word": "strength",
+		"Noun": {
+			"Singular": "strength",
+			"Plural": "strengths"
+		},
+		"Verb": {
+			"Verb": "strengthen",
+			"SimplePresent": "strengthens",
+			"SimplePast": "strengthened",
+			"PastParticiple": "strengthened",
+			"PresentParticiple": "strengthening"
+		},
+		"Adjective": {
+			"Adjective": "strong"
+		},
+		"ActionNoun": {
+			"Singular": "strengthener",
+			"Plural": "strengtheners"
+		}
+	},
+	{
+		"Word": "stretch",
+		"Noun": {
+			"Singular": "stretch",
+			"Plural": "stretches"
+		},
+		"Verb": {
+			"Verb": "stretch",
+			"SimplePresent": "stretches",
+			"SimplePast": "stretched",
+			"PastParticiple": "stretched",
+			"PresentParticiple": "stretching"
+		},
+		"Adjective": {
+			"Adjective": "stretchy"
+		},
+		"ActionNoun": {
+			"Singular": "stretcher",
+			"Plural": "stretchers"
+		}
+	},
+	{
+		"Word": "strike",
+		"Noun": {
+			"Singular": "strike",
+			"Plural": "strikes"
+		},
+		"Verb": {
+			"Verb": "strike",
+			"SimplePresent": "strikes",
+			"SimplePast": "struck",
+			"PastParticiple": "stricken",
+			"PresentParticiple": "striking"
+		},
+		"ActionNoun": {
+			"Singular": "striker",
+			"Plural": "strikers"
+		}
+	},
+	{
+		"Word": "stroke",
+		"Noun": {
+			"Singular": "stroke",
+			"Plural": "strokes"
+		},
+		"Verb": {
+			"Verb": "stroke",
+			"SimplePresent": "strokes",
+			"SimplePast": "stroked",
+			"PastParticiple": "stroked",
+			"PresentParticiple": "stroking"
+		},
+		"ActionNoun": {
+			"Singular": "stroker",
+			"Plural": "stroker"
+		}
+	},
+	{
+		"Word": "stunt",
+		"Noun": {
+			"Singular": "stunt",
+			"Plural": "stunts"
+		},
+		"Adjective": {
+			"Adjective": "stunted"
+		}
+	},
+	{
+		"Word": "stupid",
+		"Noun": {
+			"Singular": "stupidity",
+			"Plural": "stupidities"
+		},
+		"Adjective": {
+			"Adjective": "stupid"
+		}
+	},
+	{
+		"Word": "stutter",
+		"Verb": {
+			"Verb": "stutter",
+			"SimplePresent": "stutters",
+			"SimplePast": "stuttered",
+			"PastParticiple": "stuttered",
+			"PresentParticiple": "stuttering"
+		},
+		"ActionNoun": {
+			"Singular": "stutterer",
+			"Plural": "stutterers"
+		}
+	},
+	{
+		"Word": "style",
+		"Noun": {
+			"Singular": "style",
+			"Plural": "styles"
+		},
+		"Verb": {
+			"Verb": "style",
+			"SimplePresent": "styles",
+			"SimplePast": "styled",
+			"PastParticiple": "styled",
+			"PresentParticiple": "styling"
+		},
+		"Adjective": {
+			"Adjective": "stylish"
+		},
+		"ActionNoun": {
+			"Singular": "styler",
+			"Plural": "stylers"
+		}
+	},
+	{
+		"Word": "subordinate",
+		"Noun": {
+			"Singular": "subordinate",
+			"Plural": "subordinate"
+		},
+		"Adjective": {
+			"Adjective": "subordinate"
+		}
+	},
+	{
+		"Word": "suck",
+		"Verb": {
+			"Verb": "suck",
+			"SimplePresent": "sucks",
+			"SimplePast": "sucked",
+			"PastParticiple": "sucked",
+			"PresentParticiple": "sucking"
+		},
+		"Adjective": {
+			"Adjective": "sucky"
+		},
+		"ActionNoun": {
+			"Singular": "sucker",
+			"Plural": "suckers"
+		}
+	},
+	{
+		"Word": "suffer",
+		"Noun": {
+			"Singular": "suffering",
+			"Plural": "sufferings"
+		},
+		"Verb": {
+			"Verb": "suffer",
+			"SimplePresent": "suffers",
+			"SimplePast": "suffered",
+			"PastParticiple": "suffered",
+			"PresentParticiple": "suffering"
+		},
+		"Adjective": {
+			"Adjective": "insufferable"
+		},
+		"ActionNoun": {
+			"Singular": "sufferer",
+			"Plural": "sufferers"
+		}
+	},
+	{
+		"Word": "sullen",
+		"Adjective": {
+			"Adjective": "sullen"
+		}
+	},
+	{
+		"Word": "summer",
+		"Noun": {
+			"Singular": "summer",
+			"Plural": "summers"
+		}
+	},
+	{
+		"Word": "sunder",
+		"Verb": {
+			"Verb": "sunder",
+			"SimplePresent": "sunders",
+			"SimplePast": "sundered",
+			"PastParticiple": "sundered",
+			"PresentParticiple": "sundering"
+		},
+		"ActionNoun": {
+			"Singular": "sunderer",
+			"Plural": "sunderers"
+		}
+	},
+	{
+		"Word": "supper",
+		"Noun": {
+			"Singular": "supper",
+			"Plural": "suppers"
+		}
+	},
+	{
+		"Word": "surprise",
+		"Noun": {
+			"Singular": "surprise",
+			"Plural": "surprises"
+		},
+		"Verb": {
+			"Verb": "surprise",
+			"SimplePresent": "surprises",
+			"SimplePast": "surprised",
+			"PastParticiple": "surprised",
+			"PresentParticiple": "surprising"
+		},
+		"ActionNoun": {
+			"Singular": "surpriser",
+			"Plural": "surprisers"
+		}
+	},
+	{
+		"Word": "swamp",
+		"Noun": {
+			"Singular": "swamp",
+			"Plural": "swamps"
+		},
+		"Verb": {
+			"Verb": "swamp",
+			"SimplePresent": "swamps",
+			"SimplePast": "swamped",
+			"PastParticiple": "swamped",
+			"PresentParticiple": "swamping"
+		},
+		"Adjective": {
+			"Adjective": "swampy"
+		},
+		"ActionNoun": {
+			"Singular": "swamper",
+			"Plural": "swampers"
+		}
+	},
+	{
+		"Word": "sweat",
+		"Noun": {
+			"Singular": "sweat",
+			"Plural": "sweats"
+		},
+		"Verb": {
+			"Verb": "sweat",
+			"SimplePresent": "sweats",
+			"SimplePast": "sweat",
+			"PastParticiple": "sweat",
+			"PresentParticiple": "sweating"
+		},
+		"Adjective": {
+			"Adjective": "sweaty"
+		},
+		"ActionNoun": {
+			"Singular": "sweater",
+			"Plural": "sweater"
+		}
+	},
+	{
+		"Word": "sweet",
+		"Noun": {
+			"Singular": "sweet",
+			"Plural": "sweets"
+		},
+		"Adjective": {
+			"Adjective": "sweet"
+		}
+	},
+	{
+		"Word": "sweetness",
+		"Noun": {
+			"Singular": "sweetness",
+			"Plural": "sweetnesses"
+		}
+	},
+	{
+		"Word": "swift",
+		"Noun": {
+			"Singular": "swiftness",
+			"Plural": "swiftnesses"
+		},
+		"Adjective": {
+			"Adjective": "swift"
+		}
+	},
+	{
+		"Word": "swim",
+		"Verb": {
+			"Verb": "swim",
+			"SimplePresent": "swims",
+			"SimplePast": "swam",
+			"PastParticiple": "swam",
+			"PresentParticiple": "swimming"
+		},
+		"ActionNoun": {
+			"Singular": "swimmer",
+			"Plural": "swimmers"
+		}
+	},
+	{
+		"Word": "swine",
+		"Noun": {
+			"Singular": "swine",
+			"Plural": "swines"
+		}
+	},
+	{
+		"Word": "sword",
+		"Noun": {
+			"Singular": "sword",
+			"Plural": "swords"
+		}
+	},
+	{
+		"Word": "syrup",
+		"Noun": {
+			"Singular": "syrup",
+			"Plural": "syrups"
+		},
+		"Adjective": {
+			"Adjective": "syrupy"
+		}
+	},
+	{
+		"Word": "take",
+		"Verb": {
+			"Verb": "take",
+			"SimplePresent": "takes",
+			"SimplePast": "took",
+			"PastParticiple": "taken",
+			"PresentParticiple": "taking"
+		},
+		"ActionNoun": {
+			"Singular": "taker",
+			"Plural": "takers"
+		}
+	},
+	{
+		"Word": "tail",
+		"Noun": {
+			"Singular": "tail",
+			"Plural": "tails"
+		}
+	},
+	{
+		"Word": "talon",
+		"Noun": {
+			"Singular": "talon",
+			"Plural": "talons"
+		}
+	},
+	{
+		"Word": "tar",
+		"Noun": {
+			"Singular": "tar",
+			"Plural": "tars"
+		}
+	},
+	{
+		"Word": "tarnish",
+		"Noun": {
+			"Singular": "tarnish",
+			"Plural": "tarnish"
+		},
+		"Verb": {
+			"Verb": "tarnish",
+			"SimplePresent": "tarnishes",
+			"SimplePast": "tarnished",
+			"PastParticiple": "tarnished",
+			"PresentParticiple": "tarnishing"
+		},
+		"ActionNoun": {
+			"Singular": "tarnisher",
+			"Plural": "tarnishers"
+		}
+	},
+	{
+		"Word": "tell",
+		"Verb": {
+			"Verb": "tell",
+			"SimplePresent": "tells",
+			"SimplePast": "told",
+			"PastParticiple": "told",
+			"PresentParticiple": "telling"
+		},
+		"ActionNoun": {
+			"Singular": "teller",
+			"Plural": "tellers"
+		}
+	},
+	{
+		"Word": "tempest",
+		"Noun": {
+			"Singular": "tempest",
+			"Plural": "tempests"
+		}
+	},
+	{
+		"Word": "tear",
+		"Noun": {
+			"Singular": "tear",
+			"Plural": "tears"
+		},
+		"Verb": {
+			"Verb": "tear",
+			"SimplePresent": "tears",
+			"SimplePast": "torn",
+			"PastParticiple": "torn",
+			"PresentParticiple": "tearing"
+		}
+	},
+	{
+		"Word": "terrible",
+		"Adjective": {
+			"Adjective": "terrible"
+		}
+	},
+	{
+		"Word": "terror",
+		"Noun": {
+			"Singular": "terror",
+			"Plural": "terrors"
+		},
+		"Verb": {
+			"Verb": "terrify",
+			"SimplePresent": "terrifies",
+			"SimplePast": "terrified",
+			"PastParticiple": "terrified",
+			"PresentParticiple": "terrifying"
+		}
+	},
+	{
+		"Word": "terrorize",
+		"Verb": {
+			"Verb": "terrorize",
+			"SimplePresent": "terrorizes",
+			"SimplePast": "terrorized",
+			"PastParticiple": "terrorized",
+			"PresentParticiple": "terrorizing"
+		},
+		"ActionNoun": {
+			"Singular": "terrorizer",
+			"Plural": "terrorizers"
+		}
+	},
+	{
+		"Word": "thief",
+		"Noun": {
+			"Singular": "thief",
+			"Plural": "thieves"
+		}
+	},
+	{
+		"Word": "thirst",
+		"Noun": {
+			"Singular": "thirst",
+			"Plural": "thirsts"
+		}
+	},
+	{
+		"Word": "thorn",
+		"Noun": {
+			"Singular": "thorn",
+			"Plural": "thorns"
+		}
+	},
+	{
+		"Word": "thrall",
+		"Noun": {
+			"Singular": "thrall",
+			"Plural": "thralls"
+		}
+	},
+	{
+		"Word": "throat",
+		"Noun": {
+			"Singular": "throat",
+			"Plural": "throats"
+		}
+	},
+	{
+		"Word": "throne",
+		"Noun": {
+			"Singular": "throne",
+			"Plural": "thrones"
+		}
+	},
+	{
+		"Word": "throw",
+		"Verb": {
+			"Verb": "throw",
+			"SimplePresent": "throws",
+			"SimplePast": "threw",
+			"PastParticiple": "thrown",
+			"PresentParticiple": "throwing"
+		},
+		"ActionNoun": {
+			"Singular": "thrower",
+			"Plural": "throwers"
+		}
+	},
+	{
+		"Word": "thunder",
+		"Noun": {
+			"Singular": "thunder",
+			"Plural": "thunders"
+		},
+		"Verb": {
+			"Verb": "thunder",
+			"SimplePresent": "thunders",
+			"SimplePast": "thundered",
+			"PastParticiple": "thundered",
+			"PresentParticiple": "thundering"
+		},
+		"Adjective": {
+			"Adjective": "thunderous"
+		},
+		"ActionNoun": {
+			"Singular": "thunderer",
+			"Plural": "thunderers"
+		}
+	},
+	{
+		"Word": "tick",
+		"Noun": {
+			"Singular": "tick",
+			"Plural": "ticks"
+		},
+		"Verb": {
+			"Verb": "tick",
+			"SimplePresent": "ticks",
+			"SimplePast": "ticked",
+			"PastParticiple": "ticked",
+			"PresentParticiple": "ticking"
+		},
+		"ActionNoun": {
+			"Singular": "ticker",
+			"Plural": "tickers"
+		}
+	},
+	{
+		"Word": "tight",
+		"Noun": {
+			"Singular": "tightness",
+			"Plural": "tightnesses"
+		},
+		"Verb": {
+			"Verb": "tighten",
+			"SimplePresent": "tightens",
+			"SimplePast": "tightened",
+			"PastParticiple": "tightened",
+			"PresentParticiple": "tightenening"
+		},
+		"Adjective": {
+			"Adjective": "tight"
+		},
+		"ActionNoun": {
+			"Singular": "tightener",
+			"Plural": "tighteners"
+		}
+	},
+	{
+		"Word": "time",
+		"Noun": {
+			"Singular": "time",
+			"Plural": "time"
+		},
+		"Verb": {
+			"Verb": "time",
+			"SimplePresent": "times",
+			"SimplePast": "timed",
+			"PastParticiple": "timed",
+			"PresentParticiple": "timing"
+		},
+		"Adjective": {
+			"Adjective": "timey"
+		},
+		"ActionNoun": {
+			"Singular": "timer",
+			"Plural": "timers"
+		}
+	},
+	{
+		"Word": "toad",
+		"Noun": {
+			"Singular": "toad",
+			"Plural": "toads"
+		},
+		"Adjective": {
+			"Adjective": "toady"
+		}
+	},
+	{
+		"Word": "toe",
+		"Noun": {
+			"Singular": "toe",
+			"Plural": "toes"
+		}
+	},
+	{
+		"Word": "tomb",
+		"Noun": {
+			"Singular": "tomb",
+			"Plural": "tombs"
+		}
+	},
+	{
+		"Word": "tome",
+		"Noun": {
+			"Singular": "tome",
+			"Plural": "tomes"
+		}
+	},
+	{
+		"Word": "tongue",
+		"Noun": {
+			"Singular": "tongue",
+			"Plural": "tongues"
+		}
+	},
+	{
+		"Word": "tooth",
+		"Noun": {
+			"Singular": "tooth",
+			"Plural": "teeth"
+		}
+	},
+	{
+		"Word": "torment",
+		"Noun": {
+			"Singular": "torment",
+			"Plural": "torments"
+		},
+		"Verb": {
+			"Verb": "torment",
+			"SimplePresent": "torments",
+			"SimplePast": "tormented",
+			"PastParticiple": "tormented",
+			"PresentParticiple": "tormenting"
+		},
+		"ActionNoun": {
+			"Singular": "tormenter",
+			"Plural": "tormenters"
+		}
+	},
+	{
+		"Word": "touch",
+		"Noun": {
+			"Singular": "touch",
+			"Plural": "touches"
+		},
+		"Verb": {
+			"Verb": "touch",
+			"SimplePresent": "touches",
+			"SimplePast": "touched",
+			"PastParticiple": "touched",
+			"PresentParticiple": "touching"
+		},
+		"Adjective": {
+			"Adjective": "touchy"
+		},
+		"ActionNoun": {
+			"Singular": "toucher",
+			"Plural": "touchers"
+		}
+	},
+	{
+		"Word": "tour",
+		"Noun": {
+			"Singular": "tour",
+			"Plural": "tours"
+		}
+	},
+	{
+		"Word": "tower",
+		"Noun": {
+			"Singular": "tower",
+			"Plural": "towers"
+		},
+		"Verb": {
+			"Verb": "tower",
+			"SimplePresent": "towers",
+			"SimplePast": "towered",
+			"PastParticiple": "towered",
+			"PresentParticiple": "towering"
+		}
+	},
+	{
+		"Word": "trail",
+		"Noun": {
+			"Singular": "trail",
+			"Plural": "trails"
+		},
+		"Verb": {
+			"Verb": "trail",
+			"SimplePresent": "trails",
+			"SimplePast": "trailed",
+			"PastParticiple": "trailed",
+			"PresentParticiple": "trailing"
+		}
+	},
+	{
+		"Word": "trance",
+		"Noun": {
+			"Singular": "trance",
+			"Plural": "trances"
+		}
+	},
+	{
+		"Word": "trap",
+		"Noun": {
+			"Singular": "trap",
+			"Plural": "traps"
+		},
+		"Verb": {
+			"Verb": "trap",
+			"SimplePresent": "traps",
+			"SimplePast": "trapped",
+			"PastParticiple": "trapped",
+			"PresentParticiple": "trapping"
+		},
+		"ActionNoun": {
+			"Singular": "trapper",
+			"Plural": "trappers"
+		}
+	},
+	{
+		"Word": "trash",
+		"Noun": {
+			"Singular": "trash",
+			"Plural": "trashes"
+		},
+		"Adjective": {
+			"Adjective": "trashy"
+		}
+	},
+	{
+		"Word": "treasure",
+		"Noun": {
+			"Singular": "treasure",
+			"Plural": "treasures"
+		},
+		"Verb": {
+			"Verb": "treasure",
+			"SimplePresent": "treasures",
+			"SimplePast": "treasured",
+			"PastParticiple": "treasured",
+			"PresentParticiple": "treasuring"
+		},
+		"ActionNoun": {
+			"Singular": "treasurer",
+			"Plural": "treasurers"
+		}
+	},
+	{
+		"Word": "treat",
+		"Noun": {
+			"Singular": "treat",
+			"Plural": "treats"
+		},
+		"Verb": {
+			"Verb": "treat",
+			"SimplePresent": "treats",
+			"SimplePast": "treated",
+			"PastParticiple": "treated",
+			"PresentParticiple": "treating"
+		},
+		"ActionNoun": {
+			"Singular": "treater",
+			"Plural": "treaters"
+		}
+	},
+	{
+		"Word": "treaty",
+		"Noun": {
+			"Singular": "treaty",
+			"Plural": "treaties"
+		}
+	},
+	{
+		"Word": "trench",
+		"Noun": {
+			"Singular": "trench",
+			"Plural": "trenches"
+		}
+	},
+	{
+		"Word": "tribe",
+		"Noun": {
+			"Singular": "tribe",
+			"Plural": "tribes"
+		}
+	},
+	{
+		"Word": "trick",
+		"Noun": {
+			"Singular": "trick",
+			"Plural": "tricks"
+		},
+		"Verb": {
+			"Verb": "trick",
+			"SimplePresent": "tricks",
+			"SimplePast": "tricked",
+			"PastParticiple": "tricked",
+			"PresentParticiple": "tricking"
+		},
+		"Adjective": {
+			"Adjective": "tricky"
+		},
+		"ActionNoun": {
+			"Singular": "trickster",
+			"Plural": "tricksters"
+		}
+	},
+	{
+		"Word": "trickery",
+		"Noun": {
+			"Singular": "trickery",
+			"Plural": "trickeries"
+		}
+	},
+	{
+		"Word": "trim",
+		"Noun": {
+			"Singular": "trim",
+			"Plural": "trims"
+		},
+		"Verb": {
+			"Verb": "trim",
+			"SimplePresent": "trims",
+			"SimplePast": "trimmed",
+			"PastParticiple": "trimmed",
+			"PresentParticiple": "trimming"
+		},
+		"Adjective": {
+			"Adjective": "trim"
+		},
+		"ActionNoun": {
+			"Singular": "trimmer",
+			"Plural": "trimmers"
+		}
+	},
+	{
+		"Word": "trouble",
+		"Noun": {
+			"Singular": "trouble",
+			"Plural": "troubles"
+		},
+		"Verb": {
+			"Verb": "trouble",
+			"SimplePresent": "troubles",
+			"SimplePast": "troubled",
+			"PastParticiple": "troubled",
+			"PresentParticiple": "troubling"
+		},
+		"ActionNoun": {
+			"Singular": "troublemaker",
+			"Plural": "troublemakers"
+		}
+	},
+	{
+		"Word": "tug",
+		"Verb": {
+			"Verb": "tug",
+			"SimplePresent": "tugs",
+			"SimplePast": "tugged",
+			"PastParticiple": "tugged",
+			"PresentParticiple": "tugging"
+		},
+		"ActionNoun": {
+			"Singular": "tugger",
+			"Plural": "tugger"
+		}
+	},
+	{
+		"Word": "tulip",
+		"Noun": {
+			"Singular": "tulip",
+			"Plural": "tulips"
+		}
+	},
+	{
+		"Word": "tumble",
+		"Verb": {
+			"Verb": "tumble",
+			"SimplePresent": "tumbles",
+			"SimplePast": "tumbled",
+			"PastParticiple": "tumbled",
+			"PresentParticiple": "tumbling"
+		},
+		"ActionNoun": {
+			"Singular": "tumbler",
+			"Plural": "tumblers"
+		}
+	},
+	{
+		"Word": "tumor",
+		"Noun": {
+			"Singular": "tumor",
+			"Plural": "tumors"
+		}
+	},
+	{
+		"Word": "turmoil",
+		"Noun": {
+			"Singular": "turmoil",
+			"Plural": "turmoils"
+		}
+	},
+	{
+		"Word": "tusk",
+		"Noun": {
+			"Singular": "tusk",
+			"Plural": "tusks"
+		}
+	},
+	{
+		"Word": "tweet",
+		"Verb": {
+			"Verb": "tweet",
+			"SimplePresent": "tweets",
+			"SimplePast": "tweeted",
+			"PastParticiple": "tweeted",
+			"PresentParticiple": "tweeting"
+		}
+	},
+	{
+		"Word": "twilight",
+		"Noun": {
+			"Singular": "twilight",
+			"Plural": "twilights"
+		}
+	},
+	{
+		"Word": "twine",
+		"Noun": {
+			"Singular": "twine",
+			"Plural": "twines"
+		}
+	},
+	{
+		"Word": "twist",
+		"Noun": {
+			"Singular": "twist",
+			"Plural": "twists"
+		},
+		"Verb": {
+			"Verb": "twist",
+			"SimplePresent": "twists",
+			"SimplePast": "twisted",
+			"PastParticiple": "twisted",
+			"PresentParticiple": "twisting"
+		}
+	},
+	{
+		"Word": "ugly",
+		"Noun": {
+			"Singular": "ugliness",
+			"Plural": "uglinesses"
+		},
+		"Adjective": {
+			"Adjective": "ugly"
+		}
+	},
+	{
+		"Word": "ultimate",
+		"Adjective": {
+			"Adjective": "ultimate"
+		}
+	},
+	{
+		"Word": "uncle",
+		"Noun": {
+			"Singular": "uncle",
+			"Plural": "uncles"
+		}
+	},
+	{
+		"Word": "unholy",
+		"Adjective": {
+			"Adjective": "unholy"
+		}
+	},
+	{
+		"Word": "unkempt",
+		"Adjective": {
+			"Adjective": "unkempt"
+		}
+	},
+	{
+		"Word": "unseen",
+		"Adjective": {
+			"Adjective": "unseen"
+		}
+	},
+	{
+		"Word": "urn",
+		"Noun": {
+			"Singular": "urn",
+			"Plural": "urns"
+		}
+	},
+	{
+		"Word": "useless",
+		"Adjective": {
+			"Adjective": "useless"
+		}
+	},
+	{
+		"Word": "vandal",
+		"Noun": {
+			"Singular": "vandal",
+			"Plural": "vandal"
+		},
+		"Verb": {
+			"Verb": "vandalize",
+			"SimplePresent": "vandalizes",
+			"SimplePast": "vandalized",
+			"PastParticiple": "vandalized",
+			"PresentParticiple": "vandalizing"
+		},
+		"ActionNoun": {
+			"Singular": "vandalizer",
+			"Plural": "vandalizers"
+		}
+	},
+	{
+		"Word": "vegetable",
+		"Noun": {
+			"Singular": "vegetable",
+			"Plural": "vegetables"
+		}
+	},
+	{
+		"Word": "vegetation",
+		"Noun": {
+			"Singular": "vegetation",
+			"Plural": "vegetations"
+		}
+	},
+	{
+		"Word": "velvet",
+		"Noun": {
+			"Singular": "velvet",
+			"Plural": "velvets"
+		},
+		"Adjective": {
+			"Adjective": "velvety"
+		}
+	},
+	{
+		"Word": "venom",
+		"Noun": {
+			"Singular": "venom",
+			"Plural": "venoms"
+		},
+		"Adjective": {
+			"Adjective": "venomous"
+		}
+	},
+	{
+		"Word": "vermin",
+		"Noun": {
+			"Singular": "vermin",
+			"Plural": "vermins"
+		}
+	},
+	{
+		"Word": "vile",
+		"Noun": {
+			"Singular": "vileness",
+			"Plural": "vilenesses"
+		},
+		"Adjective": {
+			"Adjective": "vile"
+		}
+	},
+	{
+		"Word": "violate",
+		"Verb": {
+			"Verb": "violate",
+			"SimplePresent": "violates",
+			"SimplePast": "violated",
+			"PastParticiple": "violated",
+			"PresentParticiple": "violating"
+		},
+		"ActionNoun": {
+			"Singular": "violator",
+			"Plural": "violators"
+		}
+	},
+	{
+		"Word": "violence",
+		"Noun": {
+			"Singular": "violence",
+			"Plural": "violences"
+		},
+		"Adjective": {
+			"Adjective": "violence"
+		}
+	},
+	{
+		"Word": "violet",
+		"Adjective": {
+			"Adjective": "violet"
+		}
+	},
+	{
+		"Word": "viper",
+		"Noun": {
+			"Singular": "viper",
+			"Plural": "vipers"
+		}
+	},
+	{
+		"Word": "voice",
+		"Noun": {
+			"Singular": "voice",
+			"Plural": "voices"
+		},
+		"Verb": {
+			"Verb": "voice",
+			"SimplePresent": "voices",
+			"SimplePast": "voiced",
+			"PastParticiple": "voiced",
+			"PresentParticiple": "voicing"
+		}
+	},
+	{
+		"Word": "void",
+		"Noun": {
+			"Singular": "void",
+			"Plural": "voids"
+		},
+		"Verb": {
+			"Verb": "void",
+			"SimplePresent": "voids",
+			"SimplePast": "voided",
+			"PastParticiple": "voided",
+			"PresentParticiple": "voiding"
+		},
+		"ActionNoun": {
+			"Singular": "voider",
+			"Plural": "voiders"
+		}
+	},
+	{
+		"Word": "volcano",
+		"Noun": {
+			"Singular": "volcano",
+			"Plural": "volcanoes"
+		}
+	},
+	{
+		"Word": "vomit",
+		"Noun": {
+			"Singular": "vomit",
+			"Plural": "vomits"
+		}
+	},
+	{
+		"Word": "vulture",
+		"Noun": {
+			"Singular": "vulture",
+			"Plural": "vultures"
+		}
+	},
+	{
+		"Word": "wail",
+		"Noun": {
+			"Singular": "wail",
+			"Plural": "wails"
+		},
+		"Verb": {
+			"Verb": "wail",
+			"SimplePresent": "wails",
+			"SimplePast": "wailed",
+			"PastParticiple": "wailed",
+			"PresentParticiple": "wailing"
+		},
+		"ActionNoun": {
+			"Singular": "wailer",
+			"Plural": "wailers"
+		}
+	},
+	{
+		"Word": "wander",
+		"Verb": {
+			"Verb": "wander",
+			"SimplePresent": "wanders",
+			"SimplePast": "wandered",
+			"PastParticiple": "wandered",
+			"PresentParticiple": "wandering"
+		},
+		"ActionNoun": {
+			"Singular": "wanderer",
+			"Plural": "wanderers"
+		}
+	},
+	{
+		"Word": "war",
+		"Noun": {
+			"Singular": "war",
+			"Plural": "wars"
+		}
+	},
+	{
+		"Word": "warrior",
+		"Noun": {
+			"Singular": "warrior",
+			"Plural": "warriors"
+		}
+	},
+	{
+		"Word": "wasp",
+		"Noun": {
+			"Singular": "wasp",
+			"Plural": "wasps"
+		}
+	},
+	{
+		"Word": "waste",
+		"Noun": {
+			"Singular": "waste",
+			"Plural": "wastes"
+		},
+		"Verb": {
+			"Verb": "waste",
+			"SimplePresent": "wastes",
+			"SimplePast": "wasted",
+			"PastParticiple": "wasted",
+			"PresentParticiple": "wasting"
+		},
+		"ActionNoun": {
+			"Singular": "waster",
+			"Plural": "wasters"
+		}
+	},
+	{
+		"Word": "watch",
+		"Noun": {
+			"Singular": "watch",
+			"Plural": "watches"
+		},
+		"Verb": {
+			"Verb": "watch",
+			"SimplePresent": "watches",
+			"SimplePast": "watched",
+			"PastParticiple": "watched",
+			"PresentParticiple": "watching"
+		},
+		"ActionNoun": {
+			"Singular": "watcher",
+			"Plural": "watchers"
+		}
+	},
+	{
+		"Word": "watchful",
+		"Noun": {
+			"Singular": "watchfulness",
+			"Plural": "watchfulnesses"
+		},
+		"Adjective": {
+			"Adjective": "watchful"
+		}
+	},
+	{
+		"Word": "wave",
+		"Noun": {
+			"Singular": "wave",
+			"Plural": "waves"
+		},
+		"Verb": {
+			"Verb": "wave",
+			"SimplePresent": "waves",
+			"SimplePast": "waved",
+			"PastParticiple": "waved",
+			"PresentParticiple": "waving"
+		},
+		"Adjective": {
+			"Adjective": "wavy"
+		}
+	},
+	{
+		"Word": "wear",
+		"Verb": {
+			"Verb": "wear",
+			"SimplePresent": "wears",
+			"SimplePast": "wore",
+			"PastParticiple": "worn",
+			"PresentParticiple": "wearing"
+		},
+		"ActionNoun": {
+			"Singular": "wearer",
+			"Plural": "wearers"
+		}
+	},
+	{
+		"Word": "weasel",
+		"Noun": {
+			"Singular": "weasel",
+			"Plural": "weasels"
+		}
+	},
+	{
+		"Word": "weave",
+		"Noun": {
+			"Singular": "weave",
+			"Plural": "weaves"
+		},
+		"Verb": {
+			"Verb": "weave",
+			"SimplePresent": "weaves",
+			"SimplePast": "weaved",
+			"PastParticiple": "weaved",
+			"PresentParticiple": "weaving"
+		},
+		"ActionNoun": {
+			"Singular": "weaver",
+			"Plural": "weavers"
+		}
+	},
+	{
+		"Word": "weed",
+		"Noun": {
+			"Singular": "weed",
+			"Plural": "weeds"
+		},
+		"Verb": {
+			"Verb": "weed",
+			"SimplePresent": "weeds",
+			"SimplePast": "weeded",
+			"PastParticiple": "weeded",
+			"PresentParticiple": "weeding"
+		},
+		"ActionNoun": {
+			"Singular": "weeder",
+			"Plural": "weeders"
+		}
+	},
+	{
+		"Word": "weigh",
+		"Noun": {
+			"Singular": "weight",
+			"Plural": "weights"
+		},
+		"Verb": {
+			"Verb": "weigh",
+			"SimplePresent": "weighs",
+			"SimplePast": "weighed",
+			"PastParticiple": "weighed",
+			"PresentParticiple": "weighing"
+		},
+		"ActionNoun": {
+			"Singular": "weigher",
+			"Plural": "weighers"
+		}
+	},
+	{
+		"Word": "weird",
+		"Adjective": {
+			"Adjective": "weird"
+		}
+	},
+	{
+		"Word": "west",
+		"Adjective": {
+			"Adjective": "west"
+		}
+	},
+	{
+		"Word": "wheat",
+		"Noun": {
+			"Singular": "wheat",
+			"Plural": "wheats"
+		}
+	},
+	{
+		"Word": "wheel",
+		"Noun": {
+			"Singular": "wheel",
+			"Plural": "wheels"
+		},
+		"Verb": {
+			"Verb": "wheel",
+			"SimplePresent": "wheels",
+			"SimplePast": "wheeled",
+			"PastParticiple": "wheeled",
+			"PresentParticiple": "wheeling"
+		},
+		"ActionNoun": {
+			"Singular": "wheeler",
+			"Plural": "wheelers"
+		}
+	},
+	{
+		"Word": "whip",
+		"Noun": {
+			"Singular": "whip",
+			"Plural": "whips"
+		},
+		"Verb": {
+			"Verb": "whip",
+			"SimplePresent": "whips",
+			"SimplePast": "whipped",
+			"PastParticiple": "whipped",
+			"PresentParticiple": "whipping"
+		},
+		"ActionNoun": {
+			"Singular": "whipper",
+			"Plural": "whippers"
+		}
+	},
+	{
+		"Word": "whisk",
+		"Verb": {
+			"Verb": "whisk",
+			"SimplePresent": "whisks",
+			"SimplePast": "whisked",
+			"PastParticiple": "whisked",
+			"PresentParticiple": "whisking"
+		}
+	},
+	{
+		"Word": "whisker",
+		"Noun": {
+			"Singular": "whisker",
+			"Plural": "whiskers"
+		}
+	},
+	{
+		"Word": "whisky",
+		"Noun": {
+			"Singular": "whisky",
+			"Plural": "whiskies"
+		}
+	},
+	{
+		"Word": "whisper",
+		"Noun": {
+			"Singular": "whisper",
+			"Plural": "whispers"
+		},
+		"Verb": {
+			"Verb": "whisper",
+			"SimplePresent": "whispers",
+			"SimplePast": "whispered",
+			"PastParticiple": "whispered",
+			"PresentParticiple": "whispering"
+		},
+		"ActionNoun": {
+			"Singular": "whisperer",
+			"Plural": "whisperers"
+		}
+	},
+	{
+		"Word": "white",
+		"Adjective": {
+			"Adjective": "white"
+		}
+	},
+	{
+		"Word": "wicked",
+		"Noun": {
+			"Singular": "wickedness",
+			"Plural": "wickednesses"
+		},
+		"Adjective": {
+			"Adjective": "wicked"
+		}
+	},
+	{
+		"Word": "wild",
+		"Noun": {
+			"Singular": "wildness",
+			"Plural": "wildnesses"
+		},
+		"Adjective": {
+			"Adjective": "wild"
+		}
+	},
+	{
+		"Word": "wilderness",
+		"Noun": {
+			"Singular": "wilderness",
+			"Plural": "wildernesses"
+		}
+	},
+	{
+		"Word": "will",
+		"Noun": {
+			"Singular": "will",
+			"Plural": "wills"
+		},
+		"Verb": {
+			"Verb": "will",
+			"SimplePresent": "wills",
+			"SimplePast": "willed",
+			"PastParticiple": "willed",
+			"PresentParticiple": "willing"
+		},
+		"Adjective": {
+			"Adjective": "willful"
+		}
+	},
+	{
+		"Word": "wing",
+		"Noun": {
+			"Singular": "wing",
+			"Plural": "wings"
+		}
+	},
+	{
+		"Word": "winter",
+		"Noun": {
+			"Singular": "winter",
+			"Plural": "winters"
+		}
+	},
+	{
+		"Word": "wisp",
+		"Noun": {
+			"Singular": "wisp",
+			"Plural": "wisps"
+		},
+		"Adjective": {
+			"Adjective": "wispy"
+		}
+	},
+	{
+		"Word": "witch",
+		"Noun": {
+			"Singular": "witch",
+			"Plural": "witches"
+		}
+	},
+	{
+		"Word": "wonder",
+		"Noun": {
+			"Singular": "wonder",
+			"Plural": "wonders"
+		},
+		"Verb": {
+			"Verb": "wonder",
+			"SimplePresent": "wonders",
+			"SimplePast": "wondered",
+			"PastParticiple": "wondered",
+			"PresentParticiple": "wondering"
+		},
+		"Adjective": {
+			"Adjective": "wonderous"
+		},
+		"ActionNoun": {
+			"Singular": "wonderer",
+			"Plural": "wonderers"
+		}
+	},
+	{
+		"Word": "wood",
+		"Noun": {
+			"Singular": "wood",
+			"Plural": "woods"
+		},
+		"Adjective": {
+			"Adjective": "wooden"
+		}
+	},
+	{
+		"Word": "work",
+		"Noun": {
+			"Singular": "work",
+			"Plural": "works"
+		},
+		"Verb": {
+			"Verb": "work",
+			"SimplePresent": "works",
+			"SimplePast": "worked",
+			"PastParticiple": "worked",
+			"PresentParticiple": "working"
+		},
+		"ActionNoun": {
+			"Singular": "worker",
+			"Plural": "workers"
+		}
+	},
+	{
+		"Word": "worm",
+		"Noun": {
+			"Singular": "worm",
+			"Plural": "worms"
+		},
+		"Adjective": {
+			"Adjective": "wormlike"
+		}
+	},
+	{
+		"Word": "wraith",
+		"Noun": {
+			"Singular": "wraith",
+			"Plural": "wraiths"
+		}
+	},
+	{
+		"Word": "wrath",
+		"Noun": {
+			"Singular": "wrath",
+			"Plural": "wraths"
+		},
+		"Adjective": {
+			"Adjective": "wrathful"
+		}
+	},
+	{
+		"Word": "wretch",
+		"Noun": {
+			"Singular": "wretch",
+			"Plural": "wretches"
+		},
+		"Adjective": {
+			"Adjective": "wretched"
+		}
+	},
+	{
+		"Word": "yarn",
+		"Noun": {
+			"Singular": "yarn",
+			"Plural": "yarns"
+		}
+	},
+	{
+		"Word": "year",
+		"Noun": {
+			"Singular": "year",
+			"Plural": "years"
+		}
+	},
+	{
+		"Word": "yellow",
+		"Adjective": {
+			"Adjective": "yellow"
+		}
+	},
+	{
+		"Word": "young",
+		"Adjective": {
+			"Adjective": "young"
+		}
+	},
+	{
+		"Word": "youth",
+		"Noun": {
+			"Singular": "youth",
+			"Plural": "youths"
+		},
+		"Adjective": {
+			"Adjective": "youthful"
+		}
+	},
+	{
+		"Word": "zeal",
+		"Noun": {
+			"Singular": "zeal",
+			"Plural": "zeals"
+		},
+		"Adjective": {
+			"Adjective": "zealous"
+		}
+	},
+	{
+		"Word": "zealot",
+		"Noun": {
+			"Singular": "zealot",
+			"Plural": "zealots"
+		}
+	},
+	{
+		"Word": "zephyr",
+		"Noun": {
+			"Singular": "zephyr",
+			"Plural": "zephyrs"
+		}
+	}]
