@@ -1,0 +1,32 @@
+[{
+	"TableName": "Words",
+	"JSON": [{
+		"File": "json/english/words.json",
+		"IDString": "Word"
+	}]
+},
+
+{
+	"TableName": "Namerules",
+	"JSON": [{
+		"File": "json/english/namerules.json"
+	}]
+},
+
+{
+	"TableName": "Translation",
+	"JSON": [{
+			"File": "json/english/translation_en.json"
+		},
+		{
+			"File": "json/english/materials_en.json"
+		},
+		{
+			"File": "json/english/items_and_crafts_en.json"
+		},
+		{
+			"File": "json/english/gui_en.json"
+		}
+	]
+}
+]
