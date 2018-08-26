@@ -1,10 +1,10 @@
 {
     "Active": true,
-    "Changenote": "Version 0.1",
+    "Changenote": "Version 0.1.1",
     "DatabaseFile": "json/database.json",
     "Description": "Translation",
     "Folder": "D:/Gdrive/0Win/Documents/My Games/Ingnomia/mods//ingnomia-rus",
     "Preview": "D:/Gdrive/0Win/Documents/My Games/Ingnomia/mods//ingnomia-rus/preview.png",
     "PublishedFileId": "1492918304",
-    "Title": "Russian Translation"
+    "Title": "[0.1] Russian Translation"
 }
